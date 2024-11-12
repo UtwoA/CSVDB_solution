@@ -2,6 +2,9 @@ import csv
 
 COMMISSION_RATE = 0.97
 
+def format_with_thousands_separator(value):
+    return f"{int(value):,}".replace(",", ".")
+
 def add_item_to_csv(filename, item_data):
     fieldnames = ['item_name', 'modifier', 'buy_price', 'sell_price', 'sell_commission', 'comment']
     try:
@@ -12,18 +15,41 @@ def add_item_to_csv(filename, item_data):
                 writer.writeheader()
             writer.writerow(item_data)
     except FileNotFoundError:
-        try:
-            with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
-                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                writer.writeheader()
-                writer.writerow(item_data)
-        except Exception as e:
-            print(f"Ошибка при создании файла: {e}")
-            return
-    except Exception as e:
-        print(f"Ошибка при добавлении данных: {e}")
-        return
+        with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerow(item_data)
     print("Данные успешно добавлены в CSV-файл.")
+
+def search_item_in_csv(filename, keywords=None):
+    results = []
+    try:
+        with open(filename, 'r', encoding='utf-8', newline='') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                item_full_name = f"{row['item_name']} {row['modifier']}".lower()
+                if keywords is None or all(keyword.lower() in item_full_name for keyword in keywords):
+                    results.append(row)
+        if results:
+            print(f"Найдено {len(results)} совпадающих товаров:")
+            for i, result in enumerate(results, 1):
+                print(f"\nТовар {i}:")
+                print(f"  Название: {result['item_name']}")
+                print(f"  Модификатор: {result['modifier']}")
+                print(f"  Цена покупки: {format_with_thousands_separator(float(result['buy_price']))} VC$")
+                print(f"  Цена продажи: {format_with_thousands_separator(float(result['sell_price']))} VC$")
+                print(f"  Комиссия при продаже: {format_with_thousands_separator(float(result['sell_commission']))} VC$")
+                print(f"  Комментарий: {result['comment']}")
+            return results
+        else:
+            print("Совпадающие товары не найдены.")
+            return []
+    except FileNotFoundError:
+        print(f"Файл {filename} не найден.")
+    except Exception as e:
+        print(f"Ошибка при поиске товара: {e}")
+    return []
+
 
 def delete_item_from_csv(filename, keywords):
     try:
@@ -41,9 +67,9 @@ def delete_item_from_csv(filename, keywords):
         print("\nВыбранный товар для удаления:")
         print(f"  Название: {selected_item['item_name']}")
         print(f"  Модификатор: {selected_item['modifier']}")
-        print(f"  Цена покупки: {selected_item['buy_price']} VC$")
-        print(f"  Цена продажи: {selected_item['sell_price']} VC$")
-        print(f"  Комиссия при продаже: {int(float(selected_item['sell_commission']))} VC$")
+        print(f"  Цена покупки: {format_with_thousands_separator(selected_item['buy_price'])} VC$")
+        print(f"  Цена продажи: {format_with_thousands_separator(selected_item['sell_price'])} VC$")
+        print(f"  Комиссия при продаже: {format_with_thousands_separator(selected_item['sell_commission'])} VC$")
         print(f"  Комментарий: {selected_item['comment']}")
         confirmation = input("Вы уверены, что хотите удалить этот товар? (y/n): ").lower()
         if confirmation != 'y':
@@ -64,35 +90,6 @@ def delete_item_from_csv(filename, keywords):
     except Exception as e:
         print(f"Ошибка при удалении товара: {e}")
 
-def search_item_in_csv(filename, keywords=None):
-    results = []
-    try:
-        with open(filename, 'r', encoding='utf-8', newline='') as csvfile:
-            reader = csv.DictReader(csvfile)
-            for row in reader:
-                item_full_name = f"{row['item_name']} {row['modifier']}".lower()
-                if keywords is None or all(keyword.lower() in item_full_name for keyword in keywords):
-                    results.append(row)
-        if results:
-            print(f"Найдено {len(results)} совпадающих товаров:")
-            for i, result in enumerate(results, 1):
-                print(f"\nТовар {i}:")
-                print(f"  Название: {result['item_name']}")
-                print(f"  Модификатор: {result['modifier']}")
-                print(f"  Цена покупки: {result['buy_price']} VC$")
-                print(f"  Цена продажи: {result['sell_price']} VC$")
-                print(f"  Комиссия при продаже: {int(float(result['sell_commission']))} VC$")
-                print(f"  Комментарий: {result['comment']}")
-            return results
-        else:
-            print("Совпадающие товары не найдены.")
-            return []
-    except FileNotFoundError:
-        print(f"Файл {filename} не найден.")
-    except Exception as e:
-        print(f"Ошибка при поиске товара: {e}")
-    return []
-
 def edit_item_in_csv(filename, keywords):
     try:
         results = search_item_in_csv(filename, keywords)
@@ -109,9 +106,9 @@ def edit_item_in_csv(filename, keywords):
         print("\nВыбранный товар для редактирования:")
         print(f"  Название: {selected_item['item_name']}")
         print(f"  Модификатор: {selected_item['modifier']}")
-        print(f"  Цена покупки: {selected_item['buy_price']} VC$")
-        print(f"  Цена продажи: {selected_item['sell_price']} VC$")
-        print(f"  Комиссия при продаже: {int(float(selected_item['sell_commission']))} VC$")
+        print(f"  Цена покупки: {format_with_thousands_separator(float(selected_item['buy_price']))} VC$")
+        print(f"  Цена продажи: {format_with_thousands_separator(float(selected_item['sell_price']))} VC$")
+        print(f"  Комиссия при продаже: {format_with_thousands_separator(float(selected_item['sell_commission']))} VC$")
         print(f"  Комментарий: {selected_item['comment']}")
         confirmation = input("Вы уверены, что хотите редактировать этот товар? (y/n): ").lower()
         if confirmation != 'y':
@@ -140,6 +137,9 @@ def edit_item_in_csv(filename, keywords):
         print(f"Файл {filename} не найден.")
     except Exception as e:
         print(f"Ошибка при редактировании товара: {e}")
+
+# Остальная часть main() остаётся прежней...
+
 
 
 def main():
