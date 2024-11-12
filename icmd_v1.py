@@ -67,9 +67,9 @@ def delete_item_from_csv(filename, keywords):
         print("\nВыбранный товар для удаления:")
         print(f"  Название: {selected_item['item_name']}")
         print(f"  Модификатор: {selected_item['modifier']}")
-        print(f"  Цена покупки: {format_with_thousands_separator(selected_item['buy_price'])} VC$")
-        print(f"  Цена продажи: {format_with_thousands_separator(selected_item['sell_price'])} VC$")
-        print(f"  Комиссия при продаже: {format_with_thousands_separator(selected_item['sell_commission'])} VC$")
+        print(f"  Цена покупки: {format_with_thousands_separator(float(selected_item['buy_price']))} VC$")
+        print(f"  Цена продажи: {format_with_thousands_separator(float(selected_item['sell_price']))} VC$")
+        print(f"  Комиссия при продаже: {format_with_thousands_separator(float(selected_item['sell_commission']))} VC$")
         print(f"  Комментарий: {selected_item['comment']}")
         confirmation = input("Вы уверены, что хотите удалить этот товар? (y/n): ").lower()
         if confirmation != 'y':
