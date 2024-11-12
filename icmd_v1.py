@@ -2,8 +2,14 @@ import csv
 
 COMMISSION_RATE = 0.97
 
+
 def format_with_thousands_separator(value):
     return f"{int(value):,}".replace(",", ".")
+
+
+def calculate_net_profit(buy_price, sell_price, commission_rate):
+    return sell_price * commission_rate - buy_price
+
 
 def add_item_to_csv(filename, item_data):
     fieldnames = ['item_name', 'modifier', 'buy_price', 'sell_price', 'sell_commission', 'comment']
@@ -21,6 +27,7 @@ def add_item_to_csv(filename, item_data):
             writer.writerow(item_data)
     print("Данные успешно добавлены в CSV-файл.")
 
+
 def search_item_in_csv(filename, keywords=None):
     results = []
     try:
@@ -33,12 +40,22 @@ def search_item_in_csv(filename, keywords=None):
         if results:
             print(f"Найдено {len(results)} совпадающих товаров:")
             for i, result in enumerate(results, 1):
+                buy_price = float(result['buy_price'])
+                sell_price = float(result['sell_price'])
+                sell_commission = float(result['sell_commission'])
+                net_profit = calculate_net_profit(buy_price, sell_price, COMMISSION_RATE)
+
                 print(f"\nТовар {i}:")
                 print(f"  Название: {result['item_name']}")
                 print(f"  Модификатор: {result['modifier']}")
-                print(f"  Цена покупки: {format_with_thousands_separator(float(result['buy_price']))} VC$")
-                print(f"  Цена продажи: {format_with_thousands_separator(float(result['sell_price']))} VC$")
-                print(f"  Комиссия при продаже: {format_with_thousands_separator(float(result['sell_commission']))} VC$")
+                print("-" * 55)
+                #print(f"  \u001b[38;5;255mЦена покупки: {format_with_thousands_separator(buy_price)} VC$\u001b[38;5;15m")
+                #print(f"  \u001b[38;5;183mЦена продажи: {format_with_thousands_separator(sell_price)} VC$\u001b[38;5;15m")
+                print(f"  \u001b[38;5;46mЦена покупки: {format_with_thousands_separator(buy_price)} VC$\u001b[38;5;15m")
+                print(f"  \u001b[38;5;196mЦена продажи: {format_with_thousands_separator(sell_price)} VC$\u001b[38;5;15m")
+                print("-" * 55)
+                print(f"  \u001b[38;5;183mЦена продажи с учетом комиссии: {format_with_thousands_separator(sell_commission)} VC$\u001b[38;5;15m")
+                print(f"  \u001b[38;5;215mЧистая прибыль: {format_with_thousands_separator(net_profit)} VC$\u001b[38;5;15m")
                 print(f"  Комментарий: {result['comment']}")
             return results
         else:
@@ -69,7 +86,7 @@ def delete_item_from_csv(filename, keywords):
         print(f"  Модификатор: {selected_item['modifier']}")
         print(f"  Цена покупки: {format_with_thousands_separator(float(selected_item['buy_price']))} VC$")
         print(f"  Цена продажи: {format_with_thousands_separator(float(selected_item['sell_price']))} VC$")
-        print(f"  Комиссия при продаже: {format_with_thousands_separator(float(selected_item['sell_commission']))} VC$")
+        print(f"  Цена продажи с учетом комиссии: {format_with_thousands_separator(float(selected_item['sell_commission']))} VC$")
         print(f"  Комментарий: {selected_item['comment']}")
         confirmation = input("Вы уверены, что хотите удалить этот товар? (y/n): ").lower()
         if confirmation != 'y':
@@ -108,7 +125,7 @@ def edit_item_in_csv(filename, keywords):
         print(f"  Модификатор: {selected_item['modifier']}")
         print(f"  Цена покупки: {format_with_thousands_separator(float(selected_item['buy_price']))} VC$")
         print(f"  Цена продажи: {format_with_thousands_separator(float(selected_item['sell_price']))} VC$")
-        print(f"  Комиссия при продаже: {format_with_thousands_separator(float(selected_item['sell_commission']))} VC$")
+        print(f"  Цена продажи с учетом комиссии: {format_with_thousands_separator(float(selected_item['sell_commission']))} VC$")
         print(f"  Комментарий: {selected_item['comment']}")
         confirmation = input("Вы уверены, что хотите редактировать этот товар? (y/n): ").lower()
         if confirmation != 'y':

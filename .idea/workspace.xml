@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23fe5773-5add-43fa-9931-23b118ff9d7e" name="Changes" comment="upd formatting func to format_with_thousands_separator">
+    <list default="true" id="23fe5773-5add-43fa-9931-23b118ff9d7e" name="Changes" comment="delete_item_from_csv upd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/icmd_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/icmd_v1.py" afterDir="false" />
     </list>
@@ -82,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731387603244</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete_item_from_csv upd">
+      <option name="closed" value="true" />
+      <created>1731388149008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731388149008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upd formatting func to format_with_thousands_separator" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd formatting func to format_with_thousands_separator" />
+    <MESSAGE value="delete_item_from_csv upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete_item_from_csv upd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
