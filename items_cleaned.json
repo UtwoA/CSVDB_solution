@@ -4,6 +4,7 @@
         "modifier": "сток",
         "buy_price": "4000000",
         "sell_price": "5000000",
+        "comment": "",
         "item_id": 1
     },
     {
@@ -11,6 +12,7 @@
         "modifier": "+12",
         "buy_price": "4500000",
         "sell_price": "5500000",
+        "comment": "",
         "item_id": 2
     },
     {
@@ -18,6 +20,7 @@
         "modifier": "+15",
         "buy_price": "5500000",
         "sell_price": "6500000",
+        "comment": "",
         "item_id": 3
     },
     {
@@ -25,6 +28,7 @@
         "modifier": "+16",
         "buy_price": "6000000",
         "sell_price": "7500000",
+        "comment": "",
         "item_id": 4
     },
     {
@@ -32,6 +36,7 @@
         "modifier": "сток",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 5
     },
     {
@@ -39,6 +44,7 @@
         "modifier": "+12",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 6
     },
     {
@@ -46,6 +52,7 @@
         "modifier": "+15",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 7
     },
     {
@@ -53,6 +60,7 @@
         "modifier": "+16",
         "buy_price": "8500000",
         "sell_price": "10000000",
+        "comment": "",
         "item_id": 8
     },
     {
@@ -68,6 +76,7 @@
         "modifier": "сток",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 10
     },
     {
@@ -75,6 +84,7 @@
         "modifier": "+12",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 11
     },
     {
@@ -82,6 +92,7 @@
         "modifier": "+15",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 12
     },
     {
@@ -89,6 +100,7 @@
         "modifier": "+16",
         "buy_price": "8500000",
         "sell_price": "10000000",
+        "comment": "",
         "item_id": 13
     },
     {
@@ -96,6 +108,7 @@
         "modifier": "сток",
         "buy_price": "8000000",
         "sell_price": "9000000",
+        "comment": "",
         "item_id": 14
     },
     {
@@ -103,6 +116,7 @@
         "modifier": "+12",
         "buy_price": "8500000",
         "sell_price": "9500000",
+        "comment": "",
         "item_id": 15
     },
     {
@@ -110,6 +124,7 @@
         "modifier": "+15",
         "buy_price": "9500000",
         "sell_price": "10500000",
+        "comment": "",
         "item_id": 16
     },
     {
@@ -117,6 +132,7 @@
         "modifier": "+16",
         "buy_price": "11000000",
         "sell_price": "12500000",
+        "comment": "",
         "item_id": 17
     },
     {
@@ -156,6 +172,7 @@
         "modifier": "сток",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 22
     },
     {
@@ -163,6 +180,7 @@
         "modifier": "+12",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 23
     },
     {
@@ -170,6 +188,7 @@
         "modifier": "+15",
         "buy_price": "8500000",
         "sell_price": "9500000",
+        "comment": "",
         "item_id": 24
     },
     {
@@ -177,6 +196,7 @@
         "modifier": "+16",
         "buy_price": "10000000",
         "sell_price": "11500000",
+        "comment": "",
         "item_id": 25
     },
     {
@@ -184,6 +204,7 @@
         "modifier": "сток",
         "buy_price": "12500000",
         "sell_price": "14000000",
+        "comment": "",
         "item_id": 26
     },
     {
@@ -191,6 +212,7 @@
         "modifier": "+12",
         "buy_price": "13000000",
         "sell_price": "14500000",
+        "comment": "",
         "item_id": 27
     },
     {
@@ -198,6 +220,7 @@
         "modifier": "+15",
         "buy_price": "14000000",
         "sell_price": "15500000",
+        "comment": "",
         "item_id": 28
     },
     {
@@ -205,6 +228,7 @@
         "modifier": "+16",
         "buy_price": "15500000",
         "sell_price": "17000000",
+        "comment": "",
         "item_id": 29
     },
     {
@@ -212,6 +236,7 @@
         "modifier": "сток",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 30
     },
     {
@@ -219,6 +244,7 @@
         "modifier": "+12",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 31
     },
     {
@@ -226,6 +252,7 @@
         "modifier": "+15",
         "buy_price": "8500000",
         "sell_price": "9500000",
+        "comment": "",
         "item_id": 32
     },
     {
@@ -233,6 +260,7 @@
         "modifier": "+16",
         "buy_price": "9500000",
         "sell_price": "11000000",
+        "comment": "",
         "item_id": 33
     },
     {
@@ -240,6 +268,7 @@
         "modifier": "сток",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 34
     },
     {
@@ -247,6 +276,7 @@
         "modifier": "+12",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 35
     },
     {
@@ -254,6 +284,7 @@
         "modifier": "+15",
         "buy_price": "8500000",
         "sell_price": "9500000",
+        "comment": "",
         "item_id": 36
     },
     {
@@ -261,6 +292,7 @@
         "modifier": "+16",
         "buy_price": "10500000",
         "sell_price": "12000000",
+        "comment": "",
         "item_id": 37
     },
     {
@@ -268,6 +300,7 @@
         "modifier": "сток",
         "buy_price": "6500000",
         "sell_price": "7500000",
+        "comment": "",
         "item_id": 38
     },
     {
@@ -275,6 +308,7 @@
         "modifier": "+12",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 39
     },
     {
@@ -282,6 +316,7 @@
         "modifier": "+15",
         "buy_price": "8000000",
         "sell_price": "9000000",
+        "comment": "",
         "item_id": 40
     },
     {
@@ -289,6 +324,7 @@
         "modifier": "+16",
         "buy_price": "10000000",
         "sell_price": "11500000",
+        "comment": "",
         "item_id": 41
     },
     {
@@ -328,6 +364,7 @@
         "modifier": "сток",
         "buy_price": "62000000",
         "sell_price": "70000000",
+        "comment": "",
         "item_id": 46
     },
     {
@@ -335,6 +372,7 @@
         "modifier": "+12",
         "buy_price": "63000000",
         "sell_price": "71000000",
+        "comment": "",
         "item_id": 47
     },
     {
@@ -342,6 +380,7 @@
         "modifier": "+15",
         "buy_price": "65000000",
         "sell_price": "75000000",
+        "comment": "",
         "item_id": 48
     },
     {
@@ -349,6 +388,7 @@
         "modifier": "+16",
         "buy_price": "68000000",
         "sell_price": "78000000",
+        "comment": "",
         "item_id": 49
     },
     {
@@ -388,6 +428,7 @@
         "modifier": "сток",
         "buy_price": "4500000",
         "sell_price": "5500000",
+        "comment": "",
         "item_id": 54
     },
     {
@@ -395,6 +436,7 @@
         "modifier": "+12",
         "buy_price": "5000000",
         "sell_price": "6000000",
+        "comment": "",
         "item_id": 55
     },
     {
@@ -402,6 +444,7 @@
         "modifier": "+15",
         "buy_price": "6000000",
         "sell_price": "7000000",
+        "comment": "",
         "item_id": 56
     },
     {
@@ -409,6 +452,7 @@
         "modifier": "+16",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 57
     },
     {
@@ -416,6 +460,7 @@
         "modifier": "сток",
         "buy_price": "4000000",
         "sell_price": "5000000",
+        "comment": "",
         "item_id": 58
     },
     {
@@ -423,6 +468,7 @@
         "modifier": "+12",
         "buy_price": "4500000",
         "sell_price": "5500000",
+        "comment": "",
         "item_id": 59
     },
     {
@@ -430,6 +476,7 @@
         "modifier": "+15",
         "buy_price": "5500000",
         "sell_price": "6500000",
+        "comment": "",
         "item_id": 60
     },
     {
@@ -437,6 +484,7 @@
         "modifier": "+16",
         "buy_price": "7000000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 61
     },
     {
@@ -476,6 +524,7 @@
         "modifier": "сток",
         "buy_price": "6500000",
         "sell_price": "7500000",
+        "comment": "",
         "item_id": 66
     },
     {
@@ -483,6 +532,7 @@
         "modifier": "+12",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 67
     },
     {
@@ -490,6 +540,7 @@
         "modifier": "+15",
         "buy_price": "8000000",
         "sell_price": "9000000",
+        "comment": "",
         "item_id": 68
     },
     {
@@ -497,6 +548,7 @@
         "modifier": "+16",
         "buy_price": "9500000",
         "sell_price": "11000000",
+        "comment": "",
         "item_id": 69
     },
     {
@@ -568,6 +620,7 @@
         "modifier": "сток",
         "buy_price": "28000000",
         "sell_price": "31000000",
+        "comment": "",
         "item_id": 78
     },
     {
@@ -575,6 +628,7 @@
         "modifier": "+12",
         "buy_price": "28500000",
         "sell_price": "31500000",
+        "comment": "",
         "item_id": 79
     },
     {
@@ -582,6 +636,7 @@
         "modifier": "+15",
         "buy_price": "29500000",
         "sell_price": "33500000",
+        "comment": "",
         "item_id": 80
     },
     {
@@ -589,6 +644,7 @@
         "modifier": "+16",
         "buy_price": "32000000",
         "sell_price": "35000000",
+        "comment": "",
         "item_id": 81
     },
     {
@@ -596,6 +652,7 @@
         "modifier": "сток",
         "buy_price": "35000000",
         "sell_price": "40000000",
+        "comment": "",
         "item_id": 82
     },
     {
@@ -603,6 +660,7 @@
         "modifier": "+12",
         "buy_price": "35000000",
         "sell_price": "40000000",
+        "comment": "",
         "item_id": 83
     },
     {
@@ -610,6 +668,7 @@
         "modifier": "+15",
         "buy_price": "36000000",
         "sell_price": "41000000",
+        "comment": "",
         "item_id": 84
     },
     {
@@ -617,6 +676,7 @@
         "modifier": "+16",
         "buy_price": "38000000",
         "sell_price": "43000000",
+        "comment": "",
         "item_id": 85
     },
     {
@@ -656,6 +716,7 @@
         "modifier": "сток",
         "buy_price": "7000000",
         "sell_price": "8000000",
+        "comment": "",
         "item_id": 90
     },
     {
@@ -663,6 +724,7 @@
         "modifier": "+12",
         "buy_price": "7500000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 91
     },
     {
@@ -670,6 +732,7 @@
         "modifier": "+15",
         "buy_price": "8500000",
         "sell_price": "9500000",
+        "comment": "",
         "item_id": 92
     },
     {
@@ -677,6 +740,7 @@
         "modifier": "+16",
         "buy_price": "9500000",
         "sell_price": "11000000",
+        "comment": "",
         "item_id": 93
     },
     {
@@ -684,6 +748,7 @@
         "modifier": "сток",
         "buy_price": "9000000",
         "sell_price": "10000000",
+        "comment": "",
         "item_id": 94
     },
     {
@@ -691,6 +756,7 @@
         "modifier": "+12",
         "buy_price": "9500000",
         "sell_price": "10500000",
+        "comment": "",
         "item_id": 95
     },
     {
@@ -698,6 +764,7 @@
         "modifier": "+15",
         "buy_price": "10500000",
         "sell_price": "12000000",
+        "comment": "",
         "item_id": 96
     },
     {
@@ -705,6 +772,7 @@
         "modifier": "+16",
         "buy_price": "11500000",
         "sell_price": "13000000",
+        "comment": "",
         "item_id": 97
     },
     {
@@ -840,6 +908,7 @@
         "modifier": "сток",
         "buy_price": "3000000",
         "sell_price": "4000000",
+        "comment": "",
         "item_id": 114
     },
     {
@@ -847,6 +916,7 @@
         "modifier": "+12",
         "buy_price": "3500000",
         "sell_price": "4500000",
+        "comment": "",
         "item_id": 115
     },
     {
@@ -854,6 +924,7 @@
         "modifier": "+15",
         "buy_price": "4500000",
         "sell_price": "5500000",
+        "comment": "",
         "item_id": 116
     },
     {
@@ -861,6 +932,7 @@
         "modifier": "+16",
         "buy_price": "5500000",
         "sell_price": "6500000",
+        "comment": "",
         "item_id": 117
     },
     {
@@ -932,6 +1004,7 @@
         "modifier": "сток",
         "buy_price": "24000000",
         "sell_price": "27000000",
+        "comment": "",
         "item_id": 126
     },
     {
@@ -939,6 +1012,7 @@
         "modifier": "+12",
         "buy_price": "24000000",
         "sell_price": "27000000",
+        "comment": "",
         "item_id": 127
     },
     {
@@ -946,6 +1020,7 @@
         "modifier": "+15",
         "buy_price": "25000000",
         "sell_price": "28000000",
+        "comment": "",
         "item_id": 128
     },
     {
@@ -953,6 +1028,7 @@
         "modifier": "+16",
         "buy_price": "27000000",
         "sell_price": "30000000",
+        "comment": "",
         "item_id": 129
     },
     {
@@ -960,6 +1036,7 @@
         "modifier": "сток",
         "buy_price": "5000000",
         "sell_price": "6000000",
+        "comment": "",
         "item_id": 130
     },
     {
@@ -967,6 +1044,7 @@
         "modifier": "+12",
         "buy_price": "5000000",
         "sell_price": "6000000",
+        "comment": "",
         "item_id": 131
     },
     {
@@ -974,6 +1052,7 @@
         "modifier": "+15",
         "buy_price": "6000000",
         "sell_price": "7000000",
+        "comment": "",
         "item_id": 132
     },
     {
@@ -981,6 +1060,7 @@
         "modifier": "+16",
         "buy_price": "7000000",
         "sell_price": "8500000",
+        "comment": "",
         "item_id": 133
     },
     {
@@ -988,6 +1068,7 @@
         "modifier": "сток",
         "buy_price": "1800000",
         "sell_price": "2500000",
+        "comment": "",
         "item_id": 134
     },
     {
@@ -995,6 +1076,7 @@
         "modifier": "+12",
         "buy_price": "2300000",
         "sell_price": "3000000",
+        "comment": "",
         "item_id": 135
     },
     {
@@ -1002,6 +1084,7 @@
         "modifier": "+15",
         "buy_price": "3000000",
         "sell_price": "4000000",
+        "comment": "",
         "item_id": 136
     },
     {
@@ -1009,6 +1092,7 @@
         "modifier": "+16",
         "buy_price": "4500000",
         "sell_price": "6000000",
+        "comment": "",
         "item_id": 137
     },
     {
@@ -1016,6 +1100,7 @@
         "modifier": "сток",
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 138
     },
     {
@@ -1023,6 +1108,7 @@
         "modifier": "+12",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 139
     },
     {
@@ -1030,6 +1116,7 @@
         "modifier": "+15",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 140
     },
     {
@@ -1037,6 +1124,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 141
     },
     {
@@ -1044,6 +1132,7 @@
         "modifier": "сток",
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 142
     },
     {
@@ -1051,6 +1140,7 @@
         "modifier": "+12",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 143
     },
     {
@@ -1058,6 +1148,7 @@
         "modifier": "+15",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 144
     },
     {
@@ -1065,6 +1156,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 145
     },
     {
@@ -1072,6 +1164,7 @@
         "modifier": "сток",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 146
     },
     {
@@ -1079,6 +1172,7 @@
         "modifier": "+12",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 147
     },
     {
@@ -1086,6 +1180,7 @@
         "modifier": "+15",
         "buy_price": 8000000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 148
     },
     {
@@ -1093,6 +1188,7 @@
         "modifier": "+16",
         "buy_price": 9500000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 149
     },
     {
@@ -1324,6 +1420,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 35000000,
         "sell_price": 40000000,
+        "comment": "",
         "item_id": 178
     },
     {
@@ -1331,6 +1428,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 179
     },
     {
@@ -1338,6 +1436,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 180
     },
     {
@@ -1345,6 +1444,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 181
     },
     {
@@ -1352,6 +1452,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 182
     },
     {
@@ -1359,6 +1460,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 183
     },
     {
@@ -1366,6 +1468,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 184
     },
     {
@@ -1373,6 +1476,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 8000000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 185
     },
     {
@@ -1380,6 +1484,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 9000000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 186
     },
     {
@@ -1387,6 +1492,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 8000000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 187
     },
     {
@@ -1394,6 +1500,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 9000000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 188
     },
     {
@@ -1401,6 +1508,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 45000000,
         "sell_price": 50000000,
+        "comment": "",
         "item_id": 189
     },
     {
@@ -1408,6 +1516,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 34000000,
         "sell_price": 38000000,
+        "comment": "",
         "item_id": 190
     },
     {
@@ -1415,6 +1524,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 34000000,
         "sell_price": 38000000,
+        "comment": "",
         "item_id": 191
     },
     {
@@ -1422,6 +1532,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 34000000,
         "sell_price": 38000000,
+        "comment": "",
         "item_id": 192
     },
     {
@@ -1429,6 +1540,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 15000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 193
     },
     {
@@ -1436,6 +1548,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 15000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 194
     },
     {
@@ -1443,6 +1556,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 15000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 195
     },
     {
@@ -1450,6 +1564,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 25000000,
         "sell_price": 29000000,
+        "comment": "",
         "item_id": 196
     },
     {
@@ -1457,6 +1572,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 17000000,
         "sell_price": 20000000,
+        "comment": "",
         "item_id": 197
     },
     {
@@ -1464,6 +1580,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 40000000,
         "sell_price": 44000000,
+        "comment": "",
         "item_id": 198
     },
     {
@@ -1471,6 +1588,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 16000000,
         "sell_price": 18000000,
+        "comment": "",
         "item_id": 199
     },
     {
@@ -1478,6 +1596,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 18000000,
         "sell_price": 20000000,
+        "comment": "",
         "item_id": 200
     },
     {
@@ -1533,6 +1652,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 207
     },
     {
@@ -1540,6 +1660,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 208
     },
     {
@@ -1547,6 +1668,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 7000000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 209
     },
     {
@@ -1554,6 +1676,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 9000000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 210
     },
     {
@@ -1561,6 +1684,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 211
     },
     {
@@ -1568,6 +1692,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 8000000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 212
     },
     {
@@ -1575,6 +1700,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 213
     },
     {
@@ -1582,6 +1708,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 214
     },
     {
@@ -1589,6 +1716,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 215
     },
     {
@@ -1596,6 +1724,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 216
     },
     {
@@ -1603,6 +1732,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 18500000,
         "sell_price": 21000000,
+        "comment": "",
         "item_id": 217
     },
     {
@@ -1610,6 +1740,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 218
     },
     {
@@ -1617,6 +1748,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 219
     },
     {
@@ -1624,6 +1756,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 220
     },
     {
@@ -1631,6 +1764,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 221
     },
     {
@@ -1638,6 +1772,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 222
     },
     {
@@ -1645,6 +1780,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 8000000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 223
     },
     {
@@ -1652,6 +1788,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 224
     },
     {
@@ -1659,6 +1796,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 225
     },
     {
@@ -1666,6 +1804,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 226
     },
     {
@@ -1673,6 +1812,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 8000000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 227
     },
     {
@@ -1680,6 +1820,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 228
     },
     {
@@ -1687,6 +1828,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 229
     },
     {
@@ -1694,6 +1836,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 230
     },
     {
@@ -1749,6 +1892,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 33000000,
         "sell_price": 36000000,
+        "comment": "",
         "item_id": 237
     },
     {
@@ -1756,6 +1900,7 @@
         "modifier": "+15 Перенос",
         "buy_price": 14000000,
         "sell_price": 16000000,
+        "comment": "",
         "item_id": 238
     },
     {
@@ -1763,6 +1908,7 @@
         "modifier": "+16 Перенос",
         "buy_price": 16000000,
         "sell_price": 18000000,
+        "comment": "",
         "item_id": 239
     },
     {
@@ -1770,6 +1916,7 @@
         "modifier": "сток",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 240
     },
     {
@@ -1777,6 +1924,7 @@
         "modifier": "+12",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 241
     },
     {
@@ -1784,6 +1932,7 @@
         "modifier": "+15",
         "buy_price": 7500000,
         "sell_price": 8500000,
+        "comment": "",
         "item_id": 242
     },
     {
@@ -1791,6 +1940,7 @@
         "modifier": "+16",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 243
     },
     {
@@ -1798,6 +1948,7 @@
         "modifier": "сток",
         "buy_price": 1600000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 244
     },
     {
@@ -1805,6 +1956,7 @@
         "modifier": "+12",
         "buy_price": 1800000,
         "sell_price": 2200000,
+        "comment": "",
         "item_id": 245
     },
     {
@@ -1812,6 +1964,7 @@
         "modifier": "сток",
         "buy_price": 4500000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 246
     },
     {
@@ -1819,6 +1972,7 @@
         "modifier": "+12",
         "buy_price": 4700000,
         "sell_price": 5200000,
+        "comment": "",
         "item_id": 247
     },
     {
@@ -1826,6 +1980,7 @@
         "modifier": "сток",
         "buy_price": 1400000,
         "sell_price": 1900000,
+        "comment": "",
         "item_id": 248
     },
     {
@@ -1833,6 +1988,7 @@
         "modifier": "+12",
         "buy_price": 1600000,
         "sell_price": 2100000,
+        "comment": "",
         "item_id": 249
     },
     {
@@ -1840,6 +1996,7 @@
         "modifier": "сток",
         "buy_price": 25000000,
         "sell_price": 28000000,
+        "comment": "",
         "item_id": 250
     },
     {
@@ -1847,6 +2004,7 @@
         "modifier": "+12",
         "buy_price": 25000000,
         "sell_price": 28000000,
+        "comment": "",
         "item_id": 251
     },
     {
@@ -1854,6 +2012,7 @@
         "modifier": "+15",
         "buy_price": 26000000,
         "sell_price": 29000000,
+        "comment": "",
         "item_id": 252
     },
     {
@@ -1861,6 +2020,7 @@
         "modifier": "+16",
         "buy_price": 27000000,
         "sell_price": 31000000,
+        "comment": "",
         "item_id": 253
     },
     {
@@ -1868,6 +2028,7 @@
         "modifier": "сток",
         "buy_price": 16000000,
         "sell_price": 18000000,
+        "comment": "",
         "item_id": 254
     },
     {
@@ -1875,6 +2036,7 @@
         "modifier": "+12",
         "buy_price": 16000000,
         "sell_price": 18000000,
+        "comment": "",
         "item_id": 255
     },
     {
@@ -1882,6 +2044,7 @@
         "modifier": "+15",
         "buy_price": 17000000,
         "sell_price": 19000000,
+        "comment": "",
         "item_id": 256
     },
     {
@@ -1889,6 +2052,7 @@
         "modifier": "+16",
         "buy_price": 18000000,
         "sell_price": 21000000,
+        "comment": "",
         "item_id": 257
     },
     {
@@ -1896,6 +2060,7 @@
         "modifier": "сток",
         "buy_price": 230000000,
         "sell_price": 260000000,
+        "comment": "",
         "item_id": 258
     },
     {
@@ -1903,6 +2068,7 @@
         "modifier": "+12",
         "buy_price": 230000000,
         "sell_price": 260000000,
+        "comment": "",
         "item_id": 259
     },
     {
@@ -1910,6 +2076,7 @@
         "modifier": "+15",
         "buy_price": 230000000,
         "sell_price": 262000000,
+        "comment": "",
         "item_id": 260
     },
     {
@@ -1917,6 +2084,7 @@
         "modifier": "+16",
         "buy_price": 230000000,
         "sell_price": 265000000,
+        "comment": "",
         "item_id": 261
     },
     {
@@ -1924,6 +2092,7 @@
         "modifier": "сток",
         "buy_price": 1700000,
         "sell_price": 2200000,
+        "comment": "",
         "item_id": 262
     },
     {
@@ -1931,6 +2100,7 @@
         "modifier": "+12",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 263
     },
     {
@@ -1938,6 +2108,7 @@
         "modifier": "+15",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 264
     },
     {
@@ -1945,6 +2116,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 265
     },
     {
@@ -1952,6 +2124,7 @@
         "modifier": "сток",
         "buy_price": 2500000,
         "sell_price": 3250000,
+        "comment": "",
         "item_id": 266
     },
     {
@@ -1959,6 +2132,7 @@
         "modifier": "+12",
         "buy_price": 3000000,
         "sell_price": 3750000,
+        "comment": "",
         "item_id": 267
     },
     {
@@ -1966,6 +2140,7 @@
         "modifier": "+15",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 268
     },
     {
@@ -1973,6 +2148,7 @@
         "modifier": "+16",
         "buy_price": 4500000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 269
     },
     {
@@ -2012,6 +2188,7 @@
         "modifier": "сток",
         "buy_price": 700000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 274
     },
     {
@@ -2019,6 +2196,7 @@
         "modifier": "+12",
         "buy_price": 900000,
         "sell_price": 1300000,
+        "comment": "",
         "item_id": 275
     },
     {
@@ -2026,6 +2204,7 @@
         "modifier": "+15",
         "buy_price": 1200000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 276
     },
     {
@@ -2033,6 +2212,7 @@
         "modifier": "+16",
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 277
     },
     {
@@ -2040,6 +2220,7 @@
         "modifier": "сток",
         "buy_price": 1300000,
         "sell_price": 1800000,
+        "comment": "",
         "item_id": 278
     },
     {
@@ -2047,6 +2228,7 @@
         "modifier": "+12",
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 279
     },
     {
@@ -2054,6 +2236,7 @@
         "modifier": "+15",
         "buy_price": 2200000,
         "sell_price": 2800000,
+        "comment": "",
         "item_id": 280
     },
     {
@@ -2061,6 +2244,7 @@
         "modifier": "+16",
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 281
     },
     {
@@ -2068,6 +2252,7 @@
         "modifier": "сток",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 282
     },
     {
@@ -2075,6 +2260,7 @@
         "modifier": "+12",
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 283
     },
     {
@@ -2082,6 +2268,7 @@
         "modifier": "+15",
         "buy_price": 4000000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 284
     },
     {
@@ -2089,6 +2276,7 @@
         "modifier": "+16",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 285
     },
     {
@@ -2096,6 +2284,7 @@
         "modifier": "сток",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 286
     },
     {
@@ -2103,6 +2292,7 @@
         "modifier": "+12",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 287
     },
     {
@@ -2110,6 +2300,7 @@
         "modifier": "+15",
         "buy_price": 7500000,
         "sell_price": 8500000,
+        "comment": "",
         "item_id": 288
     },
     {
@@ -2117,6 +2308,7 @@
         "modifier": "+16",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 289
     },
     {
@@ -2124,6 +2316,7 @@
         "modifier": "сток",
         "buy_price": 1700000,
         "sell_price": 2200000,
+        "comment": "",
         "item_id": 290
     },
     {
@@ -2131,6 +2324,7 @@
         "modifier": "+12",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 291
     },
     {
@@ -2138,6 +2332,7 @@
         "modifier": "+15",
         "buy_price": 3000000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 292
     },
     {
@@ -2145,6 +2340,7 @@
         "modifier": "+16",
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 293
     },
     {
@@ -2152,6 +2348,7 @@
         "modifier": "сток",
         "buy_price": 2800000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 294
     },
     {
@@ -2159,6 +2356,7 @@
         "modifier": "+12",
         "buy_price": 3000000,
         "sell_price": 3700000,
+        "comment": "",
         "item_id": 295
     },
     {
@@ -2166,6 +2364,7 @@
         "modifier": "+15",
         "buy_price": 3800000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 296
     },
     {
@@ -2173,6 +2372,7 @@
         "modifier": "+16",
         "buy_price": 5500000,
         "sell_price": 6500000,
+        "comment": "",
         "item_id": 297
     },
     {
@@ -2180,6 +2380,7 @@
         "modifier": "сток",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 298
     },
     {
@@ -2187,6 +2388,7 @@
         "modifier": "+12",
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 299
     },
     {
@@ -2194,6 +2396,7 @@
         "modifier": "+15",
         "buy_price": 7500000,
         "sell_price": 8500000,
+        "comment": "",
         "item_id": 300
     },
     {
@@ -2201,6 +2404,7 @@
         "modifier": "+16",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 301
     },
     {
@@ -2208,6 +2412,7 @@
         "modifier": "сток",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 302
     },
     {
@@ -2215,6 +2420,7 @@
         "modifier": "+12",
         "buy_price": 10500000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 303
     },
     {
@@ -2222,6 +2428,7 @@
         "modifier": "+15",
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 304
     },
     {
@@ -2229,6 +2436,7 @@
         "modifier": "+16",
         "buy_price": 13500000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 305
     },
     {
@@ -2236,6 +2444,7 @@
         "modifier": "сток",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 306
     },
     {
@@ -2243,6 +2452,7 @@
         "modifier": "+12",
         "buy_price": 10500000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 307
     },
     {
@@ -2250,6 +2460,7 @@
         "modifier": "+15",
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 308
     },
     {
@@ -2257,6 +2468,7 @@
         "modifier": "+16",
         "buy_price": 13500000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 309
     },
     {
@@ -2264,6 +2476,7 @@
         "modifier": "сток",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 310
     },
     {
@@ -2271,6 +2484,7 @@
         "modifier": "+12",
         "buy_price": 10500000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 311
     },
     {
@@ -2278,6 +2492,7 @@
         "modifier": "+15",
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 312
     },
     {
@@ -2285,6 +2500,7 @@
         "modifier": "+16",
         "buy_price": 13500000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 313
     },
     {
@@ -2292,6 +2508,7 @@
         "modifier": "сток",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 314
     },
     {
@@ -2299,6 +2516,7 @@
         "modifier": "+12",
         "buy_price": 10500000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 315
     },
     {
@@ -2306,6 +2524,7 @@
         "modifier": "+15",
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 316
     },
     {
@@ -2313,6 +2532,7 @@
         "modifier": "+16",
         "buy_price": 13500000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 317
     },
     {
@@ -2320,6 +2540,7 @@
         "modifier": "сток",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 318
     },
     {
@@ -2327,6 +2548,7 @@
         "modifier": "+12",
         "buy_price": 10500000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 319
     },
     {
@@ -2334,6 +2556,7 @@
         "modifier": "+15",
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 320
     },
     {
@@ -2341,6 +2564,7 @@
         "modifier": "+16",
         "buy_price": 13500000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 321
     },
     {
@@ -2348,6 +2572,7 @@
         "modifier": "сток",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 322
     },
     {
@@ -2355,6 +2580,7 @@
         "modifier": "+12",
         "buy_price": 10500000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 323
     },
     {
@@ -2362,6 +2588,7 @@
         "modifier": "+15",
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 324
     },
     {
@@ -2369,6 +2596,7 @@
         "modifier": "+16",
         "buy_price": 13500000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 325
     },
     {
@@ -2376,6 +2604,7 @@
         "modifier": "сток",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 326
     },
     {
@@ -2383,6 +2612,7 @@
         "modifier": "+12",
         "buy_price": 9000000,
         "sell_price": 10500000,
+        "comment": "",
         "item_id": 327
     },
     {
@@ -2390,6 +2620,7 @@
         "modifier": "+15",
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 328
     },
     {
@@ -2397,6 +2628,7 @@
         "modifier": "+16",
         "buy_price": 12500000,
         "sell_price": 14000000,
+        "comment": "",
         "item_id": 329
     },
     {
@@ -2404,6 +2636,7 @@
         "modifier": "сток",
         "buy_price": 24500000,
         "sell_price": 27000000,
+        "comment": "",
         "item_id": 330
     },
     {
@@ -2411,6 +2644,7 @@
         "modifier": "+12",
         "buy_price": 24500000,
         "sell_price": 27000000,
+        "comment": "",
         "item_id": 331
     },
     {
@@ -2418,6 +2652,7 @@
         "modifier": "+15",
         "buy_price": 26000000,
         "sell_price": 28000000,
+        "comment": "",
         "item_id": 332
     },
     {
@@ -2425,6 +2660,7 @@
         "modifier": "+16",
         "buy_price": 29000000,
         "sell_price": 32500000,
+        "comment": "",
         "item_id": 333
     },
     {
@@ -2432,6 +2668,7 @@
         "modifier": "сток",
         "buy_price": 15500000,
         "sell_price": 17500000,
+        "comment": "",
         "item_id": 334
     },
     {
@@ -2439,6 +2676,7 @@
         "modifier": "сток",
         "buy_price": 2300000,
         "sell_price": 2800000,
+        "comment": "",
         "item_id": 335
     },
     {
@@ -2446,6 +2684,7 @@
         "modifier": "+12",
         "buy_price": 2500000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 336
     },
     {
@@ -2453,6 +2692,7 @@
         "modifier": "+15",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 337
     },
     {
@@ -2460,6 +2700,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 338
     },
     {
@@ -2467,6 +2708,7 @@
         "modifier": "сток",
         "buy_price": 2300000,
         "sell_price": 2700000,
+        "comment": "",
         "item_id": 339
     },
     {
@@ -2474,6 +2716,7 @@
         "modifier": "+12",
         "buy_price": 2500000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 340
     },
     {
@@ -2481,6 +2724,7 @@
         "modifier": "+15",
         "buy_price": 3000000,
         "sell_price": 3600000,
+        "comment": "",
         "item_id": 341
     },
     {
@@ -2488,6 +2732,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 4200000,
+        "comment": "",
         "item_id": 342
     },
     {
@@ -2495,6 +2740,7 @@
         "modifier": "сток",
         "buy_price": 1500000,
         "sell_price": 1900000,
+        "comment": "",
         "item_id": 343
     },
     {
@@ -2502,6 +2748,7 @@
         "modifier": "+12",
         "buy_price": 1700000,
         "sell_price": 2100000,
+        "comment": "",
         "item_id": 344
     },
     {
@@ -2509,6 +2756,7 @@
         "modifier": "+15",
         "buy_price": 2200000,
         "sell_price": 2800000,
+        "comment": "",
         "item_id": 345
     },
     {
@@ -2516,6 +2764,7 @@
         "modifier": "+16",
         "buy_price": 2800000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 346
     },
     {
@@ -2523,6 +2772,7 @@
         "modifier": "сток",
         "buy_price": 4000000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 347
     },
     {
@@ -2530,6 +2780,7 @@
         "modifier": "+12",
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 348
     },
     {
@@ -2537,6 +2788,7 @@
         "modifier": "+15",
         "buy_price": 5500000,
         "sell_price": 6500000,
+        "comment": "",
         "item_id": 349
     },
     {
@@ -2544,6 +2796,7 @@
         "modifier": "+16",
         "buy_price": 7000000,
         "sell_price": 8500000,
+        "comment": "",
         "item_id": 350
     },
     {
@@ -2551,6 +2804,7 @@
         "modifier": "сток",
         "buy_price": 250000,
         "sell_price": 400000,
+        "comment": "",
         "item_id": 351
     },
     {
@@ -2558,6 +2812,7 @@
         "modifier": "+12",
         "buy_price": 350000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 352
     },
     {
@@ -2565,6 +2820,7 @@
         "modifier": "+15",
         "buy_price": 700000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 353
     },
     {
@@ -2572,6 +2828,7 @@
         "modifier": "+16",
         "buy_price": 1300000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 354
     },
     {
@@ -2579,6 +2836,7 @@
         "modifier": "сток",
         "buy_price": 3200000,
         "sell_price": 3800000,
+        "comment": "",
         "item_id": 355
     },
     {
@@ -2586,6 +2844,7 @@
         "modifier": "+12",
         "buy_price": 3400000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 356
     },
     {
@@ -2593,6 +2852,7 @@
         "modifier": "+15",
         "buy_price": 3700000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 357
     },
     {
@@ -2600,6 +2860,7 @@
         "modifier": "+16",
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 358
     },
     {
@@ -2607,6 +2868,7 @@
         "modifier": "сток",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 359
     },
     {
@@ -2614,6 +2876,7 @@
         "modifier": "+12",
         "buy_price": 2200000,
         "sell_price": 2700000,
+        "comment": "",
         "item_id": 360
     },
     {
@@ -2621,6 +2884,7 @@
         "modifier": "+15",
         "buy_price": 2700000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 361
     },
     {
@@ -2628,6 +2892,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 362
     },
     {
@@ -2635,6 +2900,7 @@
         "modifier": "сток",
         "buy_price": 2500000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 363
     },
     {
@@ -2642,6 +2908,7 @@
         "modifier": "+12",
         "buy_price": 2700000,
         "sell_price": 3200000,
+        "comment": "",
         "item_id": 364
     },
     {
@@ -2649,6 +2916,7 @@
         "modifier": "+15",
         "buy_price": 3200000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 365
     },
     {
@@ -2656,6 +2924,7 @@
         "modifier": "+16",
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 366
     },
     {
@@ -2663,6 +2932,7 @@
         "modifier": "сток",
         "buy_price": 600000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 367
     },
     {
@@ -2670,6 +2940,7 @@
         "modifier": "+12",
         "buy_price": 700000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 368
     },
     {
@@ -2677,6 +2948,7 @@
         "modifier": "+15",
         "buy_price": 1200000,
         "sell_price": 1800000,
+        "comment": "",
         "item_id": 369
     },
     {
@@ -2684,6 +2956,7 @@
         "modifier": "+16",
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 370
     },
     {
@@ -2691,6 +2964,7 @@
         "modifier": "сток",
         "buy_price": 600000,
         "sell_price": 850000,
+        "comment": "",
         "item_id": 371
     },
     {
@@ -2698,6 +2972,7 @@
         "modifier": "+12",
         "buy_price": 700000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 372
     },
     {
@@ -2705,6 +2980,7 @@
         "modifier": "+15",
         "buy_price": 1200000,
         "sell_price": 1700000,
+        "comment": "",
         "item_id": 373
     },
     {
@@ -2712,6 +2988,7 @@
         "modifier": "сток",
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 374
     },
     {
@@ -2719,6 +2996,7 @@
         "modifier": "сток",
         "buy_price": 400000,
         "sell_price": 600000,
+        "comment": "",
         "item_id": 375
     },
     {
@@ -2726,6 +3004,7 @@
         "modifier": "+12",
         "buy_price": 600000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 376
     },
     {
@@ -2733,6 +3012,7 @@
         "modifier": "+15",
         "buy_price": 1000000,
         "sell_price": 1400000,
+        "comment": "",
         "item_id": 377
     },
     {
@@ -2740,6 +3020,7 @@
         "modifier": "+16",
         "buy_price": 1500000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 378
     },
     {
@@ -2747,6 +3028,7 @@
         "modifier": "сток",
         "buy_price": 500000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 379
     },
     {
@@ -2754,6 +3036,7 @@
         "modifier": "+12",
         "buy_price": 700000,
         "sell_price": 1300000,
+        "comment": "",
         "item_id": 380
     },
     {
@@ -2761,6 +3044,7 @@
         "modifier": "+15",
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 381
     },
     {
@@ -2768,6 +3052,7 @@
         "modifier": "+16",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 382
     },
     {
@@ -2775,6 +3060,7 @@
         "modifier": "сток",
         "buy_price": 400000,
         "sell_price": 600000,
+        "comment": "",
         "item_id": 383
     },
     {
@@ -2782,6 +3068,7 @@
         "modifier": "+12",
         "buy_price": 550000,
         "sell_price": 750000,
+        "comment": "",
         "item_id": 384
     },
     {
@@ -2789,6 +3076,7 @@
         "modifier": "сток",
         "buy_price": 15000000,
         "sell_price": 16500000,
+        "comment": "",
         "item_id": 385
     },
     {
@@ -2796,6 +3084,7 @@
         "modifier": "сток",
         "buy_price": 4200000,
         "sell_price": 4700000,
+        "comment": "",
         "item_id": 386
     },
     {
@@ -2803,6 +3092,7 @@
         "modifier": "сток",
         "buy_price": 4200000,
         "sell_price": 4700000,
+        "comment": "",
         "item_id": 387
     },
     {
@@ -2810,6 +3100,7 @@
         "modifier": "сток",
         "buy_price": 3500000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 388
     },
     {
@@ -2817,6 +3108,7 @@
         "modifier": "сток",
         "buy_price": 500000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 389
     },
     {
@@ -2824,6 +3116,7 @@
         "modifier": "сток",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 390
     },
     {
@@ -2831,6 +3124,7 @@
         "modifier": "+12",
         "buy_price": 2200000,
         "sell_price": 2700000,
+        "comment": "",
         "item_id": 391
     },
     {
@@ -2838,6 +3132,7 @@
         "modifier": "+15",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 392
     },
     {
@@ -2845,6 +3140,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 393
     },
     {
@@ -2852,6 +3148,7 @@
         "modifier": "сток",
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 394
     },
     {
@@ -2859,6 +3156,7 @@
         "modifier": "+12",
         "buy_price": 2200000,
         "sell_price": 2700000,
+        "comment": "",
         "item_id": 395
     },
     {
@@ -2866,6 +3164,7 @@
         "modifier": "+15",
         "buy_price": 2500000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 396
     },
     {
@@ -2873,6 +3172,7 @@
         "modifier": "+16",
         "buy_price": 3500000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 397
     },
     {
@@ -2880,6 +3180,7 @@
         "modifier": "сток",
         "buy_price": 2500000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 398
     },
     {
@@ -2887,6 +3188,7 @@
         "modifier": "+12",
         "buy_price": 3000000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 399
     },
     {
@@ -2894,6 +3196,7 @@
         "modifier": "+15",
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 400
     },
     {
@@ -2901,6 +3204,7 @@
         "modifier": "+16",
         "buy_price": 4500000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 401
     },
     {
@@ -2908,6 +3212,7 @@
         "modifier": "сток",
         "buy_price": 6000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 402
     },
     {
@@ -2915,6 +3220,7 @@
         "modifier": "сток",
         "buy_price": 6000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 403
     },
     {
@@ -2922,6 +3228,7 @@
         "modifier": "сток",
         "buy_price": 6000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 404
     },
     {
@@ -2929,6 +3236,7 @@
         "modifier": "сток",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 405
     },
     {
@@ -2936,6 +3244,7 @@
         "modifier": "сток",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 406
     },
     {
@@ -2943,6 +3252,7 @@
         "modifier": "сток",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 407
     },
     {
@@ -2950,6 +3260,7 @@
         "modifier": "сток",
         "buy_price": 1100000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 408
     },
     {
@@ -2957,6 +3268,7 @@
         "modifier": "сток",
         "buy_price": 22000000,
         "sell_price": 25000000,
+        "comment": "",
         "item_id": 409
     },
     {
@@ -2964,6 +3276,7 @@
         "modifier": "сток + нашивка",
         "buy_price": 29000000,
         "sell_price": 32000000,
+        "comment": "",
         "item_id": 410
     },
     {
@@ -2971,6 +3284,7 @@
         "modifier": "сток + нашивка",
         "buy_price": 16500000,
         "sell_price": 18000000,
+        "comment": "",
         "item_id": 411
     },
     {
@@ -3410,6 +3724,7 @@
         "modifier": "сток - +6",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 466
     },
     {
@@ -3417,6 +3732,7 @@
         "modifier": "+7",
         "buy_price": 5500000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 467
     },
     {
@@ -3424,6 +3740,7 @@
         "modifier": "+8",
         "buy_price": 6000000,
         "sell_price": 7500000,
+        "comment": "",
         "item_id": 468
     },
     {
@@ -3431,6 +3748,7 @@
         "modifier": "+9",
         "buy_price": 6500000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 469
     },
     {
@@ -3438,6 +3756,7 @@
         "modifier": "+10",
         "buy_price": 7000000,
         "sell_price": 8500000,
+        "comment": "",
         "item_id": 470
     },
     {
@@ -3445,6 +3764,7 @@
         "modifier": "+11",
         "buy_price": 7500000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 471
     },
     {
@@ -3452,6 +3772,7 @@
         "modifier": "+12",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 472
     },
     {
@@ -3459,6 +3780,7 @@
         "modifier": "+13",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 473
     },
     {
@@ -3466,6 +3788,7 @@
         "modifier": "+13 нашивка",
         "buy_price": 14500000,
         "sell_price": 16500000,
+        "comment": "",
         "item_id": 474
     },
     {
@@ -3473,6 +3796,7 @@
         "modifier": "сток - +6",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 475
     },
     {
@@ -3480,6 +3804,7 @@
         "modifier": "+7",
         "buy_price": 5500000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 476
     },
     {
@@ -3487,6 +3812,7 @@
         "modifier": "+8",
         "buy_price": 6000000,
         "sell_price": 7500000,
+        "comment": "",
         "item_id": 477
     },
     {
@@ -3494,6 +3820,7 @@
         "modifier": "+9",
         "buy_price": 6500000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 478
     },
     {
@@ -3501,6 +3828,7 @@
         "modifier": "+10",
         "buy_price": 7000000,
         "sell_price": 8500000,
+        "comment": "",
         "item_id": 479
     },
     {
@@ -3508,6 +3836,7 @@
         "modifier": "+11",
         "buy_price": 7500000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 480
     },
     {
@@ -3515,6 +3844,7 @@
         "modifier": "+12",
         "buy_price": 8500000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 481
     },
     {
@@ -3522,6 +3852,7 @@
         "modifier": "+13",
         "buy_price": 10000000,
         "sell_price": 12000000,
+        "comment": "",
         "item_id": 482
     },
     {
@@ -3529,6 +3860,7 @@
         "modifier": "+13 нашивка",
         "buy_price": 14500000,
         "sell_price": 16500000,
+        "comment": "",
         "item_id": 483
     },
     {
@@ -3896,6 +4228,7 @@
         "modifier": "+12",
         "buy_price": 1800000,
         "sell_price": 2300000,
+        "comment": "",
         "item_id": 529
     },
     {
@@ -3903,6 +4236,7 @@
         "modifier": "сток",
         "buy_price": 900000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 530
     },
     {
@@ -3910,6 +4244,7 @@
         "modifier": "сток",
         "buy_price": 38000000,
         "sell_price": 45000000,
+        "comment": "",
         "item_id": 531
     },
     {
@@ -3917,6 +4252,7 @@
         "modifier": "30 дней",
         "buy_price": 1400000,
         "sell_price": 1800000,
+        "comment": "",
         "item_id": 532
     },
     {
@@ -3924,6 +4260,7 @@
         "modifier": "Forever Навсегда",
         "buy_price": 5500000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 533
     },
     {
@@ -3931,6 +4268,7 @@
         "modifier": null,
         "buy_price": 12000000,
         "sell_price": 14000000,
+        "comment": "",
         "item_id": 534
     },
     {
@@ -3938,6 +4276,7 @@
         "modifier": null,
         "buy_price": 22000000,
         "sell_price": 25000000,
+        "comment": "",
         "item_id": 535
     },
     {
@@ -3945,6 +4284,7 @@
         "modifier": null,
         "buy_price": 2300000,
         "sell_price": 2800000,
+        "comment": "",
         "item_id": 536
     },
     {
@@ -3952,6 +4292,7 @@
         "modifier": null,
         "buy_price": 2300000,
         "sell_price": 2800000,
+        "comment": "",
         "item_id": 537
     },
     {
@@ -3959,6 +4300,7 @@
         "modifier": null,
         "buy_price": 1100,
         "sell_price": 1400,
+        "comment": "",
         "item_id": 538
     },
     {
@@ -3966,6 +4308,7 @@
         "modifier": null,
         "buy_price": 20000000,
         "sell_price": 25000000,
+        "comment": "",
         "item_id": 539
     },
     {
@@ -3973,6 +4316,7 @@
         "modifier": null,
         "buy_price": 250000,
         "sell_price": 350000,
+        "comment": "",
         "item_id": 540
     },
     {
@@ -3980,6 +4324,7 @@
         "modifier": null,
         "buy_price": 4000000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 541
     },
     {
@@ -3987,6 +4332,7 @@
         "modifier": null,
         "buy_price": 3000000,
         "sell_price": 3700000,
+        "comment": "",
         "item_id": 542
     },
     {
@@ -3994,6 +4340,7 @@
         "modifier": null,
         "buy_price": 850000,
         "sell_price": 1200000,
+        "comment": "",
         "item_id": 543
     },
     {
@@ -4001,6 +4348,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 350000,
+        "comment": "",
         "item_id": 544
     },
     {
@@ -4008,6 +4356,7 @@
         "modifier": null,
         "buy_price": 550000,
         "sell_price": 700000,
+        "comment": "",
         "item_id": 545
     },
     {
@@ -4015,6 +4364,7 @@
         "modifier": null,
         "buy_price": 850000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 546
     },
     {
@@ -4022,6 +4372,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 600000,
+        "comment": "",
         "item_id": 547
     },
     {
@@ -4029,6 +4380,7 @@
         "modifier": null,
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 548
     },
     {
@@ -4036,6 +4388,7 @@
         "modifier": null,
         "buy_price": 600000,
         "sell_price": 750000,
+        "comment": "",
         "item_id": 549
     },
     {
@@ -4043,6 +4396,7 @@
         "modifier": null,
         "buy_price": 1100000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 550
     },
     {
@@ -4050,6 +4404,7 @@
         "modifier": null,
         "buy_price": 700000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 551
     },
     {
@@ -4057,6 +4412,7 @@
         "modifier": null,
         "buy_price": 1300000,
         "sell_price": 1700000,
+        "comment": "",
         "item_id": 552
     },
     {
@@ -4064,6 +4420,7 @@
         "modifier": null,
         "buy_price": 1100000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 553
     },
     {
@@ -4071,6 +4428,7 @@
         "modifier": null,
         "buy_price": 3500000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 554
     },
     {
@@ -4078,6 +4436,7 @@
         "modifier": null,
         "buy_price": 250000,
         "sell_price": 400000,
+        "comment": "",
         "item_id": 555
     },
     {
@@ -4085,6 +4444,7 @@
         "modifier": null,
         "buy_price": 9000000,
         "sell_price": 10500000,
+        "comment": "",
         "item_id": 556
     },
     {
@@ -4092,6 +4452,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 350000,
+        "comment": "",
         "item_id": 557
     },
     {
@@ -4099,6 +4460,7 @@
         "modifier": null,
         "buy_price": 12500000,
         "sell_price": 14500000,
+        "comment": "",
         "item_id": 558
     },
     {
@@ -4106,6 +4468,7 @@
         "modifier": null,
         "buy_price": 500000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 559
     },
     {
@@ -4113,6 +4476,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 560
     },
     {
@@ -4120,6 +4484,7 @@
         "modifier": null,
         "buy_price": 17000,
         "sell_price": 25000,
+        "comment": "",
         "item_id": 561
     },
     {
@@ -4127,6 +4492,7 @@
         "modifier": null,
         "buy_price": 150000,
         "sell_price": 200000,
+        "comment": "",
         "item_id": 562
     },
     {
@@ -4134,6 +4500,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 350000,
+        "comment": "",
         "item_id": 563
     },
     {
@@ -4141,6 +4508,7 @@
         "modifier": null,
         "buy_price": 2800000,
         "sell_price": 3300000,
+        "comment": "",
         "item_id": 564
     },
     {
@@ -4148,6 +4516,7 @@
         "modifier": null,
         "buy_price": 350000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 565
     },
     {
@@ -4155,6 +4524,7 @@
         "modifier": null,
         "buy_price": 2000000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 566
     },
     {
@@ -4162,6 +4532,7 @@
         "modifier": null,
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 567
     },
     {
@@ -4169,6 +4540,7 @@
         "modifier": null,
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 568
     },
     {
@@ -4176,6 +4548,7 @@
         "modifier": null,
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 569
     },
     {
@@ -4183,6 +4556,7 @@
         "modifier": null,
         "buy_price": 4000000,
         "sell_price": 5000000,
+        "comment": "",
         "item_id": 570
     },
     {
@@ -4190,6 +4564,7 @@
         "modifier": "1 LVL",
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 571
     },
     {
@@ -4205,6 +4580,7 @@
         "modifier": "3 LVL",
         "buy_price": 15000000,
         "sell_price": 18000000,
+        "comment": "",
         "item_id": 573
     },
     {
@@ -4212,6 +4588,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 500000,
+        "comment": "",
         "item_id": 574
     },
     {
@@ -4219,6 +4596,7 @@
         "modifier": null,
         "buy_price": 11000000,
         "sell_price": 12500000,
+        "comment": "",
         "item_id": 575
     },
     {
@@ -4226,6 +4604,7 @@
         "modifier": null,
         "buy_price": 1800000,
         "sell_price": 2200000,
+        "comment": "",
         "item_id": 576
     },
     {
@@ -4233,6 +4612,7 @@
         "modifier": null,
         "buy_price": 1100000,
         "sell_price": 1600000,
+        "comment": "",
         "item_id": 577
     },
     {
@@ -4240,6 +4620,7 @@
         "modifier": null,
         "buy_price": 500000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 578
     },
     {
@@ -4247,6 +4628,7 @@
         "modifier": null,
         "buy_price": 150000,
         "sell_price": 250000,
+        "comment": "",
         "item_id": 579
     },
     {
@@ -4254,6 +4636,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 300000,
+        "comment": "",
         "item_id": 580
     },
     {
@@ -4261,6 +4644,7 @@
         "modifier": null,
         "buy_price": 250000,
         "sell_price": 450000,
+        "comment": "",
         "item_id": 581
     },
     {
@@ -4268,6 +4652,7 @@
         "modifier": null,
         "buy_price": 2000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 582
     },
     {
@@ -4275,6 +4660,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 583
     },
     {
@@ -4282,6 +4668,7 @@
         "modifier": null,
         "buy_price": 23000000,
         "sell_price": 27000000,
+        "comment": "",
         "item_id": 584
     },
     {
@@ -4289,6 +4676,7 @@
         "modifier": null,
         "buy_price": 23000000,
         "sell_price": 27000000,
+        "comment": "",
         "item_id": 585
     },
     {
@@ -4296,6 +4684,7 @@
         "modifier": null,
         "buy_price": 1200000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 586
     },
     {
@@ -4303,6 +4692,7 @@
         "modifier": "2 LVL",
         "buy_price": 2200000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 587
     },
     {
@@ -4310,6 +4700,7 @@
         "modifier": "3 LVL",
         "buy_price": 8000000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 588
     },
     {
@@ -4317,6 +4708,7 @@
         "modifier": "4 LVL",
         "buy_price": 23000000,
         "sell_price": 30000000,
+        "comment": "",
         "item_id": 589
     },
     {
@@ -4324,6 +4716,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 16000000,
+        "comment": "",
         "item_id": 590
     },
     {
@@ -4331,6 +4724,7 @@
         "modifier": null,
         "buy_price": 5000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 591
     },
     {
@@ -4338,6 +4732,7 @@
         "modifier": null,
         "buy_price": 5000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 592
     },
     {
@@ -4345,6 +4740,7 @@
         "modifier": null,
         "buy_price": 6000000,
         "sell_price": 7500000,
+        "comment": "",
         "item_id": 593
     },
     {
@@ -4352,6 +4748,7 @@
         "modifier": null,
         "buy_price": 3300000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 594
     },
     {
@@ -4359,6 +4756,7 @@
         "modifier": null,
         "buy_price": 3300000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 595
     },
     {
@@ -4366,6 +4764,7 @@
         "modifier": null,
         "buy_price": 3300000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 596
     },
     {
@@ -4373,6 +4772,7 @@
         "modifier": null,
         "buy_price": 650000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 597
     },
     {
@@ -4380,6 +4780,7 @@
         "modifier": null,
         "buy_price": 150000,
         "sell_price": 300000,
+        "comment": "",
         "item_id": 598
     },
     {
@@ -4387,6 +4788,7 @@
         "modifier": null,
         "buy_price": 50000,
         "sell_price": 150000,
+        "comment": "",
         "item_id": 599
     },
     {
@@ -4394,6 +4796,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 400000,
+        "comment": "",
         "item_id": 600
     },
     {
@@ -4401,6 +4804,7 @@
         "modifier": null,
         "buy_price": 4000000,
         "sell_price": 4800000,
+        "comment": "",
         "item_id": 601
     },
     {
@@ -4408,6 +4812,7 @@
         "modifier": null,
         "buy_price": 5500000,
         "sell_price": 6500000,
+        "comment": "",
         "item_id": 602
     },
     {
@@ -4415,6 +4820,7 @@
         "modifier": null,
         "buy_price": 6500000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 603
     },
     {
@@ -4422,6 +4828,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 700000,
+        "comment": "",
         "item_id": 604
     },
     {
@@ -4429,6 +4836,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 605
     },
     {
@@ -4436,6 +4844,7 @@
         "modifier": null,
         "buy_price": 9000000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 606
     },
     {
@@ -4443,6 +4852,7 @@
         "modifier": null,
         "buy_price": 9500000,
         "sell_price": 10500000,
+        "comment": "",
         "item_id": 607
     },
     {
@@ -4450,6 +4860,7 @@
         "modifier": null,
         "buy_price": 8500000,
         "sell_price": 9500000,
+        "comment": "",
         "item_id": 608
     },
     {
@@ -4457,6 +4868,7 @@
         "modifier": null,
         "buy_price": 20000000,
         "sell_price": 23000000,
+        "comment": "",
         "item_id": 609
     },
     {
@@ -4464,6 +4876,7 @@
         "modifier": null,
         "buy_price": 5500000,
         "sell_price": 6500000,
+        "comment": "",
         "item_id": 610
     },
     {
@@ -4471,6 +4884,7 @@
         "modifier": null,
         "buy_price": 7500000,
         "sell_price": 9000000,
+        "comment": "",
         "item_id": 611
     },
     {
@@ -4478,6 +4892,7 @@
         "modifier": null,
         "buy_price": 3500000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 612
     },
     {
@@ -4485,6 +4900,7 @@
         "modifier": null,
         "buy_price": 1300000,
         "sell_price": 1700000,
+        "comment": "",
         "item_id": 613
     },
     {
@@ -4492,6 +4908,7 @@
         "modifier": null,
         "buy_price": 1300000,
         "sell_price": 1700000,
+        "comment": "",
         "item_id": 614
     },
     {
@@ -4499,6 +4916,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 15500000,
+        "comment": "",
         "item_id": 615
     },
     {
@@ -4506,6 +4924,7 @@
         "modifier": null,
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 616
     },
     {
@@ -4513,6 +4932,7 @@
         "modifier": null,
         "buy_price": 8000000,
         "sell_price": 9500000,
+        "comment": "",
         "item_id": 617
     },
     {
@@ -4520,6 +4940,7 @@
         "modifier": null,
         "buy_price": 5500000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 618
     },
     {
@@ -4527,6 +4948,7 @@
         "modifier": null,
         "buy_price": 11000000,
         "sell_price": 13000000,
+        "comment": "",
         "item_id": 619
     },
     {
@@ -4534,6 +4956,7 @@
         "modifier": null,
         "buy_price": 9500000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 620
     },
     {
@@ -4541,6 +4964,7 @@
         "modifier": null,
         "buy_price": 7000000,
         "sell_price": 8000000,
+        "comment": "",
         "item_id": 621
     },
     {
@@ -4548,6 +4972,7 @@
         "modifier": null,
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 622
     },
     {
@@ -4555,6 +4980,7 @@
         "modifier": null,
         "buy_price": 3200000,
         "sell_price": 3800000,
+        "comment": "",
         "item_id": 623
     },
     {
@@ -4562,6 +4988,7 @@
         "modifier": null,
         "buy_price": 600000,
         "sell_price": 750000,
+        "comment": "",
         "item_id": 624
     },
     {
@@ -4569,6 +4996,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 625
     },
     {
@@ -4576,6 +5004,7 @@
         "modifier": null,
         "buy_price": 2700000,
         "sell_price": 3300000,
+        "comment": "",
         "item_id": 626
     },
     {
@@ -4583,6 +5012,7 @@
         "modifier": null,
         "buy_price": 800000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 627
     },
     {
@@ -4590,6 +5020,7 @@
         "modifier": null,
         "buy_price": 2800000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 628
     },
     {
@@ -4597,6 +5028,7 @@
         "modifier": null,
         "buy_price": 2200000,
         "sell_price": 2700000,
+        "comment": "",
         "item_id": 629
     },
     {
@@ -4604,6 +5036,7 @@
         "modifier": null,
         "buy_price": 300000,
         "sell_price": 500000,
+        "comment": "",
         "item_id": 630
     },
     {
@@ -4611,6 +5044,7 @@
         "modifier": null,
         "buy_price": 1500000,
         "sell_price": 2100000,
+        "comment": "",
         "item_id": 631
     },
     {
@@ -4618,6 +5052,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 2700000,
+        "comment": "",
         "item_id": 632
     },
     {
@@ -4625,6 +5060,7 @@
         "modifier": null,
         "buy_price": 2500000,
         "sell_price": 3200000,
+        "comment": "",
         "item_id": 633
     },
     {
@@ -4632,6 +5068,7 @@
         "modifier": null,
         "buy_price": 500000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 634
     },
     {
@@ -4639,6 +5076,7 @@
         "modifier": null,
         "buy_price": 300000,
         "sell_price": 500000,
+        "comment": "",
         "item_id": 635
     },
     {
@@ -4646,6 +5084,7 @@
         "modifier": null,
         "buy_price": 500000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 636
     },
     {
@@ -4653,6 +5092,7 @@
         "modifier": null,
         "buy_price": 250000,
         "sell_price": 400000,
+        "comment": "",
         "item_id": 637
     },
     {
@@ -4660,6 +5100,7 @@
         "modifier": null,
         "buy_price": 18000000,
         "sell_price": 22000000,
+        "comment": "",
         "item_id": 638
     },
     {
@@ -4667,6 +5108,7 @@
         "modifier": null,
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 639
     },
     {
@@ -4674,6 +5116,7 @@
         "modifier": null,
         "buy_price": 3000000,
         "sell_price": 3750000,
+        "comment": "",
         "item_id": 640
     },
     {
@@ -4681,6 +5124,7 @@
         "modifier": null,
         "buy_price": 21000000,
         "sell_price": 25000000,
+        "comment": "",
         "item_id": 641
     },
     {
@@ -4688,6 +5132,7 @@
         "modifier": null,
         "buy_price": 30000000,
         "sell_price": 35000000,
+        "comment": "",
         "item_id": 642
     },
     {
@@ -4695,6 +5140,7 @@
         "modifier": null,
         "buy_price": 18000000,
         "sell_price": 22000000,
+        "comment": "",
         "item_id": 643
     },
     {
@@ -4702,6 +5148,7 @@
         "modifier": null,
         "buy_price": 25000000,
         "sell_price": 30000000,
+        "comment": "",
         "item_id": 644
     },
     {
@@ -4709,6 +5156,7 @@
         "modifier": null,
         "buy_price": 22000000,
         "sell_price": 27000000,
+        "comment": "",
         "item_id": 645
     },
     {
@@ -4716,6 +5164,7 @@
         "modifier": null,
         "buy_price": 13000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 646
     },
     {
@@ -4723,6 +5172,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 647
     },
     {
@@ -4730,6 +5180,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 648
     },
     {
@@ -4737,6 +5188,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 649
     },
     {
@@ -4744,6 +5196,7 @@
         "modifier": null,
         "buy_price": 14000000,
         "sell_price": 17000000,
+        "comment": "",
         "item_id": 650
     },
     {
@@ -4751,6 +5204,7 @@
         "modifier": null,
         "buy_price": 19000000,
         "sell_price": 22000000,
+        "comment": "",
         "item_id": 651
     },
     {
@@ -4758,6 +5212,7 @@
         "modifier": null,
         "buy_price": 19000000,
         "sell_price": 22000000,
+        "comment": "",
         "item_id": 652
     },
     {
@@ -4765,6 +5220,7 @@
         "modifier": null,
         "buy_price": 19000000,
         "sell_price": 22000000,
+        "comment": "",
         "item_id": 653
     },
     {
@@ -4772,6 +5228,7 @@
         "modifier": null,
         "buy_price": 19000000,
         "sell_price": 22000000,
+        "comment": "",
         "item_id": 654
     },
     {
@@ -4779,6 +5236,7 @@
         "modifier": null,
         "buy_price": 4500000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 655
     },
     {
@@ -4786,6 +5244,7 @@
         "modifier": null,
         "buy_price": 1800000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 656
     },
     {
@@ -4793,6 +5252,7 @@
         "modifier": null,
         "buy_price": 1800000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 657
     },
     {
@@ -4800,6 +5260,7 @@
         "modifier": null,
         "buy_price": 4000000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 658
     },
     {
@@ -4807,6 +5268,7 @@
         "modifier": null,
         "buy_price": 1200000,
         "sell_price": 1700000,
+        "comment": "",
         "item_id": 659
     },
     {
@@ -4814,6 +5276,7 @@
         "modifier": null,
         "buy_price": 1200000,
         "sell_price": 1700000,
+        "comment": "",
         "item_id": 660
     },
     {
@@ -4821,6 +5284,7 @@
         "modifier": null,
         "buy_price": 1300000,
         "sell_price": 1800000,
+        "comment": "",
         "item_id": 661
     },
     {
@@ -4828,6 +5292,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 662
     },
     {
@@ -4835,6 +5300,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 663
     },
     {
@@ -4842,6 +5308,7 @@
         "modifier": null,
         "buy_price": 800000,
         "sell_price": 1200000,
+        "comment": "",
         "item_id": 664
     },
     {
@@ -4849,6 +5316,7 @@
         "modifier": null,
         "buy_price": 700000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 665
     },
     {
@@ -4856,6 +5324,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 666
     },
     {
@@ -4863,6 +5332,7 @@
         "modifier": null,
         "buy_price": 700000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 667
     },
     {
@@ -4870,6 +5340,7 @@
         "modifier": null,
         "buy_price": 700000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 668
     },
     {
@@ -4877,6 +5348,7 @@
         "modifier": null,
         "buy_price": 850000,
         "sell_price": 1300000,
+        "comment": "",
         "item_id": 669
     },
     {
@@ -4884,6 +5356,7 @@
         "modifier": null,
         "buy_price": 700000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 670
     },
     {
@@ -4891,6 +5364,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 671
     },
     {
@@ -4898,6 +5372,7 @@
         "modifier": null,
         "buy_price": 850000,
         "sell_price": 1200000,
+        "comment": "",
         "item_id": 672
     },
     {
@@ -4905,6 +5380,7 @@
         "modifier": "+12",
         "buy_price": 850000,
         "sell_price": 1200000,
+        "comment": "",
         "item_id": 673
     },
     {
@@ -4912,6 +5388,7 @@
         "modifier": null,
         "buy_price": 300000,
         "sell_price": 500000,
+        "comment": "",
         "item_id": 674
     },
     {
@@ -4919,6 +5396,7 @@
         "modifier": null,
         "buy_price": 1700000,
         "sell_price": 2200000,
+        "comment": "",
         "item_id": 675
     },
     {
@@ -4926,6 +5404,7 @@
         "modifier": null,
         "buy_price": 9500000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 676
     },
     {
@@ -4933,6 +5412,7 @@
         "modifier": null,
         "buy_price": 8500000,
         "sell_price": 9500000,
+        "comment": "",
         "item_id": 677
     },
     {
@@ -4940,6 +5420,7 @@
         "modifier": null,
         "buy_price": 6500000,
         "sell_price": 7500000,
+        "comment": "",
         "item_id": 678
     },
     {
@@ -4947,6 +5428,7 @@
         "modifier": null,
         "buy_price": 9000000,
         "sell_price": 10000000,
+        "comment": "",
         "item_id": 679
     },
     {
@@ -4954,6 +5436,7 @@
         "modifier": null,
         "buy_price": 4500000,
         "sell_price": 5500000,
+        "comment": "",
         "item_id": 680
     },
     {
@@ -4961,6 +5444,7 @@
         "modifier": null,
         "buy_price": 9000000,
         "sell_price": 10500000,
+        "comment": "",
         "item_id": 681
     },
     {
@@ -4968,6 +5452,7 @@
         "modifier": null,
         "buy_price": 500000,
         "sell_price": 700000,
+        "comment": "",
         "item_id": 682
     },
     {
@@ -4975,6 +5460,7 @@
         "modifier": null,
         "buy_price": 9500000,
         "sell_price": 11000000,
+        "comment": "",
         "item_id": 683
     },
     {
@@ -4982,6 +5468,7 @@
         "modifier": null,
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 684
     },
     {
@@ -4989,6 +5476,7 @@
         "modifier": null,
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 685
     },
     {
@@ -4996,6 +5484,7 @@
         "modifier": null,
         "buy_price": 8500000,
         "sell_price": 9500000,
+        "comment": "",
         "item_id": 686
     },
     {
@@ -5003,6 +5492,7 @@
         "modifier": null,
         "buy_price": 600000,
         "sell_price": 1100000,
+        "comment": "",
         "item_id": 687
     },
     {
@@ -5010,6 +5500,7 @@
         "modifier": null,
         "buy_price": 3000000,
         "sell_price": 4000000,
+        "comment": "",
         "item_id": 688
     },
     {
@@ -5017,6 +5508,7 @@
         "modifier": null,
         "buy_price": 1500000,
         "sell_price": 2000000,
+        "comment": "",
         "item_id": 689
     },
     {
@@ -5024,6 +5516,7 @@
         "modifier": null,
         "buy_price": 5000000,
         "sell_price": 6000000,
+        "comment": "",
         "item_id": 690
     },
     {
@@ -5031,6 +5524,7 @@
         "modifier": null,
         "buy_price": 2200000,
         "sell_price": 3000000,
+        "comment": "",
         "item_id": 691
     },
     {
@@ -5038,6 +5532,7 @@
         "modifier": null,
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 692
     },
     {
@@ -5045,6 +5540,7 @@
         "modifier": null,
         "buy_price": 1300000,
         "sell_price": 1800000,
+        "comment": "",
         "item_id": 693
     },
     {
@@ -5052,6 +5548,7 @@
         "modifier": null,
         "buy_price": 6000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 694
     },
     {
@@ -5059,6 +5556,7 @@
         "modifier": null,
         "buy_price": 10000000,
         "sell_price": 11500000,
+        "comment": "",
         "item_id": 695
     },
     {
@@ -5066,6 +5564,7 @@
         "modifier": null,
         "buy_price": 6000000,
         "sell_price": 7000000,
+        "comment": "",
         "item_id": 696
     },
     {
@@ -5073,6 +5572,7 @@
         "modifier": null,
         "buy_price": 90000000,
         "sell_price": 105000000,
+        "comment": "",
         "item_id": 697
     },
     {
@@ -5080,6 +5580,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 698
     },
     {
@@ -5087,6 +5588,7 @@
         "modifier": null,
         "buy_price": 800000,
         "sell_price": 1200000,
+        "comment": "",
         "item_id": 699
     },
     {
@@ -5094,6 +5596,7 @@
         "modifier": null,
         "buy_price": 1300000,
         "sell_price": 1800000,
+        "comment": "",
         "item_id": 700
     },
     {
@@ -5101,6 +5604,7 @@
         "modifier": null,
         "buy_price": 2800000,
         "sell_price": 3500000,
+        "comment": "",
         "item_id": 701
     },
     {
@@ -5108,6 +5612,7 @@
         "modifier": null,
         "buy_price": 600000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 702
     },
     {
@@ -5115,6 +5620,7 @@
         "modifier": null,
         "buy_price": 3500000,
         "sell_price": 4500000,
+        "comment": "",
         "item_id": 703
     },
     {
@@ -5122,6 +5628,7 @@
         "modifier": null,
         "buy_price": 1800000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 704
     },
     {
@@ -5129,6 +5636,7 @@
         "modifier": null,
         "buy_price": 250000,
         "sell_price": 450000,
+        "comment": "",
         "item_id": 705
     },
     {
@@ -5136,6 +5644,7 @@
         "modifier": null,
         "buy_price": 300000,
         "sell_price": 500000,
+        "comment": "",
         "item_id": 706
     },
     {
@@ -5143,6 +5652,7 @@
         "modifier": null,
         "buy_price": 200000,
         "sell_price": 350000,
+        "comment": "",
         "item_id": 707
     },
     {
@@ -5150,6 +5660,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 708
     },
     {
@@ -5157,6 +5668,7 @@
         "modifier": null,
         "buy_price": 300000,
         "sell_price": 500000,
+        "comment": "",
         "item_id": 709
     },
     {
@@ -5164,6 +5676,7 @@
         "modifier": null,
         "buy_price": 700000,
         "sell_price": 1200000,
+        "comment": "",
         "item_id": 710
     },
     {
@@ -5171,6 +5684,7 @@
         "modifier": null,
         "buy_price": 400000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 711
     },
     {
@@ -5178,6 +5692,7 @@
         "modifier": null,
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 712
     },
     {
@@ -5185,6 +5700,7 @@
         "modifier": null,
         "buy_price": 2000000,
         "sell_price": 2500000,
+        "comment": "",
         "item_id": 713
     },
     {
@@ -5192,6 +5708,7 @@
         "modifier": "5 LVL (лвл)",
         "buy_price": 230000,
         "sell_price": 300000,
+        "comment": "",
         "item_id": 714
     },
     {
@@ -5199,6 +5716,7 @@
         "modifier": "6 LVL (лвл)",
         "buy_price": 270000,
         "sell_price": 400000,
+        "comment": "",
         "item_id": 715
     },
     {
@@ -5206,6 +5724,7 @@
         "modifier": "7 LVL (лвл)",
         "buy_price": 400000,
         "sell_price": 550000,
+        "comment": "",
         "item_id": 716
     },
     {
@@ -5213,6 +5732,7 @@
         "modifier": "8 LVL (лвл)",
         "buy_price": 550000,
         "sell_price": 750000,
+        "comment": "",
         "item_id": 717
     },
     {
@@ -5220,6 +5740,7 @@
         "modifier": "9 LVL (лвл)",
         "buy_price": 800000,
         "sell_price": 1000000,
+        "comment": "",
         "item_id": 718
     },
     {
@@ -5227,6 +5748,7 @@
         "modifier": "10 LVL (лвл)",
         "buy_price": 1000000,
         "sell_price": 1500000,
+        "comment": "",
         "item_id": 719
     },
     {
@@ -5234,6 +5756,7 @@
         "modifier": "5 LVL (лвл)",
         "buy_price": 50000,
         "sell_price": 100000,
+        "comment": "",
         "item_id": 720
     },
     {
@@ -5241,6 +5764,7 @@
         "modifier": "6 LVL (лвл)",
         "buy_price": 75000,
         "sell_price": 150000,
+        "comment": "",
         "item_id": 721
     },
     {
@@ -5248,6 +5772,7 @@
         "modifier": "7 LVL (лвл)",
         "buy_price": 175000,
         "sell_price": 250000,
+        "comment": "",
         "item_id": 722
     },
     {
@@ -5255,6 +5780,7 @@
         "modifier": "8 LVL (лвл)",
         "buy_price": 200000,
         "sell_price": 400000,
+        "comment": "",
         "item_id": 723
     },
     {
@@ -5262,6 +5788,7 @@
         "modifier": "9 LVL (лвл)",
         "buy_price": 450000,
         "sell_price": 600000,
+        "comment": "",
         "item_id": 724
     },
     {
@@ -5269,6 +5796,7 @@
         "modifier": "10 LVL (лвл)",
         "buy_price": 650000,
         "sell_price": 800000,
+        "comment": "",
         "item_id": 725
     }
 ]
