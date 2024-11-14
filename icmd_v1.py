@@ -14,14 +14,14 @@ def calculate_net_profit(buy_price, sell_price, commission_rate):
 def add_item_to_csv(filename, item_data):
     fieldnames = ['item_name', 'modifier', 'buy_price', 'sell_price', 'sell_commission', 'comment']
     try:
-        with open(filename, 'r+', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'r+', encoding='cp1251', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             if reader.fieldnames is None:
                 writer.writeheader()
             writer.writerow(item_data)
     except FileNotFoundError:
-        with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'w', encoding='cp1251', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerow(item_data)
@@ -31,7 +31,7 @@ def add_item_to_csv(filename, item_data):
 def search_item_in_csv(filename, keywords=None):
     results = []
     try:
-        with open(filename, 'r', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'r+', encoding='cp1251', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 item_full_name = f"{row['item_name']} {row['modifier']}".lower()
@@ -93,11 +93,11 @@ def delete_item_from_csv(filename, keywords):
             print("Удаление отменено.")
             return
         rows = []
-        with open(filename, 'r', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'r+', encoding='cp1251', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             rows = [row for row in reader if not (
                     row['item_name'] == selected_item['item_name'] and row['modifier'] == selected_item['modifier'])]
-        with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'w', encoding='cp1251', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=reader.fieldnames)
             writer.writeheader()
             writer.writerows(rows)
@@ -136,7 +136,7 @@ def edit_item_in_csv(filename, keywords):
         new_sell_commission = new_sell_price * COMMISSION_RATE
         new_comment = input("Введите новый комментарий: ")
         rows = []
-        with open(filename, 'r', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'r+', encoding='cp1251', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row['item_name'] == selected_item['item_name'] and row['modifier'] == selected_item['modifier']:
@@ -145,7 +145,7 @@ def edit_item_in_csv(filename, keywords):
                     row['sell_commission'] = int(new_sell_commission)
                     row['comment'] = new_comment
                 rows.append(row)
-        with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
+        with open(filename, 'w', encoding='cp1251', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=reader.fieldnames)
             writer.writeheader()
             writer.writerows(rows)
@@ -175,7 +175,7 @@ def main():
     while True:
         try:
             command = input("Введите команду: ").lower()
-            if command == 'a':
+            if command == 'a' or command == 'ф':
                 item_name = input("Введите название предмета:\n")
                 up_naming = ['сток', '+12', '+15', '+16']
                 comment = input(f'Комментарий для {item_name.upper()}: ')
@@ -195,13 +195,13 @@ def main():
                         'comment': comment
                     }
                     add_item_to_csv(filename, item_data)
-            elif command == 'f':
+            elif command == 'f' or command == 'а':
                 keywords = input("Введите ключевые слова для поиска (через пробел): ").split()
                 search_item_in_csv(filename, keywords)
-            elif command == 'd':
+            elif command == 'r' or command == 'к':
                 keywords = input("Введите ключевые слова для поиска товара (через пробел): ").split()
                 delete_item_from_csv(filename, keywords)
-            elif command == 'e':
+            elif command == 'e' or command == 'у':
                 keywords = input("Введите ключевые слова для поиска товара (через пробел): ").split()
                 edit_item_in_csv(filename, keywords)
             elif command == '?':
