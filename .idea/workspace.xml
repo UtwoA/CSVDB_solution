@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23fe5773-5add-43fa-9931-23b118ff9d7e" name="Changes" comment="delete_item_from_csv upd">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSONComparator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icmd_v2.py" afterDir="false" />
+    <list default="true" id="23fe5773-5add-43fa-9931-23b118ff9d7e" name="Changes" comment="icmd v2 JSON mode">
+      <change afterPath="$PROJECT_DIR$/icmp_user_v1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numeric.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icmd_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/icmd_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/del.py" beforeDir="false" afterPath="$PROJECT_DIR$/del.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/items.csv" beforeDir="false" afterPath="$PROJECT_DIR$/items.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.JSONComparator.executor": "Run",
-    "Python.del.executor": "Run",
-    "Python.icmd_v1.executor": "Run",
-    "Python.icmd_v2.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.numeric.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Алексей/PycharmProjects/CSVDB_solution"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.JSONComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del.executor&quot;: &quot;Run&quot;,
+    &quot;Python.icmd_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.icmd_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.icmp_user_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numeric.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Алексей/PycharmProjects/CSVDB_solution&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Алексей\PycharmProjects\CSVDB_solution" />
@@ -63,7 +60,7 @@
       <recent name="C:\Users\Алексей\PycharmProjects\CSVDB_solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.del">
+  <component name="RunManager" selected="Python.icmp_user_v1">
     <configuration name="JSONComparator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSVDB_solution" />
       <option name="ENV_FILES" value="" />
@@ -130,6 +127,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="icmp_user_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSVDB_solution" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/icmp_user_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CSVDB_solution" />
       <option name="ENV_FILES" value="" />
@@ -176,6 +195,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.icmp_user_v1" />
         <item itemvalue="Python.del" />
         <item itemvalue="Python.numeric" />
         <item itemvalue="Python.icmd_v2" />
@@ -215,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731388149008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="icmd v2 JSON mode">
+      <option name="closed" value="true" />
+      <created>1731609549184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731609549184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +260,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upd formatting func to format_with_thousands_separator" />
     <MESSAGE value="delete_item_from_csv upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete_item_from_csv upd" />
+    <MESSAGE value="icmd v2 JSON mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="icmd v2 JSON mode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

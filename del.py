@@ -4,8 +4,6 @@ with open("items_with_ids.json", "r", encoding="cp1251") as file:
     items = json.load(file)
 
 for item in items:
-    if item.get("comment") == "":
-        del item["comment"]
     if "sell_commission" in item:
         del item["sell_commission"]
 

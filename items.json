@@ -1,0 +1,5761 @@
+[
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "сток",
+        "buy_price": "4000000",
+        "sell_price": "5000000",
+        "sell_commission": "4850000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "+12",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "sell_commission": "5335000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "+15",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "sell_commission": "6305000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "+16",
+        "buy_price": "6000000",
+        "sell_price": "7500000",
+        "sell_commission": "7275000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "sell_commission": "9700000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Морской топор",
+        "modifier": "сток",
+        "buy_price": "400000",
+        "sell_price": "700000",
+        "sell_commission": "679000.0",
+        "comment": "брать с заточкой неликвидно"
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "sell_commission": "9700000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "сток",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "sell_commission": "8730000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "+12",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "sell_commission": "9215000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "+15",
+        "buy_price": "9500000",
+        "sell_price": "10500000",
+        "sell_commission": "10185000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "+16",
+        "buy_price": "11000000",
+        "sell_price": "12500000",
+        "sell_commission": "12125000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "сток",
+        "buy_price": "18000000",
+        "sell_price": "20000000",
+        "sell_commission": "19400000.0",
+        "comment": "дефф"
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "+12",
+        "buy_price": "18000000",
+        "sell_price": "20000000",
+        "sell_commission": "19400000.0",
+        "comment": "дефф"
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "+15",
+        "buy_price": "18500000",
+        "sell_price": "20500000",
+        "sell_commission": "19885000.0",
+        "comment": "дефф"
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "+16",
+        "buy_price": "20000000",
+        "sell_price": "22000000",
+        "sell_commission": "21340000.0",
+        "comment": "дефф"
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "sell_commission": "9215000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "+16",
+        "buy_price": "10000000",
+        "sell_price": "11500000",
+        "sell_commission": "11155000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "сток",
+        "buy_price": "12500000",
+        "sell_price": "14000000",
+        "sell_commission": "13580000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "+12",
+        "buy_price": "13000000",
+        "sell_price": "14500000",
+        "sell_commission": "14065000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "+15",
+        "buy_price": "14000000",
+        "sell_price": "15500000",
+        "sell_commission": "15035000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "+16",
+        "buy_price": "15500000",
+        "sell_price": "17000000",
+        "sell_commission": "16490000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "sell_commission": "9215000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "+16",
+        "buy_price": "9500000",
+        "sell_price": "11000000",
+        "sell_commission": "10670000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "sell_commission": "9215000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "+16",
+        "buy_price": "10500000",
+        "sell_price": "12000000",
+        "sell_commission": "11640000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "сток",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "sell_commission": "7275000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "+15",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "sell_commission": "8730000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "+16",
+        "buy_price": "10000000",
+        "sell_price": "11500000",
+        "sell_commission": "11155000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "сток",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "sell_commission": "6790000.0",
+        "comment": "Проверь на ликвидность"
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "+12",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "sell_commission": "7275000.0",
+        "comment": "Проверь на ликвидность"
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": "Проверь на ликвидность"
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "sell_commission": "9700000.0",
+        "comment": "Проверь на ликвидность"
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "сток",
+        "buy_price": "62000000",
+        "sell_price": "70000000",
+        "sell_commission": "67900000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "+12",
+        "buy_price": "63000000",
+        "sell_price": "71000000",
+        "sell_commission": "68870000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "+15",
+        "buy_price": "65000000",
+        "sell_price": "75000000",
+        "sell_commission": "72750000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "+16",
+        "buy_price": "68000000",
+        "sell_price": "78000000",
+        "sell_commission": "75660000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "сток",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "sell_commission": "6305000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "+12",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "sell_commission": "6790000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "+15",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "sell_commission": "9700000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "сток",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "sell_commission": "5335000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "+12",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "sell_commission": "5820000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "+15",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "sell_commission": "6790000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "+16",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "сток",
+        "buy_price": "4000000",
+        "sell_price": "5000000",
+        "sell_commission": "4850000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "+12",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "sell_commission": "5335000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "+15",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "sell_commission": "6305000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "+16",
+        "buy_price": "7000000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "сток",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "sell_commission": "4365000.0",
+        "comment": "Вероятно падает с рулеток"
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "+12",
+        "buy_price": "4000000",
+        "sell_price": "5000000",
+        "sell_commission": "4850000.0",
+        "comment": "Вероятно падает с рулеток"
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "+15",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "sell_commission": "5820000.0",
+        "comment": "Вероятно падает с рулеток"
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "+16",
+        "buy_price": "6500000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": "Вероятно падает с рулеток"
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "сток",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "sell_commission": "7275000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "+15",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "sell_commission": "8730000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "+16",
+        "buy_price": "9500000",
+        "sell_price": "11000000",
+        "sell_commission": "10670000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "+15",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "sell_commission": "8730000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "+16",
+        "buy_price": "9000000",
+        "sell_price": "10500000",
+        "sell_commission": "10185000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "сток",
+        "buy_price": "28000000",
+        "sell_price": "31000000",
+        "sell_commission": "30070000.0",
+        "comment": "28"
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "+12",
+        "buy_price": "28500000",
+        "sell_price": "31500000",
+        "sell_commission": "30555000.0",
+        "comment": "28"
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "+15",
+        "buy_price": "29500000",
+        "sell_price": "33500000",
+        "sell_commission": "32495000.0",
+        "comment": "28"
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "+16",
+        "buy_price": "32000000",
+        "sell_price": "35000000",
+        "sell_commission": "33950000.0",
+        "comment": "28"
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "сток",
+        "buy_price": "28000000",
+        "sell_price": "31000000",
+        "sell_commission": "30070000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "+12",
+        "buy_price": "28500000",
+        "sell_price": "31500000",
+        "sell_commission": "30555000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "+15",
+        "buy_price": "29500000",
+        "sell_price": "33500000",
+        "sell_commission": "32495000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "+16",
+        "buy_price": "32000000",
+        "sell_price": "35000000",
+        "sell_commission": "33950000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "сток",
+        "buy_price": "35000000",
+        "sell_price": "40000000",
+        "sell_commission": "38800000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "+12",
+        "buy_price": "35000000",
+        "sell_price": "40000000",
+        "sell_commission": "38800000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "+15",
+        "buy_price": "36000000",
+        "sell_price": "41000000",
+        "sell_commission": "39770000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "+16",
+        "buy_price": "38000000",
+        "sell_price": "43000000",
+        "sell_commission": "41710000",
+        "comment": ""
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "сток",
+        "buy_price": "34000000",
+        "sell_price": "38500000",
+        "sell_commission": "37345000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "+12",
+        "buy_price": "34500000",
+        "sell_price": "39000000",
+        "sell_commission": "37830000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "+15",
+        "buy_price": "35000000",
+        "sell_price": "40000000",
+        "sell_commission": "38800000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "+16",
+        "buy_price": "37000000",
+        "sell_price": "42000000",
+        "sell_commission": "40740000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "sell_commission": "7760000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "sell_commission": "9215000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "+16",
+        "buy_price": "9500000",
+        "sell_price": "11000000",
+        "sell_commission": "10670000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "сток",
+        "buy_price": "9000000",
+        "sell_price": "10000000",
+        "sell_commission": "9700000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "+12",
+        "buy_price": "9500000",
+        "sell_price": "10500000",
+        "sell_commission": "10185000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "+15",
+        "buy_price": "10500000",
+        "sell_price": "12000000",
+        "sell_commission": "11640000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "+16",
+        "buy_price": "11500000",
+        "sell_price": "13000000",
+        "sell_commission": "12610000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "сток",
+        "buy_price": "1300000",
+        "sell_price": "1800000",
+        "sell_commission": "1746000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "+12",
+        "buy_price": "1500000",
+        "sell_price": "2000000",
+        "sell_commission": "1940000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "+15",
+        "buy_price": "2500000",
+        "sell_price": "3000000",
+        "sell_commission": "2910000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "+16",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "sell_commission": "4365000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "сток",
+        "buy_price": "1000000",
+        "sell_price": "1500000",
+        "sell_commission": "1455000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "+12",
+        "buy_price": "1500000",
+        "sell_price": "2000000",
+        "sell_commission": "1940000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "+15",
+        "buy_price": "2500000",
+        "sell_price": "3000000",
+        "sell_commission": "2910000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "+16",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "sell_commission": "4365000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "сток",
+        "buy_price": "1000000",
+        "sell_price": "1500000",
+        "sell_commission": "1455000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "+12",
+        "buy_price": "1500000",
+        "sell_price": "2000000",
+        "sell_commission": "1940000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "+15",
+        "buy_price": "2500000",
+        "sell_price": "3000000",
+        "sell_commission": "2910000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "+16",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "sell_commission": "4365000.0",
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "сток",
+        "buy_price": "500000",
+        "sell_price": "800000",
+        "sell_commission": "776000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "+12",
+        "buy_price": "700000",
+        "sell_price": "1000000",
+        "sell_commission": "970000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "+15",
+        "buy_price": "1200000",
+        "sell_price": "2000000",
+        "sell_commission": "1940000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "+16",
+        "buy_price": "2500000",
+        "sell_price": "3500000",
+        "sell_commission": "3395000.0",
+        "comment": "Падают с рулеток"
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "сток",
+        "buy_price": "3000000",
+        "sell_price": "4000000",
+        "sell_commission": "3880000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "+12",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "sell_commission": "4365000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "+15",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "sell_commission": "5335000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "+16",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "sell_commission": "6305000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "сток",
+        "buy_price": "1100000",
+        "sell_price": "1500000",
+        "sell_commission": "1455000.0",
+        "comment": "ВОЗМОЖНО падает с рулеток"
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "+12",
+        "buy_price": "1300000",
+        "sell_price": "1700000",
+        "sell_commission": "1649000.0",
+        "comment": "ВОЗМОЖНО падает с рулеток"
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "+15",
+        "buy_price": "1800000",
+        "sell_price": "2200000",
+        "sell_commission": "2134000.0",
+        "comment": "ВОЗМОЖНО падает с рулеток"
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "+16",
+        "buy_price": "2800000",
+        "sell_price": "3500000",
+        "sell_commission": "3395000.0",
+        "comment": "ВОЗМОЖНО падает с рулеток"
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "сток",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "sell_commission": "6790000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "+12",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "sell_commission": "7275000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "sell_commission": "9700000.0",
+        "comment": "Проверь"
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "сток",
+        "buy_price": "24000000",
+        "sell_price": "27000000",
+        "sell_commission": "26190000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "+12",
+        "buy_price": "24000000",
+        "sell_price": "27000000",
+        "sell_commission": "26190000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "+15",
+        "buy_price": "25000000",
+        "sell_price": "28000000",
+        "sell_commission": "27160000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "+16",
+        "buy_price": "27000000",
+        "sell_price": "30000000",
+        "sell_commission": "29100000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "сток",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "sell_commission": "5820000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "+12",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "sell_commission": "5820000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "+15",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "sell_commission": "6790000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "+16",
+        "buy_price": "7000000",
+        "sell_price": "8500000",
+        "sell_commission": "8245000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "сток",
+        "buy_price": "1800000",
+        "sell_price": "2500000",
+        "sell_commission": "2425000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "+12",
+        "buy_price": "2300000",
+        "sell_price": "3000000",
+        "sell_commission": "2910000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "+15",
+        "buy_price": "3000000",
+        "sell_price": "4000000",
+        "sell_commission": "3880000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "+16",
+        "buy_price": "4500000",
+        "sell_price": "6000000",
+        "sell_commission": "5820000.0",
+        "comment": ""
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "+15",
+        "buy_price": 8000000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": ""
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "+16",
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "sell_commission": 10670000,
+        "comment": ""
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "сток",
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "+12",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "+15",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "+15",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "+16",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "+12",
+        "buy_price": 1800000,
+        "sell_price": 2300000,
+        "sell_commission": 2231000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "+15",
+        "buy_price": 2300000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "+15",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "+15",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": "Вероятно, падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "сток",
+        "buy_price": 400000,
+        "sell_price": 700000,
+        "sell_commission": 679000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "+15",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "сток",
+        "buy_price": 250000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "+12",
+        "buy_price": 400000,
+        "sell_price": 700000,
+        "sell_commission": 679000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "+15",
+        "buy_price": 1000000,
+        "sell_price": 1300000,
+        "sell_commission": 1261000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "+16",
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": "Падает с рулеток"
+    },
+    {
+        "item_name": "Шляпа #4 <- Крафт маркер",
+        "modifier": "+16 Перенос",
+        "buy_price": 35000000,
+        "sell_price": 40000000,
+        "sell_commission": 38800000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем китти <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем китти <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем китти <- Пепе",
+        "modifier": "+15 Перенос",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем китти <- Пепе",
+        "modifier": "+16 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем пинк <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем пинк <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем пинк <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем пинк <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 9000000,
+        "sell_price": 11000000,
+        "sell_commission": 10670000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем китти <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем китти <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 9000000,
+        "sell_price": 11000000,
+        "sell_commission": 10670000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка <- Молот Тора",
+        "modifier": "+16 Перенос",
+        "buy_price": 45000000,
+        "sell_price": 50000000,
+        "sell_commission": 48500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка <- Русский боевой топор",
+        "modifier": "+16 Перенос",
+        "buy_price": 34000000,
+        "sell_price": 38000000,
+        "sell_commission": 36860000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка <- Щупальца",
+        "modifier": "+16 Перенос",
+        "buy_price": 34000000,
+        "sell_price": 38000000,
+        "sell_commission": 36860000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка <- Билл Шифр",
+        "modifier": "+16 Перенос",
+        "buy_price": 34000000,
+        "sell_price": 38000000,
+        "sell_commission": 36860000,
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы <-Русский боевой топор",
+        "modifier": "+16 Перенос",
+        "buy_price": 15000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы <- Билл Шифр",
+        "modifier": "+16 Перенос",
+        "buy_price": 15000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы <- Щупальца",
+        "modifier": "+16 Перенос",
+        "buy_price": 15000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Паучьи лапы <- Молот Тора",
+        "modifier": "+16 Перенос",
+        "buy_price": 25000000,
+        "sell_price": 29000000,
+        "sell_commission": 28130000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тактический шлем <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 17000000,
+        "sell_price": 20000000,
+        "sell_commission": 19400000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тактический шлем <- Крафт нимб",
+        "modifier": "+16 Перенос",
+        "buy_price": 40000000,
+        "sell_price": 44000000,
+        "sell_commission": 42680000,
+        "comment": ""
+    },
+    {
+        "item_name": "Оружие Бамбл Би <- Молот Дафф",
+        "modifier": "+16 Перенос",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "sell_commission": 17460000,
+        "comment": ""
+    },
+    {
+        "item_name": "Оружие Бамбл Би <- Фрапс пишется",
+        "modifier": "+16 Перенос",
+        "buy_price": 18000000,
+        "sell_price": 20000000,
+        "sell_commission": 19400000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска череп <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 18000000,
+        "sell_price": 21000000,
+        "sell_commission": 20370000,
+        "comment": "Маска череп выпадает с рулеток"
+    },
+    {
+        "item_name": "Маска распорядителя <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": "Маска распорядителя выпадает с рулеток"
+    },
+    {
+        "item_name": "Маска распорядителя <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 13000000,
+        "sell_price": 15000000,
+        "sell_commission": 14550000,
+        "comment": "Маска распорядителя выпадает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника урон +1 <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "Маска охранника выпадает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника урон +1 <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Маска охранника выпадает с рулеток"
+    },
+    {
+        "item_name": "Маска охранника дефф +1 <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Маска охранника выпадает с рулеток"
+    },
+    {
+        "item_name": "Маска локи <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска локи <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска невидимка <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 9000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска невидимка <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 9000000,
+        "sell_price": 11000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска вренч <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска вренч <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +урон <- Игрушечный делориан",
+        "modifier": "+16 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +урон <- Магический шар",
+        "modifier": "+16 Перенос",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +дефф <- Игрушечный делориан",
+        "modifier": "+16 Перенос",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +дефф <- Магический шар",
+        "modifier": "+16 Перенос",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан <- Молот Тора",
+        "modifier": "+16 Перенос",
+        "buy_price": 18500000,
+        "sell_price": 21000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан <- Щупальцы",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан <- Русский боевой топор РБТ",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан <- Билл Шифр",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шляпа #4 <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шляпа #4 <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шляпа #4 <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шляпа #4 <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Неоновая маска <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Неоновая маска <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные часы +1 урон <- Молот Дафф",
+        "modifier": "+15 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Часы падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 урон <- Молот Дафф",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Часы падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф <- Молот Дафф",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "Часы падают с рулеток"
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф <- Молот Дафф",
+        "modifier": "+16 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Часы падают с рулеток"
+    },
+    {
+        "item_name": "Шлем Alien Чужой <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 1500000,
+        "sell_price": 2500000,
+        "comment": "Шлем падает с рулеток"
+    },
+    {
+        "item_name": "Шлем Alien Чужой <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "Шлем падает с рулеток"
+    },
+    {
+        "item_name": "Сферы <- Цепь махинатора (махи)",
+        "modifier": "+16 Перенос",
+        "buy_price": 33000000,
+        "sell_price": 36000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Обрез <- Цепь махинатора (махи)",
+        "modifier": "+15 Перенос",
+        "buy_price": 14000000,
+        "sell_price": 16000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Обрез <- Цепь махинатора (махи)",
+        "modifier": "+16 Перенос",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": ""
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Супер лопата",
+        "modifier": "сток",
+        "buy_price": 1600000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Супер лопата",
+        "modifier": "+12",
+        "buy_price": 1800000,
+        "sell_price": 2200000,
+        "sell_commission": 2134000,
+        "comment": ""
+    },
+    {
+        "item_name": "Супер кирка",
+        "modifier": "сток",
+        "buy_price": 4500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Супер кирка",
+        "modifier": "+12",
+        "buy_price": 4700000,
+        "sell_price": 5200000,
+        "sell_commission": 5044000,
+        "comment": ""
+    },
+    {
+        "item_name": "Супер грабли",
+        "modifier": "сток",
+        "buy_price": 1400000,
+        "sell_price": 1900000,
+        "sell_commission": 1843000,
+        "comment": ""
+    },
+    {
+        "item_name": "Супер грабли",
+        "modifier": "+12",
+        "buy_price": 1600000,
+        "sell_price": 2100000,
+        "sell_commission": 2037000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "сток",
+        "buy_price": 25000000,
+        "sell_price": 28000000,
+        "sell_commission": 27160000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "+12",
+        "buy_price": 25000000,
+        "sell_price": 28000000,
+        "sell_commission": 27160000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "+15",
+        "buy_price": 26000000,
+        "sell_price": 29000000,
+        "sell_commission": 28130000,
+        "comment": ""
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "+16",
+        "buy_price": 27000000,
+        "sell_price": 31000000,
+        "sell_commission": 30070000,
+        "comment": ""
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "сток",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "sell_commission": 17460000,
+        "comment": ""
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "+12",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "sell_commission": 17460000,
+        "comment": ""
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "+15",
+        "buy_price": 17000000,
+        "sell_price": 19000000,
+        "sell_commission": 18430000,
+        "comment": ""
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "+16",
+        "buy_price": 18000000,
+        "sell_price": 21000000,
+        "sell_commission": 20370000,
+        "comment": ""
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "сток",
+        "buy_price": 230000000,
+        "sell_price": 260000000,
+        "sell_commission": 252200000,
+        "comment": ""
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "+12",
+        "buy_price": 230000000,
+        "sell_price": 260000000,
+        "sell_commission": 252200000,
+        "comment": ""
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "+15",
+        "buy_price": 230000000,
+        "sell_price": 262000000,
+        "sell_commission": 254140000,
+        "comment": ""
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "+16",
+        "buy_price": 230000000,
+        "sell_price": 265000000,
+        "sell_commission": 257050000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "сток",
+        "buy_price": 1700000,
+        "sell_price": 2200000,
+        "sell_commission": 2134000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3250000,
+        "sell_commission": 3152500,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 3750000,
+        "sell_commission": 3637500,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "+15",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "Возможно падает с рулеток"
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "+12",
+        "buy_price": 6500000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "Возможно падает с рулеток"
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "Возможно падает с рулеток"
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "Возможно падает с рулеток"
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "сток",
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "+12",
+        "buy_price": 900000,
+        "sell_price": 1300000,
+        "sell_commission": 1261000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "+15",
+        "buy_price": 1200000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "+16",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "сток",
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "sell_commission": 1746000,
+        "comment": ""
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "+12",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "+15",
+        "buy_price": 2200000,
+        "sell_price": 2800000,
+        "sell_commission": 2716000,
+        "comment": ""
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "+15",
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "+16",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": ""
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "сток",
+        "buy_price": 1700000,
+        "sell_price": 2200000,
+        "sell_commission": 2134000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "+15",
+        "buy_price": 3000000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "сток",
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 3700000,
+        "sell_commission": 3589000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "+15",
+        "buy_price": 3800000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "+16",
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "sell_commission": 6305000,
+        "comment": ""
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": ""
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "сток",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "+12",
+        "buy_price": 9000000,
+        "sell_price": 10500000,
+        "sell_commission": 10185000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "+15",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "+16",
+        "buy_price": 12500000,
+        "sell_price": 14000000,
+        "sell_commission": 13580000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "сток",
+        "buy_price": 24500000,
+        "sell_price": 27000000,
+        "sell_commission": 26190000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "+12",
+        "buy_price": 24500000,
+        "sell_price": 27000000,
+        "sell_commission": 26190000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "+15",
+        "buy_price": 26000000,
+        "sell_price": 28000000,
+        "sell_commission": 27160000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "+16",
+        "buy_price": 29000000,
+        "sell_price": 32500000,
+        "sell_commission": 31525000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический двигатель (энергодвигатель)",
+        "modifier": "сток",
+        "buy_price": 15500000,
+        "sell_price": 17500000,
+        "sell_commission": 16975000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "сток",
+        "buy_price": 2300000,
+        "sell_price": 2800000,
+        "sell_commission": 2716000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "+12",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "сток",
+        "buy_price": 2300000,
+        "sell_price": 2700000,
+        "sell_commission": 2619000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "+12",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "+15",
+        "buy_price": 3000000,
+        "sell_price": 3600000,
+        "sell_commission": 3492000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 4200000,
+        "sell_commission": 4074000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 1900000,
+        "sell_commission": 1843000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "+12",
+        "buy_price": 1700000,
+        "sell_price": 2100000,
+        "sell_commission": 2037000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "+15",
+        "buy_price": 2200000,
+        "sell_price": 2800000,
+        "sell_commission": 2716000,
+        "comment": ""
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "+16",
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "сток",
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "+12",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "+15",
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "sell_commission": 6305000,
+        "comment": ""
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "+16",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "сток",
+        "buy_price": 250000,
+        "sell_price": 400000,
+        "sell_commission": 388000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "+12",
+        "buy_price": 350000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "+15",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "+16",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "сток",
+        "buy_price": 3200000,
+        "sell_price": 3800000,
+        "sell_commission": 3686000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "+12",
+        "buy_price": 3400000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "+15",
+        "buy_price": 3700000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "сток",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "+12",
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "sell_commission": 2619000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "+15",
+        "buy_price": 2700000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "+12",
+        "buy_price": 2700000,
+        "sell_price": 3200000,
+        "sell_commission": 3104000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "+15",
+        "buy_price": 3200000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "сток",
+        "buy_price": 600000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "+15",
+        "buy_price": 1200000,
+        "sell_price": 1800000,
+        "sell_commission": 1746000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "+16",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Скейт",
+        "modifier": "сток",
+        "buy_price": 600000,
+        "sell_price": 850000,
+        "sell_commission": 824500,
+        "comment": ""
+    },
+    {
+        "item_name": "Скейт",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Скейт",
+        "modifier": "+15",
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": ""
+    },
+    {
+        "item_name": "Реактивный скейт",
+        "modifier": "сток",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 38800000,
+        "comment": ""
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "сток",
+        "buy_price": 400000,
+        "sell_price": 600000,
+        "sell_commission": 582000,
+        "comment": ""
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "+12",
+        "buy_price": 600000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "+15",
+        "buy_price": 1000000,
+        "sell_price": 1400000,
+        "sell_commission": 1358000,
+        "comment": ""
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "+16",
+        "buy_price": 1500000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1300000,
+        "sell_commission": 1261000,
+        "comment": ""
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "+15",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "+16",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Восточный ларек (любой)",
+        "modifier": "сток",
+        "buy_price": 400000,
+        "sell_price": 600000,
+        "sell_commission": 582000,
+        "comment": ""
+    },
+    {
+        "item_name": "Восточный ларек (любой)",
+        "modifier": "+12",
+        "buy_price": 550000,
+        "sell_price": 750000,
+        "sell_commission": 727500,
+        "comment": ""
+    },
+    {
+        "item_name": "Элитная лавка",
+        "modifier": "сток",
+        "buy_price": 15000000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": ""
+    },
+    {
+        "item_name": "Лавка Рик и Морти",
+        "modifier": "сток",
+        "buy_price": 4200000,
+        "sell_price": 4700000,
+        "sell_commission": 4559000,
+        "comment": ""
+    },
+    {
+        "item_name": "Лавка Шрек",
+        "modifier": "сток",
+        "buy_price": 4200000,
+        "sell_price": 4700000,
+        "sell_commission": 4559000,
+        "comment": ""
+    },
+    {
+        "item_name": "Лавка мусорка",
+        "modifier": "сток",
+        "buy_price": 3500000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Лавка горячая штучка",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "сток",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "+12",
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "sell_commission": 2619000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "сток",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "+12",
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "sell_commission": 2619000,
+        "comment": ""
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "+15",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "RGB чемодан",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дьявольский чемодан",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Зомби чемодан",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Магический чемодан",
+        "modifier": "сток",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Чемодан Железный человек ЖЧ",
+        "modifier": "сток",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Небесный чемодан",
+        "modifier": "сток",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тревожный чемодан",
+        "modifier": "сток",
+        "buy_price": 1100000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический чемодан (энергочемодан)",
+        "modifier": "сток",
+        "buy_price": 22000000,
+        "sell_price": 25000000,
+        "sell_commission": 24250000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетический чемодан (энергочемодан) + нашивка",
+        "modifier": "сток + нашивка",
+        "buy_price": 29000000,
+        "sell_price": 32000000,
+        "sell_commission": 31040000,
+        "comment": ""
+    },
+    {
+        "item_name": "Энергетическая накладка чемодан",
+        "modifier": "сток + нашивка",
+        "buy_price": 16500000,
+        "sell_price": 18000000,
+        "sell_commission": 17460000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "+ликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": ""
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "sell_commission": 8245000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "sell_commission": 16005000,
+        "comment": "Фулл неликвид"
+    },
+    {
+        "item_name": "Ледяной щит",
+        "modifier": "+12",
+        "buy_price": 1800000,
+        "sell_price": 2300000,
+        "sell_commission": 2231000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тактический бронежилет",
+        "modifier": "сток",
+        "buy_price": 900000,
+        "sell_price": 1500000,
+        "comment": ""
+    },
+    {
+        "item_name": "Генеральный бронежилет (бронежилет генерала)",
+        "modifier": "сток",
+        "buy_price": 38000000,
+        "sell_price": 45000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дополнение ВИП АДД",
+        "modifier": "30 дней",
+        "buy_price": 1400000,
+        "sell_price": 1800000,
+        "sell_commission": 1746000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дополнение ВИП АДД",
+        "modifier": "Forever Навсегда",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Именное поместье",
+        "modifier": null,
+        "buy_price": 12000000,
+        "sell_price": 14000000,
+        "sell_commission": 13580000,
+        "comment": ""
+    },
+    {
+        "item_name": "Майнер материи",
+        "modifier": null,
+        "buy_price": 22000000,
+        "sell_price": 25000000,
+        "sell_commission": 24250000,
+        "comment": ""
+    },
+    {
+        "item_name": "Улучшение нефтевышек",
+        "modifier": null,
+        "buy_price": 2300000,
+        "sell_price": 2800000,
+        "sell_commission": 2716000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сертификат на доставку бочек",
+        "modifier": null,
+        "buy_price": 2300000,
+        "sell_price": 2800000,
+        "sell_commission": 2716000,
+        "comment": ""
+    },
+    {
+        "item_name": "Админ зарплата АЗП Адм зп",
+        "modifier": null,
+        "buy_price": 1100,
+        "sell_price": 1400,
+        "sell_commission": 970,
+        "comment": ""
+    },
+    {
+        "item_name": "Магическая рулетка (маг рулетка)",
+        "modifier": null,
+        "buy_price": 20000000,
+        "sell_price": 25000000,
+        "sell_commission": 24250000,
+        "comment": ""
+    },
+    {
+        "item_name": "Рулетка 10-ти летия (десятилетия)",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 350000,
+        "sell_commission": 339500,
+        "comment": ""
+    },
+    {
+        "item_name": "Ларец лидера",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Запечатанный сертификат авто",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 3700000,
+        "sell_commission": 3589000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ящик рыболова",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": ""
+    },
+    {
+        "item_name": "Серебряный кейс",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "sell_commission": 339500,
+        "comment": ""
+    },
+    {
+        "item_name": "Золотой кейс",
+        "modifier": null,
+        "buy_price": 550000,
+        "sell_price": 700000,
+        "sell_commission": 679000,
+        "comment": ""
+    },
+    {
+        "item_name": "Платиновый кейс",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Секретный ящик",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 600000,
+        "sell_commission": 582000,
+        "comment": ""
+    },
+    {
+        "item_name": "Платиновый ящик",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок супер заточки +13",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 750000,
+        "sell_commission": 727500,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок щита капитана америки КА",
+        "modifier": null,
+        "buy_price": 1100000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок шлема железного человека ЖЧ",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок руки таноса",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок русского боевого топора РБТ",
+        "modifier": null,
+        "buy_price": 1100000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок молота тора",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок супер лопаты",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 400000,
+        "sell_commission": 388000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок энергощита",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10500000,
+        "sell_commission": 10185000,
+        "comment": ""
+    },
+    {
+        "item_name": "Извлекатель нашивки",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "sell_commission": 339500,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок цепи энергомахинатора (энергомахи)",
+        "modifier": null,
+        "buy_price": 12500000,
+        "sell_price": 14500000,
+        "sell_commission": 14065000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок читерского кловера",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок тайника собирателя",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок секретной машины",
+        "modifier": null,
+        "buy_price": 17000,
+        "sell_price": 25000,
+        "sell_commission": 24250,
+        "comment": ""
+    },
+    {
+        "item_name": "Платиновый осколок машины",
+        "modifier": null,
+        "buy_price": 150000,
+        "sell_price": 200000,
+        "sell_commission": 194000,
+        "comment": ""
+    },
+    {
+        "item_name": "Осколок портальной пушки",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "sell_commission": 339500,
+        "comment": ""
+    },
+    {
+        "item_name": "Удилище 10 лвл",
+        "modifier": null,
+        "buy_price": 2800000,
+        "sell_price": 3300000,
+        "sell_commission": 3201000,
+        "comment": ""
+    },
+    {
+        "item_name": "Эхолот",
+        "modifier": null,
+        "buy_price": 350000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Шипастый щит (Охранник)",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Анимированные часы (Охранник)",
+        "modifier": null,
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Анимированный огененный глаз (Охранник)",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шипованный обруч (Охранник)",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маска Муэрты (Охранник)",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "sell_commission": 4850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Современная карта кладов",
+        "modifier": "1 LVL",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Современная карта кладов (2 лвл)",
+        "modifier": "2 LVL",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "sell_commission": 11640000,
+        "comment": "0"
+    },
+    {
+        "item_name": "Современная карта кладов (3 лвл)",
+        "modifier": "3 LVL",
+        "buy_price": 15000000,
+        "sell_price": 18000000,
+        "sell_commission": 17460000,
+        "comment": ""
+    },
+    {
+        "item_name": "Восстановленная карта кладов",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шкатулка кладоискателя",
+        "modifier": null,
+        "buy_price": 11000000,
+        "sell_price": 12500000,
+        "sell_commission": 12125000,
+        "comment": ""
+    },
+    {
+        "item_name": "Грядка лён (лен)",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2200000,
+        "sell_commission": 2134000,
+        "comment": ""
+    },
+    {
+        "item_name": "Грядка хлопок",
+        "modifier": null,
+        "buy_price": 1100000,
+        "sell_price": 1600000,
+        "sell_commission": 1552000,
+        "comment": ""
+    },
+    {
+        "item_name": "Грядка укроп",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник обычный",
+        "modifier": null,
+        "buy_price": 150000,
+        "sell_price": 250000,
+        "sell_commission": 242500,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник редкий",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 300000,
+        "sell_commission": 291000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник уникальный",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 450000,
+        "sell_commission": 436500,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник Скуби Ду БП",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник Осёл (Осел)",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник Эли (60к АЗ)",
+        "modifier": null,
+        "buy_price": 23000000,
+        "sell_price": 27000000,
+        "sell_commission": 26190000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник Скуби Ду (60к АЗ)",
+        "modifier": null,
+        "buy_price": 23000000,
+        "sell_price": 27000000,
+        "sell_commission": 26190000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА)",
+        "modifier": null,
+        "buy_price": 1200000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА) 2 лвл",
+        "modifier": "2 LVL",
+        "buy_price": 2200000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА) 3 лвл",
+        "modifier": "3 LVL",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА) 4 лвл",
+        "modifier": "4 LVL",
+        "buy_price": 23000000,
+        "sell_price": 30000000,
+        "comment": ""
+    },
+    {
+        "item_name": "Наемный фермер (Наёмный фермер)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 16000000,
+        "sell_commission": 15520000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник Браян (пес из Гриффинов)",
+        "modifier": null,
+        "buy_price": 5000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник Роджер (пришелец из Американского папаши)",
+        "modifier": null,
+        "buy_price": 5000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Охранник макака (обезъяна)",
+        "modifier": null,
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": ""
+    },
+    {
+        "item_name": "х3 магазин узи",
+        "modifier": null,
+        "buy_price": 3300000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "х3 магазин Мак 10",
+        "modifier": null,
+        "buy_price": 3300000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "х3 магазин Обрез",
+        "modifier": null,
+        "buy_price": 3300000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "х3 магазин М4",
+        "modifier": null,
+        "buy_price": 650000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "х3 магазин Тек 9",
+        "modifier": null,
+        "buy_price": 150000,
+        "sell_price": 300000,
+        "sell_commission": 291000,
+        "comment": ""
+    },
+    {
+        "item_name": "х3 магазин МП 5",
+        "modifier": null,
+        "buy_price": 50000,
+        "sell_price": 150000,
+        "sell_commission": 145500,
+        "comment": ""
+    },
+    {
+        "item_name": "Все навыки стрельбы ",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 400000,
+        "sell_commission": 388000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тедди красный (модификация)",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 4800000,
+        "sell_commission": 4656000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тедди бирюзовый (модификация)",
+        "modifier": null,
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "sell_commission": 6305000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тедди зеленый (модификация)",
+        "modifier": null,
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Патрик (модификация)",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 700000,
+        "sell_commission": 679000,
+        "comment": ""
+    },
+    {
+        "item_name": "Губка Боб (модификация)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "НФТ контейнер обычный",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "НФТ контейнер средний",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 10500000,
+        "sell_commission": 10185000,
+        "comment": ""
+    },
+    {
+        "item_name": "Гоблинский контейнер",
+        "modifier": null,
+        "buy_price": 8500000,
+        "sell_price": 9500000,
+        "sell_commission": 9215000,
+        "comment": ""
+    },
+    {
+        "item_name": "Премиум контейнер",
+        "modifier": null,
+        "buy_price": 20000000,
+        "sell_price": 23000000,
+        "sell_commission": 22310000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тайник Вайс Сити (ВС)",
+        "modifier": null,
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "sell_commission": 6305000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тайник собирателя",
+        "modifier": null,
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "sell_commission": 8730000,
+        "comment": ""
+    },
+    {
+        "item_name": "Заточка +13 (10к АЗ) ",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка +3 дефф",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка +3 урон",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка бег СЖ",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 15500000,
+        "sell_commission": 15035000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка рыбалка",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка огненные пули",
+        "modifier": null,
+        "buy_price": 8000000,
+        "sell_price": 9500000,
+        "sell_commission": 9215000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка защитная пластина",
+        "modifier": null,
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка бесконечный бег",
+        "modifier": null,
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "sell_commission": 12610000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка на бронежилет",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "sell_commission": 10670000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка на чемодан",
+        "modifier": null,
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "sell_commission": 7760000,
+        "comment": ""
+    },
+    {
+        "item_name": "Нашивка на опыт БП",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Твин Турбо (ТТ) 2 лвл",
+        "modifier": null,
+        "buy_price": 3200000,
+        "sell_price": 3800000,
+        "sell_commission": 3686000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бак 60 литров",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 750000,
+        "sell_commission": 727500,
+        "comment": ""
+    },
+    {
+        "item_name": "Бак 90 литров",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бак 160 литров",
+        "modifier": null,
+        "buy_price": 2700000,
+        "sell_price": 3300000,
+        "sell_commission": 3201000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ковш",
+        "modifier": null,
+        "buy_price": 800000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кенгурятник мародера",
+        "modifier": null,
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кенгурятник зомби апокалипсис",
+        "modifier": null,
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "sell_commission": 2619000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шашка такси (желтая)",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кенгурятник ретро",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2100000,
+        "sell_commission": 2037000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кенгурятник промышленный",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 2700000,
+        "sell_commission": 2619000,
+        "comment": ""
+    },
+    {
+        "item_name": "Кенгурятник метельник",
+        "modifier": null,
+        "buy_price": 2500000,
+        "sell_price": 3200000,
+        "sell_commission": 3104000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шашка такси (черная 1)",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шашка такси (черная 2)",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": ""
+    },
+    {
+        "item_name": "Шашка такси (белая)",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    },
+    {
+        "item_name": "Подиум",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 400000,
+        "sell_commission": 388000,
+        "comment": ""
+    },
+    {
+        "item_name": "Красное нитро",
+        "modifier": null,
+        "buy_price": 18000000,
+        "sell_price": 22000000,
+        "sell_commission": 21340000,
+        "comment": ""
+    },
+    {
+        "item_name": "Багажник с лебедкой",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мидас (рыболов)",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 3750000,
+        "sell_commission": 3637500,
+        "comment": ""
+    },
+    {
+        "item_name": "Годжо Сатору (Бег СЖ)",
+        "modifier": null,
+        "buy_price": 21000000,
+        "sell_price": 25000000,
+        "sell_commission": 24250000,
+        "comment": ""
+    },
+    {
+        "item_name": "Годжо Сатору (Бег СЖ + Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 30000000,
+        "sell_price": 35000000,
+        "sell_commission": 33950000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бейп (Бег СЖ)",
+        "modifier": null,
+        "buy_price": 18000000,
+        "sell_price": 22000000,
+        "sell_commission": 21340000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бейп (Бег СЖ + Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 25000000,
+        "sell_price": 30000000,
+        "sell_commission": 29100000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бейп (Бег СЖ + Огненные пули)",
+        "modifier": null,
+        "buy_price": 22000000,
+        "sell_price": 27000000,
+        "sell_commission": 26190000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бейп (Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 13000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ребекка (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Венздей (венсдей) (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Харли Квинн (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Биг Бейби Тейп (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "sell_commission": 16490000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ребекка (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "sell_commission": 21340000,
+        "comment": ""
+    },
+    {
+        "item_name": "Венздей (венсдей) (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "sell_commission": 21340000,
+        "comment": ""
+    },
+    {
+        "item_name": "Харли Квинн (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "sell_commission": 21340000,
+        "comment": ""
+    },
+    {
+        "item_name": "Биг Бейби Тейп (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "sell_commission": 21340000,
+        "comment": ""
+    },
+    {
+        "item_name": "Хикка (Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 4500000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Другие скины за 5.5к АЗ (Опыт БП)",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Другие скины за 5.5к АЗ (Рыболов) ",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Другие скины за 5.5к АЗ (Бесконечный бег) ",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Джинкс",
+        "modifier": null,
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": ""
+    },
+    {
+        "item_name": "Венздей (венсдей) 2022",
+        "modifier": null,
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "sell_commission": 1649000,
+        "comment": ""
+    },
+    {
+        "item_name": "Хикка",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "sell_commission": 1746000,
+        "comment": ""
+    },
+    {
+        "item_name": "Тайлер Дерден",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Билли Айлиш",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Геральд",
+        "modifier": null,
+        "buy_price": 800000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": ""
+    },
+    {
+        "item_name": "Хагрид",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Джон Сина",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Доктор Браун",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Цири",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Люцифер",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1300000,
+        "sell_commission": 1261000,
+        "comment": ""
+    },
+    {
+        "item_name": "Аль Пачино",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Трисс Меригольд",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Дрилл 536/537",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дрилл 536/537",
+        "modifier": "+12",
+        "buy_price": 850000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дрилл 538",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мидас",
+        "modifier": null,
+        "buy_price": 1700000,
+        "sell_price": 2200000,
+        "sell_commission": 2134000,
+        "comment": ""
+    },
+    {
+        "item_name": "Харли Квинн",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "sell_commission": 10670000,
+        "comment": ""
+    },
+    {
+        "item_name": "Венздей (венсдей) 1991",
+        "modifier": null,
+        "buy_price": 8500000,
+        "sell_price": 9500000,
+        "sell_commission": 9215000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ведьма",
+        "modifier": null,
+        "buy_price": 6500000,
+        "sell_price": 7500000,
+        "sell_commission": 7275000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ребекка",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10000000,
+        "sell_commission": 9700000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дэвид Мартинес",
+        "modifier": null,
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "sell_commission": 5335000,
+        "comment": ""
+    },
+    {
+        "item_name": "Биг Бейби Тейп",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10500000,
+        "sell_commission": 10185000,
+        "comment": ""
+    },
+    {
+        "item_name": "Си Джей",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 700000,
+        "sell_commission": 679000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бейп (любой)",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "sell_commission": 10670000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бомж бег СЖ (костюм)",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Бомж бег СЖ (коробка)",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Годжо Сатору",
+        "modifier": null,
+        "buy_price": 8500000,
+        "sell_price": 9500000,
+        "sell_commission": 9215000,
+        "comment": ""
+    },
+    {
+        "item_name": "Алекс Мерсер",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 1100000,
+        "sell_commission": 1067000,
+        "comment": ""
+    },
+    {
+        "item_name": "Алиса",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "sell_commission": 3880000,
+        "comment": ""
+    },
+    {
+        "item_name": "Уолтер Уайт (Волтер Вайт)",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "sell_commission": 1940000,
+        "comment": ""
+    },
+    {
+        "item_name": "Дора",
+        "modifier": null,
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "sell_commission": 5820000,
+        "comment": ""
+    },
+    {
+        "item_name": "Аска",
+        "modifier": null,
+        "buy_price": 2200000,
+        "sell_price": 3000000,
+        "sell_commission": 2910000,
+        "comment": ""
+    },
+    {
+        "item_name": "Fallen Love Ranger",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Аркейн Ви",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "sell_commission": 1746000,
+        "comment": ""
+    },
+    {
+        "item_name": "CRZ-8",
+        "modifier": null,
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Anti Cuddle Sarah",
+        "modifier": null,
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "sell_commission": 11155000,
+        "comment": ""
+    },
+    {
+        "item_name": "Меллстрой (Mellstroy)",
+        "modifier": null,
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "sell_commission": 6790000,
+        "comment": ""
+    },
+    {
+        "item_name": "Хоумлендер",
+        "modifier": null,
+        "buy_price": 90000000,
+        "sell_price": 105000000,
+        "sell_commission": 101850000,
+        "comment": ""
+    },
+    {
+        "item_name": "Маршмеллоу",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Люси",
+        "modifier": null,
+        "buy_price": 800000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": ""
+    },
+    {
+        "item_name": "Гуль",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "sell_commission": 1746000,
+        "comment": ""
+    },
+    {
+        "item_name": "Гига кот",
+        "modifier": null,
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "sell_commission": 3395000,
+        "comment": ""
+    },
+    {
+        "item_name": "Мистер Бист",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Павел Дуров (лимитка)",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "sell_commission": 4365000,
+        "comment": ""
+    },
+    {
+        "item_name": "Гослинг Шейх",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ися",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 450000,
+        "sell_commission": 436500,
+        "comment": ""
+    },
+    {
+        "item_name": "Хиток",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": ""
+    },
+    {
+        "item_name": "Ричи",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "sell_commission": 339500,
+        "comment": ""
+    },
+    {
+        "item_name": "Конор Военный",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Катсу",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "sell_commission": 485000,
+        "comment": ""
+    },
+    {
+        "item_name": "Гена Букин",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "sell_commission": 1164000,
+        "comment": ""
+    },
+    {
+        "item_name": "Сэм Мейсон Военный",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Фенни Лирст",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Гоуст",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "sell_commission": 2425000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (биткоин)",
+        "modifier": "5 LVL (лвл)",
+        "buy_price": 230000,
+        "sell_price": 300000,
+        "sell_commission": 291000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (биткоин)",
+        "modifier": "6 LVL (лвл)",
+        "buy_price": 270000,
+        "sell_price": 400000,
+        "sell_commission": 388000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (биткоин)",
+        "modifier": "7 LVL (лвл)",
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "sell_commission": 533500,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (биткоин)",
+        "modifier": "8 LVL (лвл)",
+        "buy_price": 550000,
+        "sell_price": 750000,
+        "sell_commission": 727500,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (биткоин)",
+        "modifier": "9 LVL (лвл)",
+        "buy_price": 800000,
+        "sell_price": 1000000,
+        "sell_commission": 970000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (биткоин)",
+        "modifier": "10 LVL (лвл)",
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "sell_commission": 1455000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "5 LVL (лвл)",
+        "buy_price": 50000,
+        "sell_price": 100000,
+        "sell_commission": 97000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "6 LVL (лвл)",
+        "buy_price": 75000,
+        "sell_price": 150000,
+        "sell_commission": 145500,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "7 LVL (лвл)",
+        "buy_price": 175000,
+        "sell_price": 250000,
+        "sell_commission": 242500,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "8 LVL (лвл)",
+        "buy_price": 200000,
+        "sell_price": 400000,
+        "sell_commission": 388000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "9 LVL (лвл)",
+        "buy_price": 450000,
+        "sell_price": 600000,
+        "sell_commission": 582000,
+        "comment": ""
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "10 LVL (лвл)",
+        "buy_price": 650000,
+        "sell_price": 800000,
+        "sell_commission": 776000,
+        "comment": ""
+    }
+]
