@@ -1,0 +1,5802 @@
+[
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "сток",
+        "buy_price": "4000000",
+        "sell_price": "5000000",
+        "comment": "",
+        "item_id": 1
+    },
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "+12",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "comment": "",
+        "item_id": 2
+    },
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "+15",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "comment": "",
+        "item_id": 3
+    },
+    {
+        "item_name": "Шлем железного человека ЖЧ",
+        "modifier": "+16",
+        "buy_price": "6000000",
+        "sell_price": "7500000",
+        "comment": "",
+        "item_id": 4
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 5
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 6
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 7
+    },
+    {
+        "item_name": "Русский боевой топор РБТ",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "comment": "",
+        "item_id": 8
+    },
+    {
+        "item_name": "Морской топор",
+        "modifier": "сток",
+        "buy_price": "400000",
+        "sell_price": "700000",
+        "comment": "брать с заточкой неликвидно",
+        "item_id": 9
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 10
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 11
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 12
+    },
+    {
+        "item_name": "Щит капитана америки КА",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "comment": "",
+        "item_id": 13
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "сток",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "comment": "",
+        "item_id": 14
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "+12",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "comment": "",
+        "item_id": 15
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "+15",
+        "buy_price": "9500000",
+        "sell_price": "10500000",
+        "comment": "",
+        "item_id": 16
+    },
+    {
+        "item_name": "Рука Таноса",
+        "modifier": "+16",
+        "buy_price": "11000000",
+        "sell_price": "12500000",
+        "comment": "",
+        "item_id": 17
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "сток",
+        "buy_price": "18000000",
+        "sell_price": "20000000",
+        "comment": "дефф",
+        "item_id": 18
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "+12",
+        "buy_price": "18000000",
+        "sell_price": "20000000",
+        "comment": "дефф",
+        "item_id": 19
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "+15",
+        "buy_price": "18500000",
+        "sell_price": "20500000",
+        "comment": "дефф",
+        "item_id": 20
+    },
+    {
+        "item_name": "Молот Тора",
+        "modifier": "+16",
+        "buy_price": "20000000",
+        "sell_price": "22000000",
+        "comment": "дефф",
+        "item_id": 21
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 22
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 23
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "comment": "",
+        "item_id": 24
+    },
+    {
+        "item_name": "Прототип",
+        "modifier": "+16",
+        "buy_price": "10000000",
+        "sell_price": "11500000",
+        "comment": "",
+        "item_id": 25
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "сток",
+        "buy_price": "12500000",
+        "sell_price": "14000000",
+        "comment": "",
+        "item_id": 26
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "+12",
+        "buy_price": "13000000",
+        "sell_price": "14500000",
+        "comment": "",
+        "item_id": 27
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "+15",
+        "buy_price": "14000000",
+        "sell_price": "15500000",
+        "comment": "",
+        "item_id": 28
+    },
+    {
+        "item_name": "Клинки аззинота",
+        "modifier": "+16",
+        "buy_price": "15500000",
+        "sell_price": "17000000",
+        "comment": "",
+        "item_id": 29
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 30
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 31
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "comment": "",
+        "item_id": 32
+    },
+    {
+        "item_name": "Нетранеры (нетры)",
+        "modifier": "+16",
+        "buy_price": "9500000",
+        "sell_price": "11000000",
+        "comment": "",
+        "item_id": 33
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 34
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 35
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "comment": "",
+        "item_id": 36
+    },
+    {
+        "item_name": "Цепь махинатора (махи)",
+        "modifier": "+16",
+        "buy_price": "10500000",
+        "sell_price": "12000000",
+        "comment": "",
+        "item_id": 37
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "сток",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "comment": "",
+        "item_id": 38
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 39
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "+15",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "comment": "",
+        "item_id": 40
+    },
+    {
+        "item_name": "Цепь биткоин (биток)",
+        "modifier": "+16",
+        "buy_price": "10000000",
+        "sell_price": "11500000",
+        "comment": "",
+        "item_id": 41
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "сток",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "comment": "Проверь на ликвидность",
+        "item_id": 42
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "+12",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "comment": "Проверь на ликвидность",
+        "item_id": 43
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "Проверь на ликвидность",
+        "item_id": 44
+    },
+    {
+        "item_name": "Рыбки в пруду",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "comment": "Проверь на ликвидность",
+        "item_id": 45
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "сток",
+        "buy_price": "62000000",
+        "sell_price": "70000000",
+        "comment": "",
+        "item_id": 46
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "+12",
+        "buy_price": "63000000",
+        "sell_price": "71000000",
+        "comment": "",
+        "item_id": 47
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "+15",
+        "buy_price": "65000000",
+        "sell_price": "75000000",
+        "comment": "",
+        "item_id": 48
+    },
+    {
+        "item_name": "Энергетический щит (энергощит)",
+        "modifier": "+16",
+        "buy_price": "68000000",
+        "sell_price": "78000000",
+        "comment": "",
+        "item_id": 49
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "сток",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "comment": "Проверь",
+        "item_id": 50
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "+12",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "comment": "Проверь",
+        "item_id": 51
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "+15",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "Проверь",
+        "item_id": 52
+    },
+    {
+        "item_name": "Золотой дигл (голд)",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "comment": "Проверь",
+        "item_id": 53
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "сток",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "comment": "",
+        "item_id": 54
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "+12",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "comment": "",
+        "item_id": 55
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "+15",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "comment": "",
+        "item_id": 56
+    },
+    {
+        "item_name": "Паучьи лапы",
+        "modifier": "+16",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 57
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "сток",
+        "buy_price": "4000000",
+        "sell_price": "5000000",
+        "comment": "",
+        "item_id": 58
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "+12",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "comment": "",
+        "item_id": 59
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "+15",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "comment": "",
+        "item_id": 60
+    },
+    {
+        "item_name": "Оружие Бамбл Би",
+        "modifier": "+16",
+        "buy_price": "7000000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 61
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "сток",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "comment": "Вероятно падает с рулеток",
+        "item_id": 62
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "+12",
+        "buy_price": "4000000",
+        "sell_price": "5000000",
+        "comment": "Вероятно падает с рулеток",
+        "item_id": 63
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "+15",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "comment": "Вероятно падает с рулеток",
+        "item_id": 64
+    },
+    {
+        "item_name": "Маска череп",
+        "modifier": "+16",
+        "buy_price": "6500000",
+        "sell_price": "8000000",
+        "comment": "Вероятно падает с рулеток",
+        "item_id": 65
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "сток",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "comment": "",
+        "item_id": 66
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 67
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "+15",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "comment": "",
+        "item_id": 68
+    },
+    {
+        "item_name": "Тактический шлем",
+        "modifier": "+16",
+        "buy_price": "9500000",
+        "sell_price": "11000000",
+        "comment": "",
+        "item_id": 69
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "Проверь",
+        "item_id": 70
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "+12",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "Проверь",
+        "item_id": 71
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "+15",
+        "buy_price": "8000000",
+        "sell_price": "9000000",
+        "comment": "Проверь",
+        "item_id": 72
+    },
+    {
+        "item_name": "Ледяной меч",
+        "modifier": "+16",
+        "buy_price": "9000000",
+        "sell_price": "10500000",
+        "comment": "Проверь",
+        "item_id": 73
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "сток",
+        "buy_price": "28000000",
+        "sell_price": "31000000",
+        "comment": "28",
+        "item_id": 74
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "+12",
+        "buy_price": "28500000",
+        "sell_price": "31500000",
+        "comment": "28",
+        "item_id": 75
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "+15",
+        "buy_price": "29500000",
+        "sell_price": "33500000",
+        "comment": "28",
+        "item_id": 76
+    },
+    {
+        "item_name": "Пламя",
+        "modifier": "+16",
+        "buy_price": "32000000",
+        "sell_price": "35000000",
+        "comment": "28",
+        "item_id": 77
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "сток",
+        "buy_price": "28000000",
+        "sell_price": "31000000",
+        "comment": "",
+        "item_id": 78
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "+12",
+        "buy_price": "28500000",
+        "sell_price": "31500000",
+        "comment": "",
+        "item_id": 79
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "+15",
+        "buy_price": "29500000",
+        "sell_price": "33500000",
+        "comment": "",
+        "item_id": 80
+    },
+    {
+        "item_name": "Маркер дед инсайд",
+        "modifier": "+16",
+        "buy_price": "32000000",
+        "sell_price": "35000000",
+        "comment": "",
+        "item_id": 81
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "сток",
+        "buy_price": "35000000",
+        "sell_price": "40000000",
+        "comment": "",
+        "item_id": 82
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "+12",
+        "buy_price": "35000000",
+        "sell_price": "40000000",
+        "comment": "",
+        "item_id": 83
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "+15",
+        "buy_price": "36000000",
+        "sell_price": "41000000",
+        "comment": "",
+        "item_id": 84
+    },
+    {
+        "item_name": "Корона",
+        "modifier": "+16",
+        "buy_price": "38000000",
+        "sell_price": "43000000",
+        "comment": "",
+        "item_id": 85
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "сток",
+        "buy_price": "34000000",
+        "sell_price": "38500000",
+        "comment": "Проверь",
+        "item_id": 86
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "+12",
+        "buy_price": "34500000",
+        "sell_price": "39000000",
+        "comment": "Проверь",
+        "item_id": 87
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "+15",
+        "buy_price": "35000000",
+        "sell_price": "40000000",
+        "comment": "Проверь",
+        "item_id": 88
+    },
+    {
+        "item_name": "Другие крафт нимбы",
+        "modifier": "+16",
+        "buy_price": "37000000",
+        "sell_price": "42000000",
+        "comment": "Проверь",
+        "item_id": 89
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "сток",
+        "buy_price": "7000000",
+        "sell_price": "8000000",
+        "comment": "",
+        "item_id": 90
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "+12",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 91
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "+15",
+        "buy_price": "8500000",
+        "sell_price": "9500000",
+        "comment": "",
+        "item_id": 92
+    },
+    {
+        "item_name": "Магический топор",
+        "modifier": "+16",
+        "buy_price": "9500000",
+        "sell_price": "11000000",
+        "comment": "",
+        "item_id": 93
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "сток",
+        "buy_price": "9000000",
+        "sell_price": "10000000",
+        "comment": "",
+        "item_id": 94
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "+12",
+        "buy_price": "9500000",
+        "sell_price": "10500000",
+        "comment": "",
+        "item_id": 95
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "+15",
+        "buy_price": "10500000",
+        "sell_price": "12000000",
+        "comment": "",
+        "item_id": 96
+    },
+    {
+        "item_name": "Фрапс пишется",
+        "modifier": "+16",
+        "buy_price": "11500000",
+        "sell_price": "13000000",
+        "comment": "",
+        "item_id": 97
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "сток",
+        "buy_price": "1300000",
+        "sell_price": "1800000",
+        "comment": "Падают с рулеток",
+        "item_id": 98
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "+12",
+        "buy_price": "1500000",
+        "sell_price": "2000000",
+        "comment": "Падают с рулеток",
+        "item_id": 99
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "+15",
+        "buy_price": "2500000",
+        "sell_price": "3000000",
+        "comment": "Падают с рулеток",
+        "item_id": 100
+    },
+    {
+        "item_name": "Кастомные часы +1 урон",
+        "modifier": "+16",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "comment": "Падают с рулеток",
+        "item_id": 101
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "сток",
+        "buy_price": "1000000",
+        "sell_price": "1500000",
+        "comment": "Падает с рулеток",
+        "item_id": 102
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "+12",
+        "buy_price": "1500000",
+        "sell_price": "2000000",
+        "comment": "Падает с рулеток",
+        "item_id": 103
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "+15",
+        "buy_price": "2500000",
+        "sell_price": "3000000",
+        "comment": "Падает с рулеток",
+        "item_id": 104
+    },
+    {
+        "item_name": "Шляпа 4",
+        "modifier": "+16",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "comment": "Падает с рулеток",
+        "item_id": 105
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "сток",
+        "buy_price": "1000000",
+        "sell_price": "1500000",
+        "comment": "Падает с рулеток",
+        "item_id": 106
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "+12",
+        "buy_price": "1500000",
+        "sell_price": "2000000",
+        "comment": "Падает с рулеток",
+        "item_id": 107
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "+15",
+        "buy_price": "2500000",
+        "sell_price": "3000000",
+        "comment": "Падает с рулеток",
+        "item_id": 108
+    },
+    {
+        "item_name": "Кепка LA (ЛА)",
+        "modifier": "+16",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "comment": "Падает с рулеток",
+        "item_id": 109
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "сток",
+        "buy_price": "500000",
+        "sell_price": "800000",
+        "comment": "Падают с рулеток",
+        "item_id": 110
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "+12",
+        "buy_price": "700000",
+        "sell_price": "1000000",
+        "comment": "Падают с рулеток",
+        "item_id": 111
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "+15",
+        "buy_price": "1200000",
+        "sell_price": "2000000",
+        "comment": "Падают с рулеток",
+        "item_id": 112
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф",
+        "modifier": "+16",
+        "buy_price": "2500000",
+        "sell_price": "3500000",
+        "comment": "Падают с рулеток",
+        "item_id": 113
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "сток",
+        "buy_price": "3000000",
+        "sell_price": "4000000",
+        "comment": "",
+        "item_id": 114
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "+12",
+        "buy_price": "3500000",
+        "sell_price": "4500000",
+        "comment": "",
+        "item_id": 115
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "+15",
+        "buy_price": "4500000",
+        "sell_price": "5500000",
+        "comment": "",
+        "item_id": 116
+    },
+    {
+        "item_name": "Шлем за 28к (ПАБГ) любой",
+        "modifier": "+16",
+        "buy_price": "5500000",
+        "sell_price": "6500000",
+        "comment": "",
+        "item_id": 117
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "сток",
+        "buy_price": "1100000",
+        "sell_price": "1500000",
+        "comment": "ВОЗМОЖНО падает с рулеток",
+        "item_id": 118
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "+12",
+        "buy_price": "1300000",
+        "sell_price": "1700000",
+        "comment": "ВОЗМОЖНО падает с рулеток",
+        "item_id": 119
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "+15",
+        "buy_price": "1800000",
+        "sell_price": "2200000",
+        "comment": "ВОЗМОЖНО падает с рулеток",
+        "item_id": 120
+    },
+    {
+        "item_name": "Шлем мандалорца штурмовик",
+        "modifier": "+16",
+        "buy_price": "2800000",
+        "sell_price": "3500000",
+        "comment": "ВОЗМОЖНО падает с рулеток",
+        "item_id": 121
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "сток",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "comment": "Проверь",
+        "item_id": 122
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "+12",
+        "buy_price": "6500000",
+        "sell_price": "7500000",
+        "comment": "Проверь",
+        "item_id": 123
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "+15",
+        "buy_price": "7500000",
+        "sell_price": "8500000",
+        "comment": "Проверь",
+        "item_id": 124
+    },
+    {
+        "item_name": "Обрез",
+        "modifier": "+16",
+        "buy_price": "8500000",
+        "sell_price": "10000000",
+        "comment": "Проверь",
+        "item_id": 125
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "сток",
+        "buy_price": "24000000",
+        "sell_price": "27000000",
+        "comment": "",
+        "item_id": 126
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "+12",
+        "buy_price": "24000000",
+        "sell_price": "27000000",
+        "comment": "",
+        "item_id": 127
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "+15",
+        "buy_price": "25000000",
+        "sell_price": "28000000",
+        "comment": "",
+        "item_id": 128
+    },
+    {
+        "item_name": "Магические сферы",
+        "modifier": "+16",
+        "buy_price": "27000000",
+        "sell_price": "30000000",
+        "comment": "",
+        "item_id": 129
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "сток",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "comment": "",
+        "item_id": 130
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "+12",
+        "buy_price": "5000000",
+        "sell_price": "6000000",
+        "comment": "",
+        "item_id": 131
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "+15",
+        "buy_price": "6000000",
+        "sell_price": "7000000",
+        "comment": "",
+        "item_id": 132
+    },
+    {
+        "item_name": "Сфера над головой",
+        "modifier": "+16",
+        "buy_price": "7000000",
+        "sell_price": "8500000",
+        "comment": "",
+        "item_id": 133
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "сток",
+        "buy_price": "1800000",
+        "sell_price": "2500000",
+        "comment": "",
+        "item_id": 134
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "+12",
+        "buy_price": "2300000",
+        "sell_price": "3000000",
+        "comment": "",
+        "item_id": 135
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "+15",
+        "buy_price": "3000000",
+        "sell_price": "4000000",
+        "comment": "",
+        "item_id": 136
+    },
+    {
+        "item_name": "Маска распорядителя",
+        "modifier": "+16",
+        "buy_price": "4500000",
+        "sell_price": "6000000",
+        "comment": "",
+        "item_id": 137
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 138
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 139
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 140
+    },
+    {
+        "item_name": "Игрушечный делориан",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 141
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 142
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 143
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 144
+    },
+    {
+        "item_name": "Планет Экспресс",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 145
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 146
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 147
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "+15",
+        "buy_price": 8000000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 148
+    },
+    {
+        "item_name": "Молот дафф",
+        "modifier": "+16",
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 149
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "сток",
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "comment": "Падает с рулеток",
+        "item_id": 150
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "+12",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "Падает с рулеток",
+        "item_id": 151
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "+15",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "Падает с рулеток",
+        "item_id": 152
+    },
+    {
+        "item_name": "Неоновая маска",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "Падает с рулеток",
+        "item_id": 153
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 154
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 155
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "+15",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 156
+    },
+    {
+        "item_name": "Маска неонового маньяка",
+        "modifier": "+16",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 157
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 158
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "+12",
+        "buy_price": 1800000,
+        "sell_price": 2300000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 159
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "+15",
+        "buy_price": 2300000,
+        "sell_price": 3000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 160
+    },
+    {
+        "item_name": "Маска терминатора",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 161
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 162
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 163
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "+15",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 164
+    },
+    {
+        "item_name": "Маска локи",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 165
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 166
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 167
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "+15",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 168
+    },
+    {
+        "item_name": "Маска вренч",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "Вероятно, падает с рулеток",
+        "item_id": 169
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "сток",
+        "buy_price": 400000,
+        "sell_price": 700000,
+        "comment": "Падает с рулеток",
+        "item_id": 170
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "comment": "Падает с рулеток",
+        "item_id": 171
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "+15",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "comment": "Падает с рулеток",
+        "item_id": 172
+    },
+    {
+        "item_name": "Маска охранника +1 урон",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "Падает с рулеток",
+        "item_id": 173
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "сток",
+        "buy_price": 250000,
+        "sell_price": 500000,
+        "comment": "Падает с рулеток",
+        "item_id": 174
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "+12",
+        "buy_price": 400000,
+        "sell_price": 700000,
+        "comment": "Падает с рулеток",
+        "item_id": 175
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "+15",
+        "buy_price": 1000000,
+        "sell_price": 1300000,
+        "comment": "Падает с рулеток",
+        "item_id": 176
+    },
+    {
+        "item_name": "Маска охранника +1 дефф",
+        "modifier": "+16",
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "comment": "Падает с рулеток",
+        "item_id": 177
+    },
+    {
+        "item_name": "Шляпа #4 <- Крафт маркер",
+        "modifier": "+16 Перенос",
+        "buy_price": 35000000,
+        "sell_price": 40000000,
+        "comment": "",
+        "item_id": 178
+    },
+    {
+        "item_name": "Шлем китти <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 179
+    },
+    {
+        "item_name": "Шлем китти <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 180
+    },
+    {
+        "item_name": "Шлем китти <- Пепе",
+        "modifier": "+15 Перенос",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 181
+    },
+    {
+        "item_name": "Шлем китти <- Пепе",
+        "modifier": "+16 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 182
+    },
+    {
+        "item_name": "Шлем пинк <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 183
+    },
+    {
+        "item_name": "Шлем пинк <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 184
+    },
+    {
+        "item_name": "Шлем пинк <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 185
+    },
+    {
+        "item_name": "Шлем пинк <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 9000000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 186
+    },
+    {
+        "item_name": "Шлем китти <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 187
+    },
+    {
+        "item_name": "Шлем китти <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 9000000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 188
+    },
+    {
+        "item_name": "Огненная кирка <- Молот Тора",
+        "modifier": "+16 Перенос",
+        "buy_price": 45000000,
+        "sell_price": 50000000,
+        "comment": "",
+        "item_id": 189
+    },
+    {
+        "item_name": "Огненная кирка <- Русский боевой топор",
+        "modifier": "+16 Перенос",
+        "buy_price": 34000000,
+        "sell_price": 38000000,
+        "comment": "",
+        "item_id": 190
+    },
+    {
+        "item_name": "Огненная кирка <- Щупальца",
+        "modifier": "+16 Перенос",
+        "buy_price": 34000000,
+        "sell_price": 38000000,
+        "comment": "",
+        "item_id": 191
+    },
+    {
+        "item_name": "Огненная кирка <- Билл Шифр",
+        "modifier": "+16 Перенос",
+        "buy_price": 34000000,
+        "sell_price": 38000000,
+        "comment": "",
+        "item_id": 192
+    },
+    {
+        "item_name": "Паучьи лапы <-Русский боевой топор",
+        "modifier": "+16 Перенос",
+        "buy_price": 15000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 193
+    },
+    {
+        "item_name": "Паучьи лапы <- Билл Шифр",
+        "modifier": "+16 Перенос",
+        "buy_price": 15000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 194
+    },
+    {
+        "item_name": "Паучьи лапы <- Щупальца",
+        "modifier": "+16 Перенос",
+        "buy_price": 15000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 195
+    },
+    {
+        "item_name": "Паучьи лапы <- Молот Тора",
+        "modifier": "+16 Перенос",
+        "buy_price": 25000000,
+        "sell_price": 29000000,
+        "comment": "",
+        "item_id": 196
+    },
+    {
+        "item_name": "Тактический шлем <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 17000000,
+        "sell_price": 20000000,
+        "comment": "",
+        "item_id": 197
+    },
+    {
+        "item_name": "Тактический шлем <- Крафт нимб",
+        "modifier": "+16 Перенос",
+        "buy_price": 40000000,
+        "sell_price": 44000000,
+        "comment": "",
+        "item_id": 198
+    },
+    {
+        "item_name": "Оружие Бамбл Би <- Молот Дафф",
+        "modifier": "+16 Перенос",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "comment": "",
+        "item_id": 199
+    },
+    {
+        "item_name": "Оружие Бамбл Би <- Фрапс пишется",
+        "modifier": "+16 Перенос",
+        "buy_price": 18000000,
+        "sell_price": 20000000,
+        "comment": "",
+        "item_id": 200
+    },
+    {
+        "item_name": "Маска череп <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 18000000,
+        "sell_price": 21000000,
+        "comment": "Маска череп выпадает с рулеток",
+        "item_id": 201
+    },
+    {
+        "item_name": "Маска распорядителя <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "Маска распорядителя выпадает с рулеток",
+        "item_id": 202
+    },
+    {
+        "item_name": "Маска распорядителя <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 13000000,
+        "sell_price": 15000000,
+        "comment": "Маска распорядителя выпадает с рулеток",
+        "item_id": 203
+    },
+    {
+        "item_name": "Маска охранника урон +1 <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "Маска охранника выпадает с рулеток",
+        "item_id": 204
+    },
+    {
+        "item_name": "Маска охранника урон +1 <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Маска охранника выпадает с рулеток",
+        "item_id": 205
+    },
+    {
+        "item_name": "Маска охранника дефф +1 <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Маска охранника выпадает с рулеток",
+        "item_id": 206
+    },
+    {
+        "item_name": "Маска локи <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 207
+    },
+    {
+        "item_name": "Маска локи <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 208
+    },
+    {
+        "item_name": "Маска невидимка <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 209
+    },
+    {
+        "item_name": "Маска невидимка <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 9000000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 210
+    },
+    {
+        "item_name": "Маска вренч <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 211
+    },
+    {
+        "item_name": "Маска вренч <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 212
+    },
+    {
+        "item_name": "Кастомные наушники +урон <- Игрушечный делориан",
+        "modifier": "+16 Перенос",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 213
+    },
+    {
+        "item_name": "Кастомные наушники +урон <- Магический шар",
+        "modifier": "+16 Перенос",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 214
+    },
+    {
+        "item_name": "Кастомные наушники +дефф <- Игрушечный делориан",
+        "modifier": "+16 Перенос",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 215
+    },
+    {
+        "item_name": "Кастомные наушники +дефф <- Магический шар",
+        "modifier": "+16 Перенос",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 216
+    },
+    {
+        "item_name": "Дельтаплан <- Молот Тора",
+        "modifier": "+16 Перенос",
+        "buy_price": 18500000,
+        "sell_price": 21000000,
+        "comment": "",
+        "item_id": 217
+    },
+    {
+        "item_name": "Дельтаплан <- Щупальцы",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 218
+    },
+    {
+        "item_name": "Дельтаплан <- Русский боевой топор РБТ",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 219
+    },
+    {
+        "item_name": "Дельтаплан <- Билл Шифр",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 220
+    },
+    {
+        "item_name": "Шляпа #4 <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 221
+    },
+    {
+        "item_name": "Шляпа #4 <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 222
+    },
+    {
+        "item_name": "Шляпа #4 <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 223
+    },
+    {
+        "item_name": "Шляпа #4 <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 224
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 225
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 226
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Тыква",
+        "modifier": "+15 Перенос",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 227
+    },
+    {
+        "item_name": "Кепка LA (ЛА) <- Тыква",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 228
+    },
+    {
+        "item_name": "Неоновая маска <- Нетраннеры (нетры)",
+        "modifier": "+15 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 229
+    },
+    {
+        "item_name": "Неоновая маска <- Нетраннеры (нетры)",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 230
+    },
+    {
+        "item_name": "Кастомные часы +1 урон <- Молот Дафф",
+        "modifier": "+15 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Часы падают с рулеток",
+        "item_id": 231
+    },
+    {
+        "item_name": "Кастомные часы +1 урон <- Молот Дафф",
+        "modifier": "+16 Перенос",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Часы падают с рулеток",
+        "item_id": 232
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф <- Молот Дафф",
+        "modifier": "+15 Перенос",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "Часы падают с рулеток",
+        "item_id": 233
+    },
+    {
+        "item_name": "Кастомные часы +1 дефф <- Молот Дафф",
+        "modifier": "+16 Перенос",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Часы падают с рулеток",
+        "item_id": 234
+    },
+    {
+        "item_name": "Шлем Alien Чужой <- Чубакка",
+        "modifier": "+15 Перенос",
+        "buy_price": 1500000,
+        "sell_price": 2500000,
+        "comment": "Шлем падает с рулеток",
+        "item_id": 235
+    },
+    {
+        "item_name": "Шлем Alien Чужой <- Чубакка",
+        "modifier": "+16 Перенос",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "Шлем падает с рулеток",
+        "item_id": 236
+    },
+    {
+        "item_name": "Сферы <- Цепь махинатора (махи)",
+        "modifier": "+16 Перенос",
+        "buy_price": 33000000,
+        "sell_price": 36000000,
+        "comment": "",
+        "item_id": 237
+    },
+    {
+        "item_name": "Обрез <- Цепь махинатора (махи)",
+        "modifier": "+15 Перенос",
+        "buy_price": 14000000,
+        "sell_price": 16000000,
+        "comment": "",
+        "item_id": 238
+    },
+    {
+        "item_name": "Обрез <- Цепь махинатора (махи)",
+        "modifier": "+16 Перенос",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "comment": "",
+        "item_id": 239
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 240
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 241
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "comment": "",
+        "item_id": 242
+    },
+    {
+        "item_name": "Щупальцы",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 243
+    },
+    {
+        "item_name": "Супер лопата",
+        "modifier": "сток",
+        "buy_price": 1600000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 244
+    },
+    {
+        "item_name": "Супер лопата",
+        "modifier": "+12",
+        "buy_price": 1800000,
+        "sell_price": 2200000,
+        "comment": "",
+        "item_id": 245
+    },
+    {
+        "item_name": "Супер кирка",
+        "modifier": "сток",
+        "buy_price": 4500000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 246
+    },
+    {
+        "item_name": "Супер кирка",
+        "modifier": "+12",
+        "buy_price": 4700000,
+        "sell_price": 5200000,
+        "comment": "",
+        "item_id": 247
+    },
+    {
+        "item_name": "Супер грабли",
+        "modifier": "сток",
+        "buy_price": 1400000,
+        "sell_price": 1900000,
+        "comment": "",
+        "item_id": 248
+    },
+    {
+        "item_name": "Супер грабли",
+        "modifier": "+12",
+        "buy_price": 1600000,
+        "sell_price": 2100000,
+        "comment": "",
+        "item_id": 249
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "сток",
+        "buy_price": 25000000,
+        "sell_price": 28000000,
+        "comment": "",
+        "item_id": 250
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "+12",
+        "buy_price": 25000000,
+        "sell_price": 28000000,
+        "comment": "",
+        "item_id": 251
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "+15",
+        "buy_price": 26000000,
+        "sell_price": 29000000,
+        "comment": "",
+        "item_id": 252
+    },
+    {
+        "item_name": "Огненная кирка",
+        "modifier": "+16",
+        "buy_price": 27000000,
+        "sell_price": 31000000,
+        "comment": "",
+        "item_id": 253
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "сток",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "comment": "",
+        "item_id": 254
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "+12",
+        "buy_price": 16000000,
+        "sell_price": 18000000,
+        "comment": "",
+        "item_id": 255
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "+15",
+        "buy_price": 17000000,
+        "sell_price": 19000000,
+        "comment": "",
+        "item_id": 256
+    },
+    {
+        "item_name": "Админ маркер дефф",
+        "modifier": "+16",
+        "buy_price": 18000000,
+        "sell_price": 21000000,
+        "comment": "",
+        "item_id": 257
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "сток",
+        "buy_price": 230000000,
+        "sell_price": 260000000,
+        "comment": "",
+        "item_id": 258
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "+12",
+        "buy_price": 230000000,
+        "sell_price": 260000000,
+        "comment": "",
+        "item_id": 259
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "+15",
+        "buy_price": 230000000,
+        "sell_price": 262000000,
+        "comment": "",
+        "item_id": 260
+    },
+    {
+        "item_name": "Джетпак",
+        "modifier": "+16",
+        "buy_price": 230000000,
+        "sell_price": 265000000,
+        "comment": "",
+        "item_id": 261
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "сток",
+        "buy_price": 1700000,
+        "sell_price": 2200000,
+        "comment": "",
+        "item_id": 262
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 263
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 264
+    },
+    {
+        "item_name": "Кепка Диппера",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 265
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3250000,
+        "comment": "",
+        "item_id": 266
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 3750000,
+        "comment": "",
+        "item_id": 267
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "+15",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 268
+    },
+    {
+        "item_name": "Шлем бензопила",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 269
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "comment": "Возможно падает с рулеток",
+        "item_id": 270
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "+12",
+        "buy_price": 6500000,
+        "sell_price": 7500000,
+        "comment": "Возможно падает с рулеток",
+        "item_id": 271
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "comment": "Возможно падает с рулеток",
+        "item_id": 272
+    },
+    {
+        "item_name": "Голова тыквы",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Возможно падает с рулеток",
+        "item_id": 273
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "сток",
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 274
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "+12",
+        "buy_price": 900000,
+        "sell_price": 1300000,
+        "comment": "",
+        "item_id": 275
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "+15",
+        "buy_price": 1200000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 276
+    },
+    {
+        "item_name": "Сфера Аир",
+        "modifier": "+16",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 277
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "сток",
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "comment": "",
+        "item_id": 278
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "+12",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 279
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "+15",
+        "buy_price": 2200000,
+        "sell_price": 2800000,
+        "comment": "",
+        "item_id": 280
+    },
+    {
+        "item_name": "Летающие снежинки",
+        "modifier": "+16",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 281
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 282
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 283
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "+15",
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 284
+    },
+    {
+        "item_name": "Пугало репка",
+        "modifier": "+16",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 285
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 286
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 287
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "comment": "",
+        "item_id": 288
+    },
+    {
+        "item_name": "Билл Шифр",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 289
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "сток",
+        "buy_price": 1700000,
+        "sell_price": 2200000,
+        "comment": "",
+        "item_id": 290
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "+12",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 291
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "+15",
+        "buy_price": 3000000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 292
+    },
+    {
+        "item_name": "Очки админ",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 293
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "сток",
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 294
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 3700000,
+        "comment": "",
+        "item_id": 295
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "+15",
+        "buy_price": 3800000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 296
+    },
+    {
+        "item_name": "Маска невидимка",
+        "modifier": "+16",
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "comment": "",
+        "item_id": 297
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "сток",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 298
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "+12",
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 299
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "+15",
+        "buy_price": 7500000,
+        "sell_price": 8500000,
+        "comment": "",
+        "item_id": 300
+    },
+    {
+        "item_name": "Топор магма",
+        "modifier": "+16",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 301
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 302
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 303
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 304
+    },
+    {
+        "item_name": "Магический шар №1",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 305
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 306
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 307
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 308
+    },
+    {
+        "item_name": "Магический шар №2",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 309
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 310
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 311
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 312
+    },
+    {
+        "item_name": "Магический шар №4",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 313
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 314
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 315
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 316
+    },
+    {
+        "item_name": "Магический шар №5",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 317
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 318
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 319
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 320
+    },
+    {
+        "item_name": "Магический шар №6",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 321
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "сток",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 322
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "+12",
+        "buy_price": 10500000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 323
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "+15",
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 324
+    },
+    {
+        "item_name": "Магический шар №7",
+        "modifier": "+16",
+        "buy_price": 13500000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 325
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "сток",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 326
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "+12",
+        "buy_price": 9000000,
+        "sell_price": 10500000,
+        "comment": "",
+        "item_id": 327
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "+15",
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 328
+    },
+    {
+        "item_name": "Магический шар №3",
+        "modifier": "+16",
+        "buy_price": 12500000,
+        "sell_price": 14000000,
+        "comment": "",
+        "item_id": 329
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "сток",
+        "buy_price": 24500000,
+        "sell_price": 27000000,
+        "comment": "",
+        "item_id": 330
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "+12",
+        "buy_price": 24500000,
+        "sell_price": 27000000,
+        "comment": "",
+        "item_id": 331
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "+15",
+        "buy_price": 26000000,
+        "sell_price": 28000000,
+        "comment": "",
+        "item_id": 332
+    },
+    {
+        "item_name": "Энергетический шар (энергошар)",
+        "modifier": "+16",
+        "buy_price": 29000000,
+        "sell_price": 32500000,
+        "comment": "",
+        "item_id": 333
+    },
+    {
+        "item_name": "Энергетический двигатель (энергодвигатель)",
+        "modifier": "сток",
+        "buy_price": 15500000,
+        "sell_price": 17500000,
+        "comment": "",
+        "item_id": 334
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "сток",
+        "buy_price": 2300000,
+        "sell_price": 2800000,
+        "comment": "",
+        "item_id": 335
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "+12",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 336
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 337
+    },
+    {
+        "item_name": "Нимб Стрит Флеш",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 338
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "сток",
+        "buy_price": 2300000,
+        "sell_price": 2700000,
+        "comment": "",
+        "item_id": 339
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "+12",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 340
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "+15",
+        "buy_price": 3000000,
+        "sell_price": 3600000,
+        "comment": "",
+        "item_id": 341
+    },
+    {
+        "item_name": "Ангельский нимб",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 4200000,
+        "comment": "",
+        "item_id": 342
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "сток",
+        "buy_price": 1500000,
+        "sell_price": 1900000,
+        "comment": "",
+        "item_id": 343
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "+12",
+        "buy_price": 1700000,
+        "sell_price": 2100000,
+        "comment": "",
+        "item_id": 344
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "+15",
+        "buy_price": 2200000,
+        "sell_price": 2800000,
+        "comment": "",
+        "item_id": 345
+    },
+    {
+        "item_name": "Пончиковый нимб",
+        "modifier": "+16",
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 346
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "сток",
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 347
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "+12",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 348
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "+15",
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "comment": "",
+        "item_id": 349
+    },
+    {
+        "item_name": "Портальная пушка",
+        "modifier": "+16",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "",
+        "item_id": 350
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "сток",
+        "buy_price": 250000,
+        "sell_price": 400000,
+        "comment": "",
+        "item_id": 351
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "+12",
+        "buy_price": 350000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 352
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "+15",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 353
+    },
+    {
+        "item_name": "Кастомные наушники +урон",
+        "modifier": "+16",
+        "buy_price": 1300000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 354
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "сток",
+        "buy_price": 3200000,
+        "sell_price": 3800000,
+        "comment": "",
+        "item_id": 355
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "+12",
+        "buy_price": 3400000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 356
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "+15",
+        "buy_price": 3700000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 357
+    },
+    {
+        "item_name": "Воздушный шар (любой)",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 358
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "сток",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 359
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "+12",
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "comment": "",
+        "item_id": 360
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "+15",
+        "buy_price": 2700000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 361
+    },
+    {
+        "item_name": "Воздушный шар бомж",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 362
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 363
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "+12",
+        "buy_price": 2700000,
+        "sell_price": 3200000,
+        "comment": "",
+        "item_id": 364
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "+15",
+        "buy_price": 3200000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 365
+    },
+    {
+        "item_name": "Воздушный шар Хазбик",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 366
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "сток",
+        "buy_price": 600000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 367
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 368
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "+15",
+        "buy_price": 1200000,
+        "sell_price": 1800000,
+        "comment": "",
+        "item_id": 369
+    },
+    {
+        "item_name": "Мешок с мясом",
+        "modifier": "+16",
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 370
+    },
+    {
+        "item_name": "Скейт",
+        "modifier": "сток",
+        "buy_price": 600000,
+        "sell_price": 850000,
+        "comment": "",
+        "item_id": 371
+    },
+    {
+        "item_name": "Скейт",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 372
+    },
+    {
+        "item_name": "Скейт",
+        "modifier": "+15",
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "comment": "",
+        "item_id": 373
+    },
+    {
+        "item_name": "Реактивный скейт",
+        "modifier": "сток",
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 374
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "сток",
+        "buy_price": 400000,
+        "sell_price": 600000,
+        "comment": "",
+        "item_id": 375
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "+12",
+        "buy_price": 600000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 376
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "+15",
+        "buy_price": 1000000,
+        "sell_price": 1400000,
+        "comment": "",
+        "item_id": 377
+    },
+    {
+        "item_name": "Золотые крылья",
+        "modifier": "+16",
+        "buy_price": 1500000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 378
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 379
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "+12",
+        "buy_price": 700000,
+        "sell_price": 1300000,
+        "comment": "",
+        "item_id": 380
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "+15",
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 381
+    },
+    {
+        "item_name": "Анимированная пчела",
+        "modifier": "+16",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 382
+    },
+    {
+        "item_name": "Восточный ларек (любой)",
+        "modifier": "сток",
+        "buy_price": 400000,
+        "sell_price": 600000,
+        "comment": "",
+        "item_id": 383
+    },
+    {
+        "item_name": "Восточный ларек (любой)",
+        "modifier": "+12",
+        "buy_price": 550000,
+        "sell_price": 750000,
+        "comment": "",
+        "item_id": 384
+    },
+    {
+        "item_name": "Элитная лавка",
+        "modifier": "сток",
+        "buy_price": 15000000,
+        "sell_price": 16500000,
+        "comment": "",
+        "item_id": 385
+    },
+    {
+        "item_name": "Лавка Рик и Морти",
+        "modifier": "сток",
+        "buy_price": 4200000,
+        "sell_price": 4700000,
+        "comment": "",
+        "item_id": 386
+    },
+    {
+        "item_name": "Лавка Шрек",
+        "modifier": "сток",
+        "buy_price": 4200000,
+        "sell_price": 4700000,
+        "comment": "",
+        "item_id": 387
+    },
+    {
+        "item_name": "Лавка мусорка",
+        "modifier": "сток",
+        "buy_price": 3500000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 388
+    },
+    {
+        "item_name": "Лавка горячая штучка",
+        "modifier": "сток",
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 389
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "сток",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 390
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "+12",
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "comment": "",
+        "item_id": 391
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 392
+    },
+    {
+        "item_name": "Дельтаплан",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 393
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "сток",
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 394
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "+12",
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "comment": "",
+        "item_id": 395
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "+15",
+        "buy_price": 2500000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 396
+    },
+    {
+        "item_name": "Велосипед на спину (велик)",
+        "modifier": "+16",
+        "buy_price": 3500000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 397
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "сток",
+        "buy_price": 2500000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 398
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "+12",
+        "buy_price": 3000000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 399
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "+15",
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 400
+    },
+    {
+        "item_name": "Очки эпл вижен (Apple Vision)",
+        "modifier": "+16",
+        "buy_price": 4500000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 401
+    },
+    {
+        "item_name": "RGB чемодан",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 402
+    },
+    {
+        "item_name": "Дьявольский чемодан",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 403
+    },
+    {
+        "item_name": "Зомби чемодан",
+        "modifier": "сток",
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 404
+    },
+    {
+        "item_name": "Магический чемодан",
+        "modifier": "сток",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 405
+    },
+    {
+        "item_name": "Чемодан Железный человек ЖЧ",
+        "modifier": "сток",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 406
+    },
+    {
+        "item_name": "Небесный чемодан",
+        "modifier": "сток",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 407
+    },
+    {
+        "item_name": "Тревожный чемодан",
+        "modifier": "сток",
+        "buy_price": 1100000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 408
+    },
+    {
+        "item_name": "Энергетический чемодан (энергочемодан)",
+        "modifier": "сток",
+        "buy_price": 22000000,
+        "sell_price": 25000000,
+        "comment": "",
+        "item_id": 409
+    },
+    {
+        "item_name": "Энергетический чемодан (энергочемодан) + нашивка",
+        "modifier": "сток + нашивка",
+        "buy_price": 29000000,
+        "sell_price": 32000000,
+        "comment": "",
+        "item_id": 410
+    },
+    {
+        "item_name": "Энергетическая накладка чемодан",
+        "modifier": "сток + нашивка",
+        "buy_price": 16500000,
+        "sell_price": 18000000,
+        "comment": "",
+        "item_id": 411
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "+ликвид",
+        "item_id": 412
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "+ликвид",
+        "item_id": 413
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "+ликвид",
+        "item_id": 414
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "+ликвид",
+        "item_id": 415
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "+ликвид",
+        "item_id": 416
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "+ликвид",
+        "item_id": 417
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "+ликвид",
+        "item_id": 418
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "+ликвид",
+        "item_id": 419
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Атака Титанов",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "+ликвид",
+        "item_id": 420
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "+ликвид",
+        "item_id": 421
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "+ликвид",
+        "item_id": 422
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "+ликвид",
+        "item_id": 423
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "+ликвид",
+        "item_id": 424
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "+ликвид",
+        "item_id": 425
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "+ликвид",
+        "item_id": 426
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "+ликвид",
+        "item_id": 427
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "+ликвид",
+        "item_id": 428
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Гравити Фолз",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "+ликвид",
+        "item_id": 429
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "+ликвид",
+        "item_id": 430
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "+ликвид",
+        "item_id": 431
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "+ликвид",
+        "item_id": 432
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "+ликвид",
+        "item_id": 433
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "+ликвид",
+        "item_id": 434
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "+ликвид",
+        "item_id": 435
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "+ликвид",
+        "item_id": 436
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "+ликвид",
+        "item_id": 437
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Лайт",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "+ликвид",
+        "item_id": 438
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "+ликвид",
+        "item_id": 439
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "+ликвид",
+        "item_id": 440
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "+ликвид",
+        "item_id": 441
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "+ликвид",
+        "item_id": 442
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "+ликвид",
+        "item_id": 443
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "+ликвид",
+        "item_id": 444
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "+ликвид",
+        "item_id": 445
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "+ликвид",
+        "item_id": 446
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Орда",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "+ликвид",
+        "item_id": 447
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "+ликвид",
+        "item_id": 448
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "+ликвид",
+        "item_id": 449
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "+ликвид",
+        "item_id": 450
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "+ликвид",
+        "item_id": 451
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "+ликвид",
+        "item_id": 452
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "+ликвид",
+        "item_id": 453
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "+ликвид",
+        "item_id": 454
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "+ликвид",
+        "item_id": 455
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Невермор",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "+ликвид",
+        "item_id": 456
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "+ликвид",
+        "item_id": 457
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "+ликвид",
+        "item_id": 458
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "+ликвид",
+        "item_id": 459
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "+ликвид",
+        "item_id": 460
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "+ликвид",
+        "item_id": 461
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "+ликвид",
+        "item_id": 462
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "+ликвид",
+        "item_id": 463
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "+ликвид",
+        "item_id": 464
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) ЩИТ",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "+ликвид",
+        "item_id": 465
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 466
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 467
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "",
+        "item_id": 468
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 469
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "",
+        "item_id": 470
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 471
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 472
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 473
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Мортал Комбат",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "",
+        "item_id": 474
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 475
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 476
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "",
+        "item_id": 477
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 478
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "",
+        "item_id": 479
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 480
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 481
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "",
+        "item_id": 482
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Учиха",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "",
+        "item_id": 483
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "Фулл неликвид",
+        "item_id": 484
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "Фулл неликвид",
+        "item_id": 485
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "Фулл неликвид",
+        "item_id": 486
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "Фулл неликвид",
+        "item_id": 487
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "Фулл неликвид",
+        "item_id": 488
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Фулл неликвид",
+        "item_id": 489
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Фулл неликвид",
+        "item_id": 490
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Фулл неликвид",
+        "item_id": 491
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Бо Джек",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "Фулл неликвид",
+        "item_id": 492
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "Фулл неликвид",
+        "item_id": 493
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "Фулл неликвид",
+        "item_id": 494
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "Фулл неликвид",
+        "item_id": 495
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "Фулл неликвид",
+        "item_id": 496
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "Фулл неликвид",
+        "item_id": 497
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Фулл неликвид",
+        "item_id": 498
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Фулл неликвид",
+        "item_id": 499
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Фулл неликвид",
+        "item_id": 500
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Унесенные",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "Фулл неликвид",
+        "item_id": 501
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "Фулл неликвид",
+        "item_id": 502
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "Фулл неликвид",
+        "item_id": 503
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "Фулл неликвид",
+        "item_id": 504
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "Фулл неликвид",
+        "item_id": 505
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "Фулл неликвид",
+        "item_id": 506
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Фулл неликвид",
+        "item_id": 507
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Фулл неликвид",
+        "item_id": 508
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Фулл неликвид",
+        "item_id": 509
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Симпсоны",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "Фулл неликвид",
+        "item_id": 510
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "Фулл неликвид",
+        "item_id": 511
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "Фулл неликвид",
+        "item_id": 512
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "Фулл неликвид",
+        "item_id": 513
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "Фулл неликвид",
+        "item_id": 514
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "Фулл неликвид",
+        "item_id": 515
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Фулл неликвид",
+        "item_id": 516
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Фулл неликвид",
+        "item_id": 517
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Фулл неликвид",
+        "item_id": 518
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Игра в кальмара",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "Фулл неликвид",
+        "item_id": 519
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "сток - +6",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "Фулл неликвид",
+        "item_id": 520
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+7",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "Фулл неликвид",
+        "item_id": 521
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+8",
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "Фулл неликвид",
+        "item_id": 522
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+9",
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "Фулл неликвид",
+        "item_id": 523
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+10",
+        "buy_price": 7000000,
+        "sell_price": 8500000,
+        "comment": "Фулл неликвид",
+        "item_id": 524
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+11",
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "Фулл неликвид",
+        "item_id": 525
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+12",
+        "buy_price": 8500000,
+        "sell_price": 10000000,
+        "comment": "Фулл неликвид",
+        "item_id": 526
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+13",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "Фулл неликвид",
+        "item_id": 527
+    },
+    {
+        "item_name": "Культовый бронежилет (культ) Южный парк",
+        "modifier": "+13 нашивка",
+        "buy_price": 14500000,
+        "sell_price": 16500000,
+        "comment": "Фулл неликвид",
+        "item_id": 528
+    },
+    {
+        "item_name": "Ледяной щит",
+        "modifier": "+12",
+        "buy_price": 1800000,
+        "sell_price": 2300000,
+        "comment": "",
+        "item_id": 529
+    },
+    {
+        "item_name": "Тактический бронежилет",
+        "modifier": "сток",
+        "buy_price": 900000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 530
+    },
+    {
+        "item_name": "Генеральный бронежилет (бронежилет генерала)",
+        "modifier": "сток",
+        "buy_price": 38000000,
+        "sell_price": 45000000,
+        "comment": "",
+        "item_id": 531
+    },
+    {
+        "item_name": "Дополнение ВИП АДД",
+        "modifier": "30 дней",
+        "buy_price": 1400000,
+        "sell_price": 1800000,
+        "comment": "",
+        "item_id": 532
+    },
+    {
+        "item_name": "Дополнение ВИП АДД",
+        "modifier": "Forever Навсегда",
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 533
+    },
+    {
+        "item_name": "Именное поместье",
+        "modifier": null,
+        "buy_price": 12000000,
+        "sell_price": 14000000,
+        "comment": "",
+        "item_id": 534
+    },
+    {
+        "item_name": "Майнер материи",
+        "modifier": null,
+        "buy_price": 22000000,
+        "sell_price": 25000000,
+        "comment": "",
+        "item_id": 535
+    },
+    {
+        "item_name": "Улучшение нефтевышек",
+        "modifier": null,
+        "buy_price": 2300000,
+        "sell_price": 2800000,
+        "comment": "",
+        "item_id": 536
+    },
+    {
+        "item_name": "Сертификат на доставку бочек",
+        "modifier": null,
+        "buy_price": 2300000,
+        "sell_price": 2800000,
+        "comment": "",
+        "item_id": 537
+    },
+    {
+        "item_name": "Админ зарплата АЗП Адм зп",
+        "modifier": null,
+        "buy_price": 1100,
+        "sell_price": 1400,
+        "comment": "",
+        "item_id": 538
+    },
+    {
+        "item_name": "Магическая рулетка (маг рулетка)",
+        "modifier": null,
+        "buy_price": 20000000,
+        "sell_price": 25000000,
+        "comment": "",
+        "item_id": 539
+    },
+    {
+        "item_name": "Рулетка 10-ти летия (десятилетия)",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 350000,
+        "comment": "",
+        "item_id": 540
+    },
+    {
+        "item_name": "Ларец лидера",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 541
+    },
+    {
+        "item_name": "Запечатанный сертификат авто",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 3700000,
+        "comment": "",
+        "item_id": 542
+    },
+    {
+        "item_name": "Ящик рыболова",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1200000,
+        "comment": "",
+        "item_id": 543
+    },
+    {
+        "item_name": "Серебряный кейс",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "comment": "",
+        "item_id": 544
+    },
+    {
+        "item_name": "Золотой кейс",
+        "modifier": null,
+        "buy_price": 550000,
+        "sell_price": 700000,
+        "comment": "",
+        "item_id": 545
+    },
+    {
+        "item_name": "Платиновый кейс",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 546
+    },
+    {
+        "item_name": "Секретный ящик",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 600000,
+        "comment": "",
+        "item_id": 547
+    },
+    {
+        "item_name": "Платиновый ящик",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 548
+    },
+    {
+        "item_name": "Осколок супер заточки +13",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 750000,
+        "comment": "",
+        "item_id": 549
+    },
+    {
+        "item_name": "Осколок щита капитана америки КА",
+        "modifier": null,
+        "buy_price": 1100000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 550
+    },
+    {
+        "item_name": "Осколок шлема железного человека ЖЧ",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 551
+    },
+    {
+        "item_name": "Осколок руки таноса",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1700000,
+        "comment": "",
+        "item_id": 552
+    },
+    {
+        "item_name": "Осколок русского боевого топора РБТ",
+        "modifier": null,
+        "buy_price": 1100000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 553
+    },
+    {
+        "item_name": "Осколок молота тора",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 554
+    },
+    {
+        "item_name": "Осколок супер лопаты",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 400000,
+        "comment": "",
+        "item_id": 555
+    },
+    {
+        "item_name": "Осколок энергощита",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10500000,
+        "comment": "",
+        "item_id": 556
+    },
+    {
+        "item_name": "Извлекатель нашивки",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "comment": "",
+        "item_id": 557
+    },
+    {
+        "item_name": "Осколок цепи энергомахинатора (энергомахи)",
+        "modifier": null,
+        "buy_price": 12500000,
+        "sell_price": 14500000,
+        "comment": "",
+        "item_id": 558
+    },
+    {
+        "item_name": "Осколок читерского кловера",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 559
+    },
+    {
+        "item_name": "Осколок тайника собирателя",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 560
+    },
+    {
+        "item_name": "Осколок секретной машины",
+        "modifier": null,
+        "buy_price": 17000,
+        "sell_price": 25000,
+        "comment": "",
+        "item_id": 561
+    },
+    {
+        "item_name": "Платиновый осколок машины",
+        "modifier": null,
+        "buy_price": 150000,
+        "sell_price": 200000,
+        "comment": "",
+        "item_id": 562
+    },
+    {
+        "item_name": "Осколок портальной пушки",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "comment": "",
+        "item_id": 563
+    },
+    {
+        "item_name": "Удилище 10 лвл",
+        "modifier": null,
+        "buy_price": 2800000,
+        "sell_price": 3300000,
+        "comment": "",
+        "item_id": 564
+    },
+    {
+        "item_name": "Эхолот",
+        "modifier": null,
+        "buy_price": 350000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 565
+    },
+    {
+        "item_name": "Шипастый щит (Охранник)",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 566
+    },
+    {
+        "item_name": "Анимированные часы (Охранник)",
+        "modifier": null,
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 567
+    },
+    {
+        "item_name": "Анимированный огененный глаз (Охранник)",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 568
+    },
+    {
+        "item_name": "Шипованный обруч (Охранник)",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 569
+    },
+    {
+        "item_name": "Маска Муэрты (Охранник)",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 5000000,
+        "comment": "",
+        "item_id": 570
+    },
+    {
+        "item_name": "Современная карта кладов",
+        "modifier": "1 LVL",
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 571
+    },
+    {
+        "item_name": "Современная карта кладов (2 лвл)",
+        "modifier": "2 LVL",
+        "buy_price": 10000000,
+        "sell_price": 12000000,
+        "comment": "0",
+        "item_id": 572
+    },
+    {
+        "item_name": "Современная карта кладов (3 лвл)",
+        "modifier": "3 LVL",
+        "buy_price": 15000000,
+        "sell_price": 18000000,
+        "comment": "",
+        "item_id": 573
+    },
+    {
+        "item_name": "Восстановленная карта кладов",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 500000,
+        "comment": "",
+        "item_id": 574
+    },
+    {
+        "item_name": "Шкатулка кладоискателя",
+        "modifier": null,
+        "buy_price": 11000000,
+        "sell_price": 12500000,
+        "comment": "",
+        "item_id": 575
+    },
+    {
+        "item_name": "Грядка лён (лен)",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2200000,
+        "comment": "",
+        "item_id": 576
+    },
+    {
+        "item_name": "Грядка хлопок",
+        "modifier": null,
+        "buy_price": 1100000,
+        "sell_price": 1600000,
+        "comment": "",
+        "item_id": 577
+    },
+    {
+        "item_name": "Грядка укроп",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 578
+    },
+    {
+        "item_name": "Охранник обычный",
+        "modifier": null,
+        "buy_price": 150000,
+        "sell_price": 250000,
+        "comment": "",
+        "item_id": 579
+    },
+    {
+        "item_name": "Охранник редкий",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 300000,
+        "comment": "",
+        "item_id": 580
+    },
+    {
+        "item_name": "Охранник уникальный",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 450000,
+        "comment": "",
+        "item_id": 581
+    },
+    {
+        "item_name": "Охранник Скуби Ду БП",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 582
+    },
+    {
+        "item_name": "Охранник Осёл (Осел)",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 583
+    },
+    {
+        "item_name": "Охранник Эли (60к АЗ)",
+        "modifier": null,
+        "buy_price": 23000000,
+        "sell_price": 27000000,
+        "comment": "",
+        "item_id": 584
+    },
+    {
+        "item_name": "Охранник Скуби Ду (60к АЗ)",
+        "modifier": null,
+        "buy_price": 23000000,
+        "sell_price": 27000000,
+        "comment": "",
+        "item_id": 585
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА)",
+        "modifier": null,
+        "buy_price": 1200000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 586
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА) 2 лвл",
+        "modifier": "2 LVL",
+        "buy_price": 2200000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 587
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА) 3 лвл",
+        "modifier": "3 LVL",
+        "buy_price": 8000000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 588
+    },
+    {
+        "item_name": "Сироп характеристик актера (ХА) 4 лвл",
+        "modifier": "4 LVL",
+        "buy_price": 23000000,
+        "sell_price": 30000000,
+        "comment": "",
+        "item_id": 589
+    },
+    {
+        "item_name": "Наемный фермер (Наёмный фермер)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 16000000,
+        "comment": "",
+        "item_id": 590
+    },
+    {
+        "item_name": "Охранник Браян (пес из Гриффинов)",
+        "modifier": null,
+        "buy_price": 5000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 591
+    },
+    {
+        "item_name": "Охранник Роджер (пришелец из Американского папаши)",
+        "modifier": null,
+        "buy_price": 5000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 592
+    },
+    {
+        "item_name": "Охранник макака (обезъяна)",
+        "modifier": null,
+        "buy_price": 6000000,
+        "sell_price": 7500000,
+        "comment": "",
+        "item_id": 593
+    },
+    {
+        "item_name": "х3 магазин узи",
+        "modifier": null,
+        "buy_price": 3300000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 594
+    },
+    {
+        "item_name": "х3 магазин Мак 10",
+        "modifier": null,
+        "buy_price": 3300000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 595
+    },
+    {
+        "item_name": "х3 магазин Обрез",
+        "modifier": null,
+        "buy_price": 3300000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 596
+    },
+    {
+        "item_name": "х3 магазин М4",
+        "modifier": null,
+        "buy_price": 650000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 597
+    },
+    {
+        "item_name": "х3 магазин Тек 9",
+        "modifier": null,
+        "buy_price": 150000,
+        "sell_price": 300000,
+        "comment": "",
+        "item_id": 598
+    },
+    {
+        "item_name": "х3 магазин МП 5",
+        "modifier": null,
+        "buy_price": 50000,
+        "sell_price": 150000,
+        "comment": "",
+        "item_id": 599
+    },
+    {
+        "item_name": "Все навыки стрельбы ",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 400000,
+        "comment": "",
+        "item_id": 600
+    },
+    {
+        "item_name": "Тедди красный (модификация)",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 4800000,
+        "comment": "",
+        "item_id": 601
+    },
+    {
+        "item_name": "Тедди бирюзовый (модификация)",
+        "modifier": null,
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "comment": "",
+        "item_id": 602
+    },
+    {
+        "item_name": "Тедди зеленый (модификация)",
+        "modifier": null,
+        "buy_price": 6500000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 603
+    },
+    {
+        "item_name": "Патрик (модификация)",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 700000,
+        "comment": "",
+        "item_id": 604
+    },
+    {
+        "item_name": "Губка Боб (модификация)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 605
+    },
+    {
+        "item_name": "НФТ контейнер обычный",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 606
+    },
+    {
+        "item_name": "НФТ контейнер средний",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 10500000,
+        "comment": "",
+        "item_id": 607
+    },
+    {
+        "item_name": "Гоблинский контейнер",
+        "modifier": null,
+        "buy_price": 8500000,
+        "sell_price": 9500000,
+        "comment": "",
+        "item_id": 608
+    },
+    {
+        "item_name": "Премиум контейнер",
+        "modifier": null,
+        "buy_price": 20000000,
+        "sell_price": 23000000,
+        "comment": "",
+        "item_id": 609
+    },
+    {
+        "item_name": "Тайник Вайс Сити (ВС)",
+        "modifier": null,
+        "buy_price": 5500000,
+        "sell_price": 6500000,
+        "comment": "",
+        "item_id": 610
+    },
+    {
+        "item_name": "Тайник собирателя",
+        "modifier": null,
+        "buy_price": 7500000,
+        "sell_price": 9000000,
+        "comment": "",
+        "item_id": 611
+    },
+    {
+        "item_name": "Заточка +13 (10к АЗ) ",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 612
+    },
+    {
+        "item_name": "Нашивка +3 дефф",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1700000,
+        "comment": "",
+        "item_id": 613
+    },
+    {
+        "item_name": "Нашивка +3 урон",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1700000,
+        "comment": "",
+        "item_id": 614
+    },
+    {
+        "item_name": "Нашивка бег СЖ",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 15500000,
+        "comment": "",
+        "item_id": 615
+    },
+    {
+        "item_name": "Нашивка рыбалка",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 616
+    },
+    {
+        "item_name": "Нашивка огненные пули",
+        "modifier": null,
+        "buy_price": 8000000,
+        "sell_price": 9500000,
+        "comment": "",
+        "item_id": 617
+    },
+    {
+        "item_name": "Нашивка защитная пластина",
+        "modifier": null,
+        "buy_price": 5500000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 618
+    },
+    {
+        "item_name": "Нашивка бесконечный бег",
+        "modifier": null,
+        "buy_price": 11000000,
+        "sell_price": 13000000,
+        "comment": "",
+        "item_id": 619
+    },
+    {
+        "item_name": "Нашивка на бронежилет",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 620
+    },
+    {
+        "item_name": "Нашивка на чемодан",
+        "modifier": null,
+        "buy_price": 7000000,
+        "sell_price": 8000000,
+        "comment": "",
+        "item_id": 621
+    },
+    {
+        "item_name": "Нашивка на опыт БП",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 622
+    },
+    {
+        "item_name": "Твин Турбо (ТТ) 2 лвл",
+        "modifier": null,
+        "buy_price": 3200000,
+        "sell_price": 3800000,
+        "comment": "",
+        "item_id": 623
+    },
+    {
+        "item_name": "Бак 60 литров",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 750000,
+        "comment": "",
+        "item_id": 624
+    },
+    {
+        "item_name": "Бак 90 литров",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 625
+    },
+    {
+        "item_name": "Бак 160 литров",
+        "modifier": null,
+        "buy_price": 2700000,
+        "sell_price": 3300000,
+        "comment": "",
+        "item_id": 626
+    },
+    {
+        "item_name": "Ковш",
+        "modifier": null,
+        "buy_price": 800000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 627
+    },
+    {
+        "item_name": "Кенгурятник мародера",
+        "modifier": null,
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 628
+    },
+    {
+        "item_name": "Кенгурятник зомби апокалипсис",
+        "modifier": null,
+        "buy_price": 2200000,
+        "sell_price": 2700000,
+        "comment": "",
+        "item_id": 629
+    },
+    {
+        "item_name": "Шашка такси (желтая)",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "comment": "",
+        "item_id": 630
+    },
+    {
+        "item_name": "Кенгурятник ретро",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2100000,
+        "comment": "",
+        "item_id": 631
+    },
+    {
+        "item_name": "Кенгурятник промышленный",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 2700000,
+        "comment": "",
+        "item_id": 632
+    },
+    {
+        "item_name": "Кенгурятник метельник",
+        "modifier": null,
+        "buy_price": 2500000,
+        "sell_price": 3200000,
+        "comment": "",
+        "item_id": 633
+    },
+    {
+        "item_name": "Шашка такси (черная 1)",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 634
+    },
+    {
+        "item_name": "Шашка такси (черная 2)",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "comment": "",
+        "item_id": 635
+    },
+    {
+        "item_name": "Шашка такси (белая)",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 636
+    },
+    {
+        "item_name": "Подиум",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 400000,
+        "comment": "",
+        "item_id": 637
+    },
+    {
+        "item_name": "Красное нитро",
+        "modifier": null,
+        "buy_price": 18000000,
+        "sell_price": 22000000,
+        "comment": "",
+        "item_id": 638
+    },
+    {
+        "item_name": "Багажник с лебедкой",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 639
+    },
+    {
+        "item_name": "Мидас (рыболов)",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 3750000,
+        "comment": "",
+        "item_id": 640
+    },
+    {
+        "item_name": "Годжо Сатору (Бег СЖ)",
+        "modifier": null,
+        "buy_price": 21000000,
+        "sell_price": 25000000,
+        "comment": "",
+        "item_id": 641
+    },
+    {
+        "item_name": "Годжо Сатору (Бег СЖ + Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 30000000,
+        "sell_price": 35000000,
+        "comment": "",
+        "item_id": 642
+    },
+    {
+        "item_name": "Бейп (Бег СЖ)",
+        "modifier": null,
+        "buy_price": 18000000,
+        "sell_price": 22000000,
+        "comment": "",
+        "item_id": 643
+    },
+    {
+        "item_name": "Бейп (Бег СЖ + Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 25000000,
+        "sell_price": 30000000,
+        "comment": "",
+        "item_id": 644
+    },
+    {
+        "item_name": "Бейп (Бег СЖ + Огненные пули)",
+        "modifier": null,
+        "buy_price": 22000000,
+        "sell_price": 27000000,
+        "comment": "",
+        "item_id": 645
+    },
+    {
+        "item_name": "Бейп (Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 13000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 646
+    },
+    {
+        "item_name": "Ребекка (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 647
+    },
+    {
+        "item_name": "Венздей (венсдей) (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 648
+    },
+    {
+        "item_name": "Харли Квинн (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 649
+    },
+    {
+        "item_name": "Биг Бейби Тейп (Огненные пули)",
+        "modifier": null,
+        "buy_price": 14000000,
+        "sell_price": 17000000,
+        "comment": "",
+        "item_id": 650
+    },
+    {
+        "item_name": "Ребекка (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "comment": "",
+        "item_id": 651
+    },
+    {
+        "item_name": "Венздей (венсдей) (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "comment": "",
+        "item_id": 652
+    },
+    {
+        "item_name": "Харли Квинн (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "comment": "",
+        "item_id": 653
+    },
+    {
+        "item_name": "Биг Бейби Тейп (Огненные пули + Защитная пластина)",
+        "modifier": null,
+        "buy_price": 19000000,
+        "sell_price": 22000000,
+        "comment": "",
+        "item_id": 654
+    },
+    {
+        "item_name": "Хикка (Бесконечный бег)",
+        "modifier": null,
+        "buy_price": 4500000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 655
+    },
+    {
+        "item_name": "Другие скины за 5.5к АЗ (Опыт БП)",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 656
+    },
+    {
+        "item_name": "Другие скины за 5.5к АЗ (Рыболов) ",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 657
+    },
+    {
+        "item_name": "Другие скины за 5.5к АЗ (Бесконечный бег) ",
+        "modifier": null,
+        "buy_price": 4000000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 658
+    },
+    {
+        "item_name": "Джинкс",
+        "modifier": null,
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "comment": "",
+        "item_id": 659
+    },
+    {
+        "item_name": "Венздей (венсдей) 2022",
+        "modifier": null,
+        "buy_price": 1200000,
+        "sell_price": 1700000,
+        "comment": "",
+        "item_id": 660
+    },
+    {
+        "item_name": "Хикка",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "comment": "",
+        "item_id": 661
+    },
+    {
+        "item_name": "Тайлер Дерден",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 662
+    },
+    {
+        "item_name": "Билли Айлиш",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 663
+    },
+    {
+        "item_name": "Геральд",
+        "modifier": null,
+        "buy_price": 800000,
+        "sell_price": 1200000,
+        "comment": "",
+        "item_id": 664
+    },
+    {
+        "item_name": "Хагрид",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 665
+    },
+    {
+        "item_name": "Джон Сина",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 666
+    },
+    {
+        "item_name": "Доктор Браун",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 667
+    },
+    {
+        "item_name": "Цири",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 668
+    },
+    {
+        "item_name": "Люцифер",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1300000,
+        "comment": "",
+        "item_id": 669
+    },
+    {
+        "item_name": "Аль Пачино",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 670
+    },
+    {
+        "item_name": "Трисс Меригольд",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 671
+    },
+    {
+        "item_name": "Дрилл 536/537",
+        "modifier": null,
+        "buy_price": 850000,
+        "sell_price": 1200000,
+        "comment": "",
+        "item_id": 672
+    },
+    {
+        "item_name": "Дрилл 536/537",
+        "modifier": "+12",
+        "buy_price": 850000,
+        "sell_price": 1200000,
+        "comment": "",
+        "item_id": 673
+    },
+    {
+        "item_name": "Дрилл 538",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "comment": "",
+        "item_id": 674
+    },
+    {
+        "item_name": "Мидас",
+        "modifier": null,
+        "buy_price": 1700000,
+        "sell_price": 2200000,
+        "comment": "",
+        "item_id": 675
+    },
+    {
+        "item_name": "Харли Квинн",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 676
+    },
+    {
+        "item_name": "Венздей (венсдей) 1991",
+        "modifier": null,
+        "buy_price": 8500000,
+        "sell_price": 9500000,
+        "comment": "",
+        "item_id": 677
+    },
+    {
+        "item_name": "Ведьма",
+        "modifier": null,
+        "buy_price": 6500000,
+        "sell_price": 7500000,
+        "comment": "",
+        "item_id": 678
+    },
+    {
+        "item_name": "Ребекка",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10000000,
+        "comment": "",
+        "item_id": 679
+    },
+    {
+        "item_name": "Дэвид Мартинес",
+        "modifier": null,
+        "buy_price": 4500000,
+        "sell_price": 5500000,
+        "comment": "",
+        "item_id": 680
+    },
+    {
+        "item_name": "Биг Бейби Тейп",
+        "modifier": null,
+        "buy_price": 9000000,
+        "sell_price": 10500000,
+        "comment": "",
+        "item_id": 681
+    },
+    {
+        "item_name": "Си Джей",
+        "modifier": null,
+        "buy_price": 500000,
+        "sell_price": 700000,
+        "comment": "",
+        "item_id": 682
+    },
+    {
+        "item_name": "Бейп (любой)",
+        "modifier": null,
+        "buy_price": 9500000,
+        "sell_price": 11000000,
+        "comment": "",
+        "item_id": 683
+    },
+    {
+        "item_name": "Бомж бег СЖ (костюм)",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 684
+    },
+    {
+        "item_name": "Бомж бег СЖ (коробка)",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 685
+    },
+    {
+        "item_name": "Годжо Сатору",
+        "modifier": null,
+        "buy_price": 8500000,
+        "sell_price": 9500000,
+        "comment": "",
+        "item_id": 686
+    },
+    {
+        "item_name": "Алекс Мерсер",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 1100000,
+        "comment": "",
+        "item_id": 687
+    },
+    {
+        "item_name": "Алиса",
+        "modifier": null,
+        "buy_price": 3000000,
+        "sell_price": 4000000,
+        "comment": "",
+        "item_id": 688
+    },
+    {
+        "item_name": "Уолтер Уайт (Волтер Вайт)",
+        "modifier": null,
+        "buy_price": 1500000,
+        "sell_price": 2000000,
+        "comment": "",
+        "item_id": 689
+    },
+    {
+        "item_name": "Дора",
+        "modifier": null,
+        "buy_price": 5000000,
+        "sell_price": 6000000,
+        "comment": "",
+        "item_id": 690
+    },
+    {
+        "item_name": "Аска",
+        "modifier": null,
+        "buy_price": 2200000,
+        "sell_price": 3000000,
+        "comment": "",
+        "item_id": 691
+    },
+    {
+        "item_name": "Fallen Love Ranger",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 692
+    },
+    {
+        "item_name": "Аркейн Ви",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "comment": "",
+        "item_id": 693
+    },
+    {
+        "item_name": "CRZ-8",
+        "modifier": null,
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 694
+    },
+    {
+        "item_name": "Anti Cuddle Sarah",
+        "modifier": null,
+        "buy_price": 10000000,
+        "sell_price": 11500000,
+        "comment": "",
+        "item_id": 695
+    },
+    {
+        "item_name": "Меллстрой (Mellstroy)",
+        "modifier": null,
+        "buy_price": 6000000,
+        "sell_price": 7000000,
+        "comment": "",
+        "item_id": 696
+    },
+    {
+        "item_name": "Хоумлендер",
+        "modifier": null,
+        "buy_price": 90000000,
+        "sell_price": 105000000,
+        "comment": "",
+        "item_id": 697
+    },
+    {
+        "item_name": "Маршмеллоу",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 698
+    },
+    {
+        "item_name": "Люси",
+        "modifier": null,
+        "buy_price": 800000,
+        "sell_price": 1200000,
+        "comment": "",
+        "item_id": 699
+    },
+    {
+        "item_name": "Гуль",
+        "modifier": null,
+        "buy_price": 1300000,
+        "sell_price": 1800000,
+        "comment": "",
+        "item_id": 700
+    },
+    {
+        "item_name": "Гига кот",
+        "modifier": null,
+        "buy_price": 2800000,
+        "sell_price": 3500000,
+        "comment": "",
+        "item_id": 701
+    },
+    {
+        "item_name": "Мистер Бист",
+        "modifier": null,
+        "buy_price": 600000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 702
+    },
+    {
+        "item_name": "Павел Дуров (лимитка)",
+        "modifier": null,
+        "buy_price": 3500000,
+        "sell_price": 4500000,
+        "comment": "",
+        "item_id": 703
+    },
+    {
+        "item_name": "Гослинг Шейх",
+        "modifier": null,
+        "buy_price": 1800000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 704
+    },
+    {
+        "item_name": "Ися",
+        "modifier": null,
+        "buy_price": 250000,
+        "sell_price": 450000,
+        "comment": "",
+        "item_id": 705
+    },
+    {
+        "item_name": "Хиток",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "comment": "",
+        "item_id": 706
+    },
+    {
+        "item_name": "Ричи",
+        "modifier": null,
+        "buy_price": 200000,
+        "sell_price": 350000,
+        "comment": "",
+        "item_id": 707
+    },
+    {
+        "item_name": "Конор Военный",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 708
+    },
+    {
+        "item_name": "Катсу",
+        "modifier": null,
+        "buy_price": 300000,
+        "sell_price": 500000,
+        "comment": "",
+        "item_id": 709
+    },
+    {
+        "item_name": "Гена Букин",
+        "modifier": null,
+        "buy_price": 700000,
+        "sell_price": 1200000,
+        "comment": "",
+        "item_id": 710
+    },
+    {
+        "item_name": "Сэм Мейсон Военный",
+        "modifier": null,
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 711
+    },
+    {
+        "item_name": "Фенни Лирст",
+        "modifier": null,
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 712
+    },
+    {
+        "item_name": "Гоуст",
+        "modifier": null,
+        "buy_price": 2000000,
+        "sell_price": 2500000,
+        "comment": "",
+        "item_id": 713
+    },
+    {
+        "item_name": "Видеокарта (BTC)",
+        "modifier": "5 LVL (лвл)",
+        "buy_price": 230000,
+        "sell_price": 300000,
+        "comment": "",
+        "item_id": 714
+    },
+    {
+        "item_name": "Видеокарта (BTC)",
+        "modifier": "6 LVL (лвл)",
+        "buy_price": 270000,
+        "sell_price": 400000,
+        "comment": "",
+        "item_id": 715
+    },
+    {
+        "item_name": "Видеокарта (BTC)",
+        "modifier": "7 LVL (лвл)",
+        "buy_price": 400000,
+        "sell_price": 550000,
+        "comment": "",
+        "item_id": 716
+    },
+    {
+        "item_name": "Видеокарта (BTC)",
+        "modifier": "8 LVL (лвл)",
+        "buy_price": 550000,
+        "sell_price": 750000,
+        "comment": "",
+        "item_id": 717
+    },
+    {
+        "item_name": "Видеокарта (BTC)",
+        "modifier": "9 LVL (лвл)",
+        "buy_price": 800000,
+        "sell_price": 1000000,
+        "comment": "",
+        "item_id": 718
+    },
+    {
+        "item_name": "Видеокарта (BTC)",
+        "modifier": "10 LVL (лвл)",
+        "buy_price": 1000000,
+        "sell_price": 1500000,
+        "comment": "",
+        "item_id": 719
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "5 LVL (лвл)",
+        "buy_price": 50000,
+        "sell_price": 100000,
+        "comment": "",
+        "item_id": 720
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "6 LVL (лвл)",
+        "buy_price": 75000,
+        "sell_price": 150000,
+        "comment": "",
+        "item_id": 721
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "7 LVL (лвл)",
+        "buy_price": 175000,
+        "sell_price": 250000,
+        "comment": "",
+        "item_id": 722
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "8 LVL (лвл)",
+        "buy_price": 200000,
+        "sell_price": 400000,
+        "comment": "",
+        "item_id": 723
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "9 LVL (лвл)",
+        "buy_price": 450000,
+        "sell_price": 600000,
+        "comment": "",
+        "item_id": 724
+    },
+    {
+        "item_name": "Видеокарта (АСК)",
+        "modifier": "10 LVL (лвл)",
+        "buy_price": 650000,
+        "sell_price": 800000,
+        "comment": "",
+        "item_id": 725
+    }
+]
