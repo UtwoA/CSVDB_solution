@@ -5704,7 +5704,7 @@
         "item_id": 713
     },
     {
-        "item_name": "Видеокарта (биткоин)",
+        "item_name": "Видеокарта (BTC)",
         "modifier": "5 LVL (лвл)",
         "buy_price": 230000,
         "sell_price": 300000,
@@ -5712,7 +5712,7 @@
         "item_id": 714
     },
     {
-        "item_name": "Видеокарта (биткоин)",
+        "item_name": "Видеокарта (BTC)",
         "modifier": "6 LVL (лвл)",
         "buy_price": 270000,
         "sell_price": 400000,
@@ -5720,7 +5720,7 @@
         "item_id": 715
     },
     {
-        "item_name": "Видеокарта (биткоин)",
+        "item_name": "Видеокарта (BTC)",
         "modifier": "7 LVL (лвл)",
         "buy_price": 400000,
         "sell_price": 550000,
@@ -5728,7 +5728,7 @@
         "item_id": 716
     },
     {
-        "item_name": "Видеокарта (биткоин)",
+        "item_name": "Видеокарта (BTC)",
         "modifier": "8 LVL (лвл)",
         "buy_price": 550000,
         "sell_price": 750000,
@@ -5736,7 +5736,7 @@
         "item_id": 717
     },
     {
-        "item_name": "Видеокарта (биткоин)",
+        "item_name": "Видеокарта (BTC)",
         "modifier": "9 LVL (лвл)",
         "buy_price": 800000,
         "sell_price": 1000000,
@@ -5744,7 +5744,7 @@
         "item_id": 718
     },
     {
-        "item_name": "Видеокарта (биткоин)",
+        "item_name": "Видеокарта (BTC)",
         "modifier": "10 LVL (лвл)",
         "buy_price": 1000000,
         "sell_price": 1500000,
